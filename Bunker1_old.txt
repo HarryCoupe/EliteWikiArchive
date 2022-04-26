@@ -1,0 +1,107 @@
+<!-- -->
+'''Bunker 1''' (Part ii of Mission 2: Servernaya) is the fifth level in [[GoldenEye 007]].
+
+{|class="wikitable" style="float:right;"
+!colspan="3"|Bunker 1
+|-
+| colspan="3" style="text-align: center;"| [[Image:Bunker1.png|150px]]
+|-
+|}
+
+== Overview ==
+
+Bond must take a picture of the big screen and then escape. Secret Agent and higher difficulties have more complex objectives. The Agent difficulty might benefit from [[Quick Pause|quick pausing]].
+
+== Objectives ==
+
+=== Agent ===
+
+; a. Copy Goldeneye key and leave original
+; b. Photograph main video screen
+
+=== Secret Agent ===
+
+; a. Disrupt all surveillance equipment
+: All 4 security cameras must be destroyed.
+; b. Copy Goldeneye key and leave original
+; c. Photograph main video screen
+
+=== 00 Agent ===
+
+; a. Disrupt all surveillance equipment
+; b. Copy Goldeneye key and leave original
+; c. Get personnel to activate computer
+: Boris must be activated in the main room. He will begin slowly walking to the mainframe room. Bond must remain within Boris radius or he will run away.
+; d. Download data from computer
+: The data thief must be selected from the pause menu and used on the mainframe after Boris has activated it. You do not need to wait for the data to finish downloading before leaving.
+; e. Photograph main video screen
+
+== Facts ==
+
+=== Boris ===
+
+Boris has a chance to walk (probably) or run (hopefully) to the mainframe room. See the [[Boris#Bunker 1|Boris]] page for technical details.
+
+== Strategies ==
+
+=== Standard 1.2 Agent ===
+
+Do the second pause in front of the guards, and hope to get boosted through. Throw away key at top of stairs, press B, run into crack, warp by means of the automatic weapon switch. This won't get you insane warps but sufficiently fast ones.
+<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=21944.msg451010#msg451010|title=the-elite forum post "Post Runs For Critique Here!"|author=OHMSS|access-date=July 19, 2021}}</ref>
+
+== Tutorials ==
+
+=== Agent ===
+
+; General Tips
+
+* Start in right strafe but turn to the left immediately<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=21944.msg451010#msg451010|title=the-elite forum post "Post Runs For Critique Here!"|author=OHMSS|access-date=July 19, 2021}}</ref>.
+
+* Make sure you don't lose some time by a slow pause trick. You have to keep it fast or else you lose the time gained from the faster pauses later anyway. If you press start too quickly though, the second press won't register, so you have to get a feel for the sweetspot timing. The timesave is worth learning<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=21944.msg451839#msg451839|title=the-elite forum post "Post Runs For Critique Here!"|author=Icy|access-date=July 19, 2021}}</ref>.
+
+* Before the stairs, you generally want at least 2:0 since those are the most common boosts and you need a bunch for 0:17 pace. 1:0 runs aren't really worth playing out when going for 0:17
+
+* Make sure your lines are tight in the big room. Despite there only being like 9 seconds of actual gameplay and a lot of time saved is based around boosts, you still need to keep your movement smooth. It's what turns a 10 hour WR into a 100 hour WR if you're bumping walls and moving indirectly to the glass door. Players get stuck on the staircases a lot in particular.
+
+* Warping to unarmed is better because unarmed coming out creates more lag than other guns. Either select unarmed before the key analyzer so that you warp straight to unarmed when you throw, or throw the key early and warp from pp7 to unarmed<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=21944.msg456686#msg456686|title=the-elite forum post "Post Runs For Critique Here!"|author=mw|access-date=July 19, 2021}}</ref>.
+
+; Tutorials
+
+* [[Goldeneye 007 Tutorial: Bunker 1 Agent|Bunker 1 Agent]]
+* [https://www.youtube.com/watch?v=ZV4vnayTpKg video tutorial target 0:17 by Wodahs]
+* Late 2.4 strategy; [https://www.youtube.com/watch?v=Yztq6Q9qrQ8 video tutorial target 0:18 by Cal Brabham]
+
+=== Secret Agent ===
+
+* [[Goldeneye 007 Tutorial: Bunker 1 Secret Agent|Bunker 1 Secret  Agent]]
+
+=== 00 Agent ===
+
+* [[Goldeneye 007 Tutorial: Bunker 1 00 Agent|Bunker 1 00 Agent]]
+
+* [https://www.youtube.com/watch?v=GhQIgl7N5AE video tutorial target 1:02 by Goose]
+
+=== LTK ===
+
+* [[Goldeneye 007 Tutorial: Bunker 1 LTK|Bunker 1 LTK]]
+* Tutorial Video: [https://videos.huzip.net/tutorials/goldeneye/ltk-dltk/Adam-Bozon/annotated/Bucker%201%20LTK%20Tutorial.html - Adam Bozon - Bucker 1 LTK Tutorial (turn captions on)]
+* Tutorial Video: [https://videos.huzip.net/tutorials/perfect-dark/ltk-dltk/Eric-Liikala/annotated/Bunker%201&20LTK%20Tutorial.html - Icy - Bunker 1 LTK Tutorial (turn captions on)]
+
+=== DLTK ===
+
+* [[Goldeneye 007 Tutorial: Bunker 1 DLTK|Bunker 1 DLTK]]
+* Tutorial Video: [https://videos.huzip.net/tutorials/goldeneye/ltk-dltk/Adam-Bozon/annotated/Bucker%201%20LTK%20Tutorial.html - Adam Bozon - Bucker 1 DLTK Tutorial (turn captions on)]
+
+== External Links ==
+
+* [https://rankings.the-elite.net/goldeneye/stage/bunker1 Bunker 1 World Rankings]
+* [https://rankings.the-elite.net/goldeneye/ltk/stage/bunker1 Bunker 1 LTK/DLTK Rankings]
+* [http://thengamer.com/GE/05-Bunker%201/ Bunker 1 Videos]
+
+==References==
+{{Reflist}}
+
+[[Category:GE Strats]]
+[[Category:GoldenEye 007]]
+
+{{Template:GoldenEye 007 solo missions}}
