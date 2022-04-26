@@ -1,0 +1,151 @@
+'''Frigate''' is a complex level requiring tight movement and a sizable amount of luck, particularly with [[WR pace]] routes. The level is mostly made up of short corridors connected by narrow doorways, which are very easy to get stuck on. A good run on the later difficulties has to weave about killing hostage takers and defusing bombs, while coping with moderate to high amounts of lag. The map as a whole is one of the least linear in the game, but is still very compact. It's also unusual in that you start and finish the level in the same place - a small speedboat which is joined to the warship by a ramp. 
+
+{|class="wikitable" style="float:right;"
+!colspan="3"|Frigate
+|-
+| colspan="3" style="text-align: center;"| [[Image:Frigate.png|150px]]
+|-
+!colspan="3"|World Records
+|-
+|}
+
+
+== Objectives ==
+
+=== Common ===
+;Rescue hostages
+: At least 2/4/5 hostages must be released and escape on A/SA/00A respectively. This objective is discussed in detail [[#Objectives|below]].
+;Plant tracking bug on helicopter
+: The tracking bug (a [[gadget]] and [[projectile]]) must be thrown to land on the helicopter. Possible '[[#bug throw|bug throws]]' are also discussed in their own section.
+
+=== SA / 00A only ===
+; Disarm bridge bomb
+: Use the bomb decoder gadget on the bomb by the hostage in the bridge.
+; Disarm engine room bomb
+: As above, but for the bomb on the right catwalk in the engine room.
+
+
+'Rescue hostages' is objective A on all difficulties, and we refer to it as such throughout this page.
+Pressing b on a bomb will active it causing a large explosion, even if you have the bomb decoder equipped. 
+
+== Map ==
+
+[[File:MAP_FRIGATE_deck_and_upstairs.png|495px|left]]
+[[File:MAP_FRIGATE_midships.png|378px]]
+[[File:MAP_FRIGATE_lower_deck.png|378px]]
+[[File:MAP_FRIGATE_engine_room.png|300px]]
+
+<br clear=all>
+
+Notable features:
+* The 4 hostage escape ''areas'' are highlighted in green. Hostages can also escape at the 2 rearmost pads on the ship, but only while unloaded.
+* Hostage paths are shown in blue. They will take a decent shortcut across the front of the ship if loaded.
+* 'The pipes' which you can warp through.
+* The helicopter at the rear of the ship, which you must attach the tracking bug to. 
+* The bridge and engine room bombs are in red.
+* There are 2 body armours: one upstairs near the bridge, and one inside the indestructible box near the pipes.
+
+== Hostages ==
+
+Since objective A is so fundamental to all difficulties of frigate, it is worth having a thorough understanding of the hostages' logic.
+
+Each hostage is released when their hostage taker finishes [[fading out]]: As such the taker's [[Death Animation|death animation]] is very relevant. You must also injure the taker in time to prevent them from executing their hostage - see [[#Hostage takers|below]] for more detail. When they are released are you will always see a <code>"Hostage released!"</code> appear on screen.
+
+At this point, the hostage '''randomly selects an escape point'''. There are 6 possible spots on the deck of the ship: 5 have a 15.6% chance of being selected, and the last has a 21.9% chance. Frigate has very poor [[pathing]], and so the (fixed) routes are far from optimal. In particular the '00a hostage' always goes right around the engine room, rather than up the stairs and through the roller door, or around the back. Moreover, all 3 lower hostages go through the 'boxes room' rather than shortcutting through the doorway.
+
+Despite the variety of hostage start positions, the order of escape points by speed is identical for all hostages.
+
+Hostages will reselect their escape point if a bullet passes near them after they've been released, and due to a [[scripting bug]] their choice is severely biased. See ?? for more detail on this.
+
+Famously, this objective A can complete during the 1 second fade out before the level ends properly. The [[Time not saved|TNS glitch]] applies to objective A on NTSC-U, giving 1 extra frame that it can complete in.  
+
+The largest factor affecting "Hostage odds", i.e. whether the hostage will escape in time or not, is their journey to the escape point. In particular if they reach the end of an [[Guard movement#reloading|segment unloaded]], and have to reload at the start because another NPC occupied the target.
+
+== Tech ==
+
+;Bug throw
+: The bug is a standard [[projectile]] and so can be thrown or even [[leaned]]. The helicopter's [[room]] must be loaded when the bug lands (though not necessarily during its flight), else the bug will stick to the bounding box / go straight through the helicopter - neither will complete the objective. In particular, the bug can be thrown from the door to the upper hostages on the starboard side of the ship. See [[Bug throw (Frigate)]] for more detail.
+
+;Pipe warp
+: An essential warp for most SA / 00A routes, and one which will always feature in the WRs. It opens up a much faster route from the engine room bomb to the bridge, and coupled with the bug throw above allows runners to avoid the stern (helicopter end) of the ship altogether. Warping in the opposite direction, from the boxes room to the stairs, is referred to as the 'reverse pipe warp'. 
+
+;Bridge hostage early escape
+: The bridge hostage always runs through the central corridor towards the middle of the ship. If he's selected the best escape point then he'll actually escape as he passes through his 2nd door (whether loaded or unloaded). On SA/00A, nearly all routes will leave the bridge until last, killing the taker and pausing to defuse the bomb. This allows more time for the other hostages to escape.
+
+== Constraints ==
+
+;Hostages escaping
+: Once hostages are in range of their escape points, they check to see if they have a line of sight on Bond. If so, they reselect an escape point (without [[??|bias]]). This is a issue on the SA / 00A routes particularly when heading to the ramp at the end of the level. 
+
+;Stern escape points
+: Hostages can only escape at either of the 2 points by the helicopter if they are [[Guard movement#unloaded|unloaded]]. Otherwise they'll choose another escape point when they arrive. This is because the escape point is actually way up in the air.
+
+
+== Strategies ==
+
+=== Overview ===
+
+* Health is not much of an issue on any difficulty, though on SA / 00A you can die to an exploding engine room bomb console - shot by the guards. There is body armour in the central corridor and in a box in the boxes room.
+* Strong auto-aim is very useful for killing hostages takers on SA / 00A, and so [[NTSC-J]] is generally preferred.
+
+=== Agent ===
+
+;[[Frigate Agent Reverse Hostages Strategy|Reverse hostages]]
+: As in the naive strategy below, but the hostages are taken out in the opposite order. This was truely exposed in [[TASpap]], with 13 runners getting 23s, and [https://rankings.the-elite.net/~Perfect+Ace/time/264143 Perfect Ace] quickly got 22 a couple of months later. The hostage odds are vastly improved, and have been verified as around 1 in 50.
+;[[Frigate Agent 2.3 Strategy]]
+: Control style 2.3 is used to kill the bridge hostage taker during the [[1st cinema]]. This allows for a shorter route (staying in the corridor) and, when performed correctly, guarantees a clean route for the other hostage to escape fast. As such it has optimally consistent hostages, but only on legit runs which require a lot of luck in themselves.
+;[[Frigate Agent 1.2 Standard Strategy|Naive 1.2]]
+:Staying on the starboard side of the ship, the 2 upper hostages' takers are killed in the order they are met. The bug is then thrown from just back in the corridor, and we run to the end. This was always the standard way to play the level but has been superceded by reverse hostages.
+ 
+=== Secret Agent ===
+
+;[[Frigate SA Standard Strategy|Standard route]]
+: As old as the pipe warp, this route does the bug throw first and then releases the 2 upstairs hostages, who should both complete very consistently. Downstairs, it releases the fastest hostage before defusing the engine room bomb. From here it heads directly to the bridge via the pipe warp, freeing the hostage there and defusing the bomb.
+
+; "PAL strat" / BBBT & bug-lean
+This strategy is new and has only been performed on practise rom, such as in this [https://www.youtube.com/watch?v=GDssAvTIVzs 1:00 run]. It combines a PAL r-lean of the bug at the end of the stage with 'Bridge bomb before taker' where the pipes are warped using sharp lookup (or via an [[R-warp]]) while keeping the bomb equipped, defusing both bombs with one pause. With a sum-of-best splits coming in at 52.90, this strat has the strongest untied potential and is vastly preferable to 2.3 / reverse pipe warp ideas. Although possible on NTSC, landing the bug is far more precise, and harder to set up, so doesn't seem sensible.
+
+=== 00A Agent ===
+
+; [[Frigate 00A Slowest Hostage Strategy|Slowest Hostage]]
+: This route crosses the deck of the ship immediately, to head downstairs at the earliest opportunity. It releases the 'SA hostage' and then the 'slowest hostage' who loops around the engine room before heading up. This gives him just about enough time to escape: He must choose the best escape spot but on top of this you'll need very good luck for him to make good progress and escape in time.
+
+; [[Frigate 00A Engine room strategy|Engine room route]]
+: As above, this heads downstairs immediately, but after releasing the 'SA hostage' you double back and head down into the engine room. This hostage has less far to travel to escape compared to the slowest hostage, so completions will be more common. Loop around the engine to defuse the bomb before continuing with the route as above.
+
+; [[Frigate 00A Double Pipe Warp Strategy|Double pipe warp]]
+: A hypothetical strategy which adapts slowest hostage route by heading directly for the pipes. On the other side the door to the slowest hostage can be opened [[Randy Door|from the stairs]], so the taker can be killed from down the corridor. Then it must free the engine room hostage before continuing with the route as above. This trades a consistent hostage for the engine room one, so will have worse odds. The reverse pipe warp is a lot less laggy so is significantly harder, and the time save is not huge.
+
+; [[Frigate Engine Room Grenade Throw|Engine Room Grenade Throw]]
+: Very much a theoretical strategy. The idea is similar to the 'PAL strat' on SA, but predates it, and broadly follows the same, standard SA route. Skipping the bug throw, the grenade guard from the boxes room is lured out, and he is killed going down the stairs to the mid-ships. The nade is primed and thrown into the engine room to release that hostage - the nade can travel through the obstructing wall and still kill the hostage taker. Then the bug is leaned at the end of the level - again practically requiring PAL. BBBT is not thought to be possible on 00A, since the taker executes the hostage after 2s rather than 2.5s, so a pause could not be skipped with 1.2. 
+
+=== LTK ===
+
+=== DTLK ===
+
+=== Misconceptions ===
+
+;Using 2.3 on 00A.
+:Although the 00A 53 TAS uses control style 2.3, the amount of luck manipulation is completely impractical on console, and it is all to set up doing the grenade throw which is already theoretical. Just using 2.3 to release a hostage would be harder than SA, since you must get the kill in the cutscene, and then you would have to use 2.3 for longer before there's a chance to pause. It wouldn't gain consistency nor speed.
+
+== Detail ==
+
+=== Hostage takers ===
+Hostage takers are found alongside hostages, pointing their D5Ks at their hostage who is surrendering.
+
+Hostage takers are alerted by a [[nearby bullet]], or when they have a [[line of sight]] on Bond. Once alerted, they'll wait 3/2.5/2 seconds on A/SA/00A respectively, before '''commiting''' to executing the hostage. They then wait 5 [[game frames]] before shooting the hostage once in the head with their [[D5K]]. This can be a little frustrating as if you kill a taker very late, he'll execute the hostage during his own death animation.
+
+Once hit (and alerted), the taker abandons his timer and becomes a [[0002 guard|standard guard]] - the hostage is now safe (from the taker at least).
+
+== Trivia ==
+* While loaded, hostages can occassionally run up the stairs into the bridge via the side doors, even opening the locked doors out onto the balconies. They appear to still think they are downstairs, until they redo their routing and take the bridge hostage's route through the central corridor.
+* Hostages can escape while dying, and it will still count towards the total number escaped. However no more than 4/2/1 can be killed on A/SA/00A respectively otherwise Objective A will fail - even if it has already been completed. In a TAS a precisely thrown grenade could be used to propell the final hostage towards his escape point.
+
+
+==References==
+{{Reflist}}
+
+[[Category:GE Strats]]
+[[Category:GoldenEye 007]]
+
+{{Template:GoldenEye 007 solo missions}}
