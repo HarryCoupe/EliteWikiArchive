@@ -1,0 +1,127 @@
+<!-- -->
+'''Runway''' (Part iii of Mission 1: Arkangelsk) is the third level in [[GoldenEye 007]]. This is one of the levels featuring a tank.
+
+{|class="wikitable" style="float:right;"
+!colspan="3"|Runway
+|-
+| colspan="3" style="text-align: center;"| [[Image:Runway.png|150px]]
+|-
+|}
+
+== Objectives ==
+
+=== Agent ===
+; a. Find plane ignition key
+: You must pickup the ignition key from the desk in the guard hut to the left of the starting area.
+; b. Escape in plane
+: Run to the plane and press B to end the level.
+
+=== Secret Agent ===
+; a. Find plane ignition key
+; b. Destroy missile battery
+: This is on top of the tower next to the plane. It requires using a mine, grenade, or the tank to destroy it.
+; c. Escape in plane
+
+=== 00 Agent ===
+; a. Find plane ignition key
+; b. Destroy heavy gun emplacements
+: There are three protected drone guns that must be destroyed using a mine, grenade, or the tank.
+; c. Destroy missile battery
+; d. Escape in plane
+
+== Strategies ==
+
+=== Hut grenade ===
+
+The "last piece of the puzzle" found by Berg during his strategising for the [https://rankings.the-elite.net/~berg/time/206357 agent untied], and measured as saving a surprising 0.10-0.15s on console. Also called "eliminating the hut [[Guards|guards]]", it just involves tossing a grenade very imprecisely in the hut somewhere to kill both of the guards there. This is incredibly free and should be used by all players. <ref>https://forums.the-elite.net/index.php?topic=843.msg464151#msg464151</ref>
+
+The thinking is that these guards spend a significant part of the run aiming at Bond down the entire length of the runway, and the end of the run is already more [[Lag|laggy]] due to explosions and other runway guards. It has always been done on SA out of necessity - these guards regularly blow up the plane - but on agent it was assumed that the extra grenade explosion would just make more lag, and so cost time if anything.
+
+=== Ground grenade ===
+
+Holding the grenade and dropping it on the ground is a common beginner strategy used to self boost.
+
+=== Grenade juggle ===
+
+This involves looking upwards and throwing a grenade in the air. The grenade should travel roughly along your current path and then fall back to the ground and explode enough behind you to give you a boost.
+
+=== Leaned throw ===
+
+The it is possible to eliminate the missile battery and heavy gun emplacements with a grenade using a [[R-Lean|leaned]] throw. This was used to set the 00 Agent world record of 0:28, a 4 second untied at the time when set.
+
+== Technical Details ==
+
+=== Guard ===
+
+5 of the 6 guards along the runway are treated as [[Guards#Spawn Guard|spawn guards]]. The one closest to the plane is a normal guard. These respawn every 2s. Spawn guards are spawned in different places, depending on where you are (just like on Streets and Depot). Spawn guards have an 80 / 256 (31.25%) chance to spawn with 1x Klobb with 40 health, an 80 / 256 (31.25%) chance to spawn with 1x KF7 with 40 health and 10 armor, and a 96 / 256 (37.5%) chance to spawn with 2x Klobb with 40 health and 20 armor. <ref name="function explorer misc facts">{{cite web | url=https://forums.the-elite.net/index.php?topic=18518.msg455830#msg455830|title=the-elite Goldeneye facts topic post on miscellaneous function explorer facts|author=Icy|access-date=July 16, 2021}}</ref>
+
+There are 2 patrolling guards.<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=18518.msg456102#msg456102|title=the-elite forum Goldeneye facts post on guard AI|author=Icy|access-date=July 16, 2021}}</ref>
+
+== Tutorials ==
+
+; General tips
+
+* 2.x [[Control Style]] is favored<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=21944.msg448375#msg448375|title=the-elite forum post "Post Runs For Critique Here!"|author=Grav|access-date=July 19, 2021}}</ref>.
+
+* NTSC is favored over PAL for Agent and Secret Agent 0:22<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=23135.msg461963#msg461963|title=the-elite forum post "Going for runway 22 with 1.2 on PAL. After 1400 23s, i'd like some pointers"|author=Falangen|access-date=July 28, 2021}}</ref>. And on 00A the same general preference exists, but also the [[R-Lean|R-Leaned]] grenades don't go as far on PAL, so the longer lines would lead to direct time loss.
+
+* When using 2.x, let the first cinema play but cut the second cinema immediately. Bond moves forward at the start of it; cutting means you will have to turn less to get the nades and save some time<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=21944.msg450763#msg450763|title=the-elite forum post "Post Runs For Critique Here!"|author=Niiro Kitsune|access-date=July 19, 2021}}</ref>.
+
+* Whether or not you get full strength grenade boosts is mostly out of your control.<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=21944.msg447592#msg447592|title=the-elite forum post "Post Runs For Critique Here!"|author=Icy|access-date=July 19, 2021}}</ref>
+
+* The hut nade should be close to the doorframe for a more direct boost, rather than a semi side-boost. Try to bounce it off the wall.
+
+* Try to get the maximum of the first hut boost because it's the easiest to get the timing right and should be somewhat consistent. Using the full boost momentum is important there, you should turn while getting boosted and end up in the best line possible to the plane<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=21944.msg447607#msg447607|title=the-elite forum post "Post Runs For Critique Here!"|author=vitorr|access-date=July 19, 2021}}</ref>
+
+* Aim left of the key, to be in right strafe by the time you actually pick it up, making for a better line leaving (and no grinding on the table)<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=21944.msg452844#msg452844|title=the-elite forum post "Post Runs For Critique Here!"|author=SGT RAGEQUIT|access-date=July 19, 2021}}</ref>.
+
+* Don't turn towards the plane. The plane's hitbox is a big circle, and once you're inside that circle you can press B to end the level. Turning to face the plane does nothing but make it take longer to get inside the circle<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=21944.msg462153#msg462153|title=the-elite forum post "Post Runs For Critique Here!"|author=mw|access-date=July 19, 2021}}</ref>.
+
+=== Agent ===
+
+* [[Goldeneye 007 Tutorial: Runway Agent|Runway Agent]]
+* [[Goldeneye 007 Tutorial: Runway Agent 21 - The Berg Juggle|Agent 0:21 - The Berg Juggle]]
+
+=== Secret Agent ===
+
+* [[Goldeneye 007 Tutorial: Runway Secret Agent|Runway Secret Agent]]
+
+* [https://www.youtube.com/watch?v=-ssOL4oScoQ video tutorial target 0:25 by Luke]
+* [https://www.youtube.com/watch?v=lRgKTLqIRtU video tutorial target 0:22 by MW]
+
+=== 00 Agent ===
+
+* [[Goldeneye 007 Tutorial: Runway 00 Agent|Runway 00 Agent]]
+
+* R-Taps Strat; [https://www.youtube.com/watch?v=_cPhNFZLjaw video tutorial target 0:31-32 by Grav]
+* "2-tap strategy"; [https://www.youtube.com/watch?v=ZvUMOUf8B8o video tutorial target 0:34-35 by Fletchr]
+* Nade Strat; [https://www.youtube.com/watch?v=3gWHT4alKgA video tutorial target 0:34-36 by Karl]
+* [https://www.youtube.com/watch?v=Df5T1QpQ854 video tutorial target 0:36 by Karl M]
+* Tank Strat; [https://www.youtube.com/watch?v=-9Qup5W2jog video tutorial target 0:38-39 by Spec]
+* Tank-Strat former World Record Video: [https://www.youtube.com/watch?v=4syuOvv2vuI Michael Kirkness - Runway 00 Agent 0:38]
+
+=== LTK ===
+
+* [[Goldeneye 007 Tutorial: Runway LTK|Runway LTK]]
+* Tutorial Video: [https://videos.huzip.net/tutorials/goldeneye/ltk-dltk/Adam-Bozon/annotated/Runway%20LTK%20Tutorial.html - Adam Bozon - Runway LTK Tutorial (turn captions on)]
+* Tutorial Video: [https://videos.huzip.net/tutorials/perfect-dark/ltk-dltk/Eric-Liikala/annotated/Runway%20LTK%20Tutorial.html - Icy - Runway LTK Tutorial (turn captions on)]
+
+=== DLTK ===
+
+* [[Goldeneye 007 Tutorial: Runway DLTK|Runway DLTK]]
+* Tutorial Video: [https://videos.huzip.net/tutorials/goldeneye/ltk-dltk/Adam-Bozon/annotated/Runway%20DLTK%20Tutorial.html - Adam Bozon - Runway DLTK Tutorial (turn captions on)]
+
+== External Links ==
+
+* [https://rankings.the-elite.net/goldeneye/stage/runway Runway World Rankings]
+* [https://rankings.the-elite.net/goldeneye/ltk/stage/runway Runway LTK/DLTK Rankings]
+* [http://thengamer.com/GE/03-Runway/ Runway Videos]
+
+==References==
+{{Reflist}}
+
+[[Category:GE Strats]]
+[[Category:GoldenEye 007]]
+[[Category:Cleanup]]
+
+{{Template:GoldenEye 007 solo missions}}
