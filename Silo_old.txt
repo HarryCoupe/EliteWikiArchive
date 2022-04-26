@@ -1,0 +1,87 @@
+<!-- -->
+'''Silo''' (part i of mission 3: Kirghzistan) is the sixth level in [[GoldenEye 007]]. The formal name for this level is Soviet Missile Launch Silo #4. This level features a countdown timer; all objectives must be cleared and the end of the level reached before the timer elapses. 
+
+{|class="wikitable" style="float:right;"
+!colspan="3"|Silo
+|-
+| colspan="3" style="text-align: center;"| [[Image:Silo.png|150px]]
+|-
+|}
+
+== Overview ==
+
+Bond must make his way to the end of the level before the countdown finishes. It is required to take a picture of the satellite. 00 Agent and higher difficulties must place explosives in the main rooms, and will benefit from [[Pause#Quick Pause|quick pausing]].
+
+There is some variation with how accurately the countdown timer syncs to the [[In-Game_Timer|in-game timer]].
+
+== Objectives ==
+
+=== Agent ===
+
+; a. Photograph satellite
+; b. Minimize scientist casualties
+
+=== Secret Agent ===
+
+; a. Photograph satellite
+; b. Obtain telemetric data
+; c. Retrieve satellite circuitry
+; d. Minimize scientist casualties
+
+=== 00 Agent ===
+
+; a. Plant bombs in fuel rooms
+; b. Photograph satellite
+; c. Obtain telemetric data
+; d. Retrieve satellite circuitry
+; e. Minimize scientist casualties
+
+== Technical Details ==
+
+=== Guards ===
+
+There are 15 [[Guards#Patrolling Guard|patrolling guards]]. <ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=18518.msg456102#msg456102|title=the-elite forum Goldeneye facts post on guard AI|author=Icy|access-date=July 16, 2021}}</ref>
+
+There are 6 guards who are completely inactive until you reach a certain height value, which they are always checking for. Afterwards, they become normal guards. I'm pretty sure these are the ones near Ouromov.
+
+All crate guards are targeting guards.
+
+== Tutorials ==
+
+=== Agent ===
+
+* [[Goldeneye 007 Tutorial: Silo Agent|Silo Agent]]
+
+=== Secret Agent ===
+
+* [[Goldeneye 007 Tutorial: Silo Secret Agent|Silo Secret Agent]]
+
+* [https://www.youtube.com/watch?v=ZclQw7MKVV0 video tutorial target 1:09 by Goose]
+
+=== 00 Agent ===
+
+* [[Goldeneye 007 Tutorial: Silo 00 Agent|Silo 00 Agent]]
+
+=== LTK ===
+
+* [[Goldeneye 007 Tutorial: Silo LTK|Silo LTK]]
+* Tutorial Video: [https://videos.huzip.net/tutorials/goldeneye/ltk-dltk/Adam-Bozon/annotated/Silo%20LTK%20Tutorial.html - Adam Bozon - Silo LTK Tutorial (turn captions on)]
+* Tutorial Video: [https://videos.huzip.net/tutorials/perfect-dark/ltk-dltk/Eric-Liikala/annotated/Silo%20LTK%20Tutorial.html - Icy - Silo LTK Tutorial (turn captions on)]
+
+=== DLTK ===
+
+* [[Goldeneye 007 Tutorial: Silo DLTK|Silo DLTK]]
+
+== External Links ==
+
+* [https://rankings.the-elite.net/goldeneye/stage/silo Silo World Rankings]
+* [https://rankings.the-elite.net/goldeneye/ltk/stage/silo Silo LTK/DLTK Rankings]
+* [http://thengamer.com/GE/06-Silo/ Silo Videos]
+
+==References==
+{{Reflist}}
+
+[[Category:GE Strats]]
+[[Category:GoldenEye 007]]
+
+{{Template:GoldenEye 007 solo missions}}
