@@ -1,0 +1,91 @@
+'''Surface 2''' (Part i of Mission 5: Servernaya) is the eighth level in [[GoldenEye 007]].  Formal name is just plain Surface but because of the existince of another [[Surface 1|Surface level]] it gets an 2 after its name.
+
+{|class="wikitable" style="float:right;"
+!colspan="3"|Surface 2
+|-
+| colspan="3" style="text-align: center;"| [[Image:Surface2.png|150px]]
+|-
+|}
+
+== Objectives ==
+
+=== Agent ===
+
+; a. Break communications link to bunker
+; b. Gain entry to bunker
+
+=== Secret Agent ===
+
+; a. Break communications link to bunker
+; b. Disable Spetznaz support aircraft
+; c. Gain entry to bunker
+
+=== 00 Agent ===
+
+; a. Disrupt all surveillance equipment
+; b. Break communications link to bunker
+; c. Disable Spetznaz support aircraft
+; d. Gain entry to bunker
+
+== Facts ==
+
+=== Grenade odds ===
+
+The grenade odds for spawning guards are commonly misquoted as 11/256 = 4.3% or 1 in 23, but there is a further ~75% RNG roll which brings the odds down to close to 1 in 31. 
+
+=== Radio explosion chance from table ===
+When shooting out the table, sometimes the radios will jump into the air. Depending on the amount of height gained these will fall enough to be damaged for a fast A completion.<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=18518.msg384131#msg384131|title=the-elite facts topic post on fast radio damage|access-date=July 16, 2021}}</ref>
+
+== Strategies ==
+
+=== Leaned mine throw ===
+
+On Agent difficulty, the mine can be thrown from quite far away using a [[R-Lean|leaned]] throw. It goes through the wall like on Control. What gives it the distance is throwing it on the slope. If you time the throw as you go up a slope + the forward momentum, it gets much more air than on a level ground. The timing for the detonation needs to be precise.<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=18518.msg400759#msg400759|title=the-elite facts topic Boss on leaned throw|access-date=July 16, 2021}}</ref>
+== Tutorials ==
+
+* R-Lean timing guide [https://www.youtube.com/watch?v=8vOXh5Lt3zc by Grav]
+* "British Window" strat [https://www.youtube.com/watch?v=ejanNe6eZrA by DynamixDJ]
+
+=== Agent ===
+
+* [[Goldeneye 007 Tutorial: Surface 2 Agent|Surface 2 Agent]]
+
+* [https://www.youtube.com/watch?v=yGV_oMjV7L0 video tutorial target 0:46 by Wodahs]
+* [https://www.youtube.com/watch?v=qqM_rUEigbk video tutorial target 0:47 by Luke]
+
+=== Secret Agent ===
+
+* [[Goldeneye 007 Tutorial: Surface 2 Secret Agent|Surface 2 Secret Agent]]
+
+* [https://www.youtube.com/watch?v=SqvSdQJ06cA video tutorial target 0:49 by Randy]
+
+=== 00 Agent ===
+
+* [[Goldeneye 007 Tutorial: Surface 2 00 Agent|Surface 2 00 Agent]]
+
+* Target Video: [http://www.youtube.com/watch?v=nPGMN3clwas David Clemens - Surface 2 00 Agent 1:25]
+
+=== LTK ===
+
+* [[Goldeneye 007 Tutorial: Surface 2 LTK|Surface 2 LTK]]
+* Tutorial Video: [https://videos.huzip.net/tutorials/goldeneye/ltk-dltk/Adam-Bozon/annotated/Surface%202%20LTK%20Tutorial.html - Adam Bozon - Surface 2 LTK Tutorial (turn captions on)]
+* Tutorial Video: [https://videos.huzip.net/tutorials/perfect-dark/ltk-dltk/Eric-Liikala/annotated/Surface%202%20LTK%20Tutorial.html - Icy - Surface 2 LTK Tutorial (turn captions on)]
+
+=== DLTK ===
+
+* [[Goldeneye 007 Tutorial: Surface 2 DLTK|Surface 2 DLTK]]
+* Tutorial Video: [https://videos.huzip.net/tutorials/goldeneye/ltk-dltk/Adam-Bozon/annotated/Surface%202%20DLTK%20Tutorial.html - Adam Bozon - Surface 2 DLTK Tutorial (turn captions on)]
+
+== External Links ==
+
+* [https://rankings.the-elite.net/goldeneye/stage/surface2 Surface 2 World Rankings]
+* [https://rankings.the-elite.net/goldeneye/ltk/stage/surface2 Surface 2 LTK/DLTK Rankings]
+* [http://thengamer.com/GE/08-Surface%202/ Surface 2 Videos]
+
+==References==
+{{Reflist}}
+
+[[Category:GE Strats]]
+[[Category:GoldenEye 007]]
+
+{{Template:GoldenEye 007 solo missions}}
