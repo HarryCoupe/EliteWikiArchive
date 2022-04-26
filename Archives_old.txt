@@ -1,0 +1,100 @@
+'''Archives''' (Part ii of Mission 6: St. Petersburg) is the eleventh level in [[GoldenEye 007]]. The formal name of this level is Military Archives.
+
+{|class="wikitable" style="float:right;"
+!colspan="3"|Archives
+|-
+| colspan="3" style="text-align: center;"| [[Image:Archives.png|150px]]
+|-
+|}
+
+== Objectives ==
+
+=== Agent ===
+
+; a. Escape from interrogation room
+; b. Find Natalya
+; c. Escape with Natalya
+
+=== Secret Agent / 00 Agent ===
+
+; a. Escape from interrogation room
+; b. Find Natalya
+; c. Recover helicopter black box
+; d. Escape with Natalya
+
+== Technical Details ==
+
+=== Mishkin ===
+Mishkin starts his speeches when you're within 30 units of him. The objective completes 30s after talking to him, which is 5s after Bond says "Yes, it proves that Janus was involved in the Severnaya incident.". Mishkin stops talking if you are 40 units or more away from him. <ref name="function explorer misc facts">{{cite web | url=https://forums.the-elite.net/index.php?topic=18518.msg455830#msg455830|title=the-elite Goldeneye facts topic post on miscellaneous function explorer facts|author=Icy|access-date=July 16, 2021}}</ref>
+
+=== Guards ===
+There are 7 [[Guards#Patrolling Guard|patrolling guards]]. One of them (nearest to the start) is the messenger who has slightly complicated AI if you wait in the room for the conversation to finish. <ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=18518.msg456102#msg456102|title=the-elite forum Goldeneye facts post on guard AI|author=Icy|access-date=July 16, 2021}}</ref>
+
+The two interrogation guards become normal after they're triggered to attack.
+
+=== Ghost Door ===
+Ghost door refers to the phenomenon that the second to last door before Mishkin on Archives can open seemingly by itself, right in front of the player, with no guards nearby<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=18518.msg467651#msg467651|title=the-elite forum Goldeneye facts post on Archives ghost door|author=Wyst3r|access-date=July 16, 2021}}</ref>. For more background and example videos (most notably, Ryan Koch's video), see [https://www.youtube.com/watch?v=wF2BwyTU5-g this speedlore episode] (starting around 1:32:33).
+
+While Ghost Door usually refers to the aforementioned door before Mishkin, there are actually other instances of it. A few years ago I explained one of these, seen in [https://www.youtube.com/watch?v=4PWV9L3-qDo Ace's DLTK 1:06].
+
+What happens in this case is that the patrolling guard collides with Natalya, which causes him to load, which in turn can make him open the nearby door leading to the window. However, despite knowing this, it still wasn't obvious how the door before Mishkin could open. The main difference is that the door opens right in front of the player, so you'd expect to see the guard somewhere nearby. A reasonable assumption would be that the guard gets stuck behind the door, and while this is indeed possible and might explain some of these occurences, it doesn't explain Ryan Koch's video, since he almost immediately looks back.
+
+So how could this possibly be? Well... *drumroll*
+
+As it turns out, it was [https://www.youtube.com/watch?v=v671QIEi0Xg a guard after all]. The reason we couldn't see him was because he opened the door from outside. This seems strange, given that the door isn't on his path, but when you think about it, the same thing happened in the Ghost Door #3 video above. The moment the guard loads, for some reason they can open (seemingly) any nearby door. Some reverse-engineering by Whiteted suggests this might be a 1/10 phenomenon, but more runs are needed to verify this. With all this information, we can know put together the whole chain of events:
+
+# In the beginning of the level, we lure a guard to get the 2nd door open, this noise is also likely to alert the guard patrolling around Mishkin's room who will be out in the courtyard (though if you watch cinema this might differ).
+# When we enter the room with the ghost door, the guard is still unloaded, and has just "warped" through the ghost door and is now headed towards the big room. However, since unloaded guards don't actually move, but rather "teleport" whenever they finish a segment, his real body is essentially standing still outside the ghost door.
+# As the player turns toward the ghost door, the guard is loaded, and since the door is nearby, there's a small chance he will open it. Since he still hasn't seen Bond, he continues running toward big room in pursuit, meaning any left-strafing player will fail to notice him (and he will fail to notice them since he's facing the opposite direction).
+
+In Ryan Koch's video, we can hear a door opening shortly after the ghost door, and as he looks outside, we can see what appears to be an open door to the big room. Since the guard is running (and started outside the ghost door), and Ryan waited a few secs before looking outside, he was simply too slow to actually spot him.
+
+So there you go. Mystery solved.
+
+== Tutorials ==
+
+=== Agent ===
+
+* [[Goldeneye 007 Tutorial: Archives Agent|Archives Agent]]
+
+* [https://www.youtube.com/watch?v=Do5U2PCEruE video tutorial target 0:16 by Wodahs]
+* [https://www.youtube.com/watch?v=-fETOXc-YHA video tutorial target 0:16 by Alex]
+
+=== Secret Agent / 00 Agent ===
+
+; General Tips
+
+* Take a wide line on the first single door after the spiral stairs since it lets you get around the door quicker. <ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=21944.msg448373#msg448373|title=the-elite forum post "Post Runs For Critique Here!"|author=Grav|access-date=July 19, 2021}}</ref>
+
+* The limiting factor for how fast you can open the second door to the safe room is pretty much only your look angle, not your position. Therefore, focus on turning towards the second door as soon as possible.
+
+; Tutorials
+
+* [[Goldeneye 007 Tutorial: Archives Secret Agent|Archives SA / 00A]]
+
+* [https://www.youtube.com/watch?v=3OzoSskVYjw video tutorial target 0:54 by Alex A]
+
+=== LTK ===
+
+* [[Goldeneye 007 Tutorial: Archives LTK|Archives LTK]]
+* Tutorial Video: [https://videos.huzip.net/tutorials/goldeneye/ltk-dltk/Adam-Bozon/annotated/Archives%20LTK%20Tutorial.html - Adam Bozon - Archives LTK Tutorial (turn captions on)]
+* Tutorial Video: [https://videos.huzip.net/tutorials/perfect-dark/ltk-dltk/Eric-Liikala/annotated/Archives%20LTK%20Tutorial.html - Icy - Archives LTK Tutorial (turn captions on)]
+
+=== DLTK ===
+
+* [[Goldeneye 007 Tutorial: Archives DLTK|Archives DLTK]]
+* Tutorial Video: [https://videos.huzip.net/tutorials/goldeneye/ltk-dltk/Adam-Bozon/annotated/Archives%20DLTK%20Tutorial.html - Adam Bozon - Archives LTK Tutorial (turn captions on)]
+
+== External Links ==
+
+* [https://rankings.the-elite.net/goldeneye/stage/archives Archives World Rankings]
+* [https://rankings.the-elite.net/goldeneye/ltk/stage/archives Archives LTK/DLTK Rankings]
+* [http://thengamer.com/GE/11-Archives/ Archives Videos]
+
+==References==
+{{Reflist}}
+
+[[Category:GE Strats]]
+[[Category:GoldenEye 007]]
+
+{{Template:GoldenEye 007 solo missions}}
