@@ -1,0 +1,124 @@
+<!-- noop update at 1649510302 to invalidate cache -->
+'''Dam''' (Part i of Mission 1: Arkangelsk) is the first level in [[GoldenEye 007]].
+
+{|class="wikitable" style="float:right;"
+!colspan="3"|Dam
+|-
+| colspan="3" style="text-align: center;"| [[Image:Dam.png|150px]]
+|-
+|}
+
+== Objectives ==
+
+=== All difficulties ===
+;Bungee jump from platform
+: The player must make it to the end of the level and walk off the platform.
+
+=== Secret Agent+ ===
+;Neutralize all alarms
+: The four alarms on the level must be destroyed.
+
+=== 00 Agent+ ===
+;Install covert modem (B)
+: The player must place a modem (a [[gadget]] and [[projectile]]) on the screen near the padlocked gate.
+;Intercept data backup (C)
+: The player needs to [[Activation|activate]] the mainframe in the basement. It is not necessary to wait for this to complete before leaving.
+
+== Facts ==
+
+=== Bad Cinema ===
+
+One of the 6 opening cinemas shows the gate [[Guards|guard]] walking towards the camera through the first open gate. This is the 'bad cinema' for all difficulties and you should just reset.
+
+On all other cinemas the gate guard moves in the opposite direction, unloaded, and will end up opening both of the gates for us. In the bad cinema you must press the button and wait for the first gate to close before the 2nd can open, losing a couple of seconds.
+
+== Strategies ==
+
+Unworkable, impossible, and infeasible strategies, including TAS ideas, can be found on the [[Dam Unworkable Strategies|Unworkable Strategies]] page.
+
+=== Fast Gate Strategy ===
+
+[https://www.youtube.com/watch?v=kdRYR-kwBW4 Explained here]. Mandatory for all runs.
+
+=== Mainframe Door Lure ===
+
+An un-debunked strategy<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=23850.msg468850#msg468850|title=the-elite forum post "The Truth About Dam 00 Agent 1:55"|author=OHMSS|access-date=July 18, 2021}}</ref>, Marc Rützou used this to set the untied world record of 1:54 on 00 Agent. This requires picking up at least one KF7, either from the right guard in the very first tunnel near spawn, or from the guard that runs to the alarm after the big gate. In the basement, as soon as you enter the "zig-zag" before the mainframe door section begin firing the KF7. With only one KF7 (10 bullets) you will run out of ammo before reaching the last guard. If you picked up two KF7 (20 bullets) there should be enough ammo to continue firing and eliminate the last guard in the path to the door. This should make enough [[Noise]] that the mainframe area guard is alerted and will open the door for you just as you arrive. <ref>{{cite web | url=
+https://forums.the-elite.net/index.php?topic=23850.msg468806#msg468806|title=the-elite forum post "The Truth About Dam 00 Agent 1:55"|author=RWG|access-date=July 18, 2021}}</ref>
+
+== Technical Details ==
+
+=== Guards ===
+
+* There is no link in the navigation graph through the lockshot gate, and so guards cannot run across it. If they try to plot a route to Bond on the other side then this will just fail and they won't move.
+* When the alarm goes off for the first time, 2 [[guards]] spawns before the double gate and run to Bond, as well as the two guards in the building where the modem console is<ref>https://ryandwyer.gitlab.io/gepd-function-explorer/ge-dam-0410.html</ref><ref>https://ryandwyer.gitlab.io/gepd-function-explorer/ge-dam-1002.html</ref>. Again the guards will fail to run to Bond if he is on the Dam
+* The two guards who patrol around the double gate at the start will not attack you until they reach their destination or are disrupted. One goes near the tower of silver crates, while the other goes to the destructible boxes nearby the gate. Occasionally their pathing will mess up and they'll spin in circles and be harmless. <ref name="function explorer misc facts">{{cite web | url=https://forums.the-elite.net/index.php?topic=18518.msg455830#msg455830|title=the-elite Goldeneye facts topic post on miscellaneous function explorer facts|author=Icy|access-date=July 16, 2021}}</ref>
+* Tunnel guards have a 25 / 256 (~9.8%) chance of becoming normal guards each time that they would otherwise pick an attack.
+
+== Misconceptions ==
+
+=== Lookup on Dam ===
+
+After the lockshot, the difference between lookup and lookdown on the Dam is minimal.<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=21944.msg447533#msg447533|title=the-elite forum post "Post Runs For Critique Here!"|author=Niiro Kitsune|access-date=July 19, 2021}}</ref>{{Dubious}}
+
+== Tutorials ==
+
+=== Agent ===
+
+; General tips
+
+* It is recommended to use 2.x [[Control Style]] for Agent<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=21944.msg451329#msg451329|title=the-elite forum post "Post Runs For Critique Here!"|author=flukey lukey|access-date=July 19, 2021}}</ref>.
+
+* Getting 0:37 lockshot quitouts is an indicator you're on pace for 0:53<ref name="critique vitorr">{{cite web | url=https://forums.the-elite.net/index.php?topic=21944.msg447532#msg447532|title=the-elite forum post "Post Runs For Critique Here!"|author=vitorr|access-date=July 19, 2021}}</ref>
+
+* When you get out of the big gate, stay close (but not touching) to the left wall
+
+* Aim to the middle of the small gray gate, it opens really fast so you can maximize that line<ref name="critique vitorr" />. You can open the rolling gate and press the big gate button from farther away than you might think<ref name="critique berg">{{cite web | url=https://forums.the-elite.net/index.php?topic=21944.msg452342#msg452342|title=the-elite forum post "Post Runs For Critique Here!"|author=berg|access-date=July 19, 2021}}</ref>.
+
+* You have to be looking at the ground most of the time to reduce lag<ref name="critique mw">{{cite web | url=https://forums.the-elite.net/index.php?topic=21944.msg452341#msg452341|title=the-elite forum post "Post Runs For Critique Here!"|author=mw|access-date=July 19, 2021}}</ref>. You can't look down from tunnel to button because this will cause slow gates, but you should be looking down from start to tunnel turn and then from button to lock<ref name="critique berg" />.
+
+* Switching weapons causes unneeded lag and potentially adds a couple frames to the in game timer<ref name="critique mw" />.
+
+* A general tip for the lockshot is to find a texture/line on the wall to setup the right angle during approach. Consider [https://www.youtube.com/watch?v=0sGYEQ3l1QU Dan Cervone's 1.2 zero boost Agent 0:53] and notice how he lines the tip of the PP7 to a line on the wall<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=21843.msg445619#msg445619|title=the-elite forum post "Does any one have any good lockshot tips?"|author=deletedprofile.u|access-date=July 25, 2021}}</ref>.
+
+; Tutorials
+
+* [[Goldeneye 007 Tutorial: Dam Agent|Dam Agent]]
+
+* [https://www.youtube.com/watch?v=WcFxJB0AtIE video tutorial by Wodahs]
+
+=== Secret Agent ===
+
+* [[Goldeneye 007 Tutorial: Dam Secret Agent|Dam Secret Agent]]
+
+=== 00 Agent ===
+
+* [[Goldeneye 007 Tutorial: Dam 00 Agent|Dam 00 Agent]]
+
+* [https://www.youtube.com/watch?v=yfrvHO99mks video tutorial by Jimbo]
+
+=== LTK ===
+
+* [[Goldeneye 007 Tutorial: Dam LTK|Dam LTK]]
+
+* Tutorial Video: [https://videos.huzip.net/tutorials/goldeneye/ltk-dltk/Adam-Bozon/annotated/Dam%20LTK%20Tutorial.html - Adam Bozon - Dam LTK Tutorial (turn captions on)]
+* Tutorial Video: [https://videos.huzip.net/tutorials/perfect-dark/ltk-dltk/Eric-Liikala/annotated/Dam%20LTK%20Tutorial.html - Icy - Dam LTK Tutorial (turn captions on)]
+
+=== DLTK ===
+
+* [[Goldeneye 007 Tutorial: Dam DLTK|Dam DLTK]]
+
+* Tutorial Video: [https://videos.huzip.net/tutorials/goldeneye/ltk-dltk/Adam-Bozon/annotated/Dam%20DLTK%20Tutorial.html - Adam Bozon - Dam DLTK Tutorial (turn captions on)]
+
+== External Links ==
+
+* [https://rankings.the-elite.net/goldeneye/stage/dam Dam World Rankings]
+* [https://rankings.the-elite.net/goldeneye/ltk/stage/dam Dam LTK/DLTK Rankings]
+* [http://thengamer.com/GE/01-Dam/ Dam Videos]
+
+==References==
+{{Reflist}}
+
+[[Category:GE Strats]]
+[[Category:GoldenEye 007]]
+
+{{Template:GoldenEye 007 solo missions}}

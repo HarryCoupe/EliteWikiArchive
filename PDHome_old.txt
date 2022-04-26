@@ -1,0 +1,85 @@
+[[Image:PerfectDark.jpg|thumb|Perfect Dark]]
+
+'''Perfect Dark''' is a first person shooter for the Nintendo 64, released in May 2000 by Rare.  It is the "spiritual sequel" to Rare's earlier hit FPS, [[GoldenEye 007]].
+
+[[The Elite|The Perfect Dark Elite]] has been hosting PD speedrun competition since the summer of 2000.  
+
+== Solo missions ==
+
+The vast majority of the competition revolves around obtaining the best times for the 60 single-player missions (20 missions, on each of the [[Agent]], [[Special Agent]] and [[Perfect Agent]] difficulty settings). The Duel does not give any points ever since 2018. 
+
+Before starting to play Perfect Dark for speed times, it is recommended that you read the [[Settings recommendations for Perfect Dark|settings recommendations]].
+
+=== Speed Strategies ===
+
+# [[dataDyne Central: Defection]]
+# [[dataDyne Research: Investigation]]
+# [[dataDyne Central: Extraction]]
+# [[Carrington Villa: Hostage One]]
+# [[Chicago: Stealth]]
+# [[G5 Building: Reconnaissance]]
+# [[Area 51: Infiltration]]
+# [[Area 51: Rescue]]
+# [[Area 51: Escape]]
+# [[Air Base: Espionage]]
+# [[Air Force One: Antiterrorism]]
+# [[Crash Site: Confrontation]]
+# [[Pelagic II: Exploration]]
+# [[Deep Sea: Nullify Threat]]
+# [[Carrington Institute: Defense]]
+# [[Attack Ship: Covert Assault]]
+# [[Skedar Ruins: Battle Shrine]]
+# [[Mr. Blonde's Revenge]]
+# [[Maian SOS]]
+# [[WAR!]]
+# [[The Duel]]
+
+=== Variant leagues ===
+
+The following variations on the regular Perfect Dark solo missions have also seen competition:
+
+* [[LTK]] mode
+* [[Dark LTK]] mode
+* Co-operative mode (two players work together - low frame rate is a major issue here)
+* The Enemy Rockets League
+* Cheaters' League (best time achieved using any combination of in-game cheats - no GameSharks!)
+* [http://qntm.org/deaths Fastest Deaths]
+
+=== Full runs ===
+
+Complete single-segment speedrun through Perfect Dark have also been attempted. They are ranked [http://www.angelfire.com/vt2/Vulpex/Brooklyn/SpeedRunRankings.html here] alongside similar records for [[GoldenEye 007]]. There are six categories for these: runs can be through [[Agent]], [[Special Agent]] or [[Perfect Agent]] and each of these can be timed using the in-game timer or in real time. Typically the last four (bonus) levels are not attempted here as the game goes to the credits once you beat [[Skedar]], so only 17 levels need beating.
+
+Strategies in full runs are different from individual level runs because you don't have the luxury of multiple attempts (multiple attempts are ''allowed'', but the time just keeps adding on). Swift but safe strategies are preferable to one-in-a-thousand shots - with the exception of [[Defection]], which you can attempt over and over again. In some senses, full runs provide a better judge of ''consistent'' playing ability and global game knowledge.
+
+Strategies change even more significantly in real-timed runs. For example, delaying your exit from the opening cinematic is pointless as the clock is still running, and using Combat Boosts wastes huge amounts of time instead of saving any. Also, choosing where to exit levels becomes a factor because this affects where you start the next level. (Mainly this affects [[Crash Site]].)
+
+You can find out your own best '''segmented''' A, SA and PA runs through Perfect Dark simply by adding up your individual times for the relevant levels, as this is precisely what a segmented run is: https://rankings.the-elite.net/perfect-dark/single-segments
+
+== Other leagues ==
+
+Essentially every aspect of Perfect Dark has been the stage for competition at some point in history. Leagues exist for:
+
+* The [[Firing Range]]
+* [[Gadget training]]
+* [[Hologram training]]
+* Combat Simulator [[Perfect Dark Challenges|Challenges]]
+
+== See also ==
+
+* [[Speed strafing]]
+* [[Speech skipping]]
+* [[Cruise Control]]
+* [[Rounding in Perfect Dark]]
+* [[Combat Simulator milestones]]
+
+== External Links ==
+
+* [http://rankings.the-elite.net/perfect-dark The Perfect Dark World Rankings]
+* [http://www.thengamer.com/PD/ The Perfect Dark Videos Page]
+* [http://www.angelfire.com/vt2/Vulpex/Brooklyn/SpeedRunRankings.html Perfect Dark Single Segment Speedrun]
+* [http://rankings.the-elite.net/perfect-dark/ltk The Perfect Dark LTK & DLTK Rankings]
+* [http://stratscentral.netfirms.com/ Perfect Dark Strats Central]
+
+[[Category:Perfect Dark]]
+[[Category:Games]]
+[[Category:N64 games]]
