@@ -1,0 +1,149 @@
+<!-- -->
+'''Facility''' (Part ii of Mission 1: Arkangelsk) is the second level in [[GoldenEye 007]].
+
+{|class="wikitable" style="float:right;"
+!colspan="3"|Facility
+|-
+| colspan="3" style="text-align: center;"| [[Image:Facility.png|150px]]
+|-
+|}
+
+== Overview ==
+Facility can experience the [[Time Not Saved]] glitch.
+
+== Objectives ==
+
+=== Agent ===
+
+====a. Gain access to laboratory area ====
+Enter the room with the stairs up. This is the only route to the ending so the objective is trivial.
+
+====b. Rendezvous with 006 ====
+Completes a fixed time after Trev first greets Bond with "Glad you could make it, 007". This is the bottleneck in the ending, and so this objective should be completed deep into the fade.
+
+====c. Destroy all tanks in bottling room====
+All 10 of them.
+
+====d. Minimize scientist casualties====
+At most 2 scientists (excluding Doak) can be killed.<ref>https://ryandwyer.gitlab.io/gepd-function-explorer/ge-facility-1008.html</ref> This largely isn't a problem though you can fail it with a poorly placed mine boost upstairs.
+
+===Secret / 00 Agent===
+
+====a. Gain access to laboratory area====
+
+==== b. <nowiki>Contact double Agent: James Bond</nowiki>====
+The only additional objective on SA / 00A. This requires meeting up with the man himself, Dr Doak, and receiving the door decoder from him<ref name=":0">https://ryandwyer.gitlab.io/gepd-function-explorer/ge-facility-0425.html</ref>. On 00A the objective will fail explicitly if he's killed before you receive the decoder <ref>https://ryandwyer.gitlab.io/gepd-function-explorer/ge-facility-100c.html</ref>, but on SA he still cannot give you the decoder during his death animation.
+
+====c. Rendezvous with 006====
+
+====d. Destroy all tanks in bottling room ====
+
+====e. Minimize scientist casualties====
+
+==Facts==
+
+===Dr. Doak spawn===
+
+Doak does not spawn until you enter the bathroom. There are 7 locations he can spawn at<ref>https://ryandwyer.gitlab.io/gepd-function-explorer/ge-facility-1004.html</ref>, as pictured:
+
+[[Image:goldeney_doak_spawn_location.png|border|500px|Dr. Doak spawn locations]]
+{| class="wikitable"
+|+
+! Location
+!Chance, / 256
+!Chance, %
+|-
+| #1
+|36
+|14.1
+|-
+|#7
+|45
+|17.6
+|-
+|other
+|35
+|13.7
+|}
+The chances of getting the optimal spawn, #3, is 1 in 7.31.
+
+The 3 better spots have common names, since all are involved in alternate strats:
+{| class="wikitable"
+|'''Spawn number'''
+|'''Common name'''
+|-
+|#1
+|Big lab
+|-
+|#2
+|Small lab
+|-
+|#3
+|Best spot
+|}
+
+=== Dr. Doak sequence===
+
+The game checks if Bond is within Doak's line of sight, and if so triggers Doak's walking toward Bond<ref name=":0" />. The conversation is triggered once Bond is within a 2m, and 5 seconds later Doak will give Bond the door decoder, wherever Bond is in the level.
+
+In particular you can 'meet up through the glass' when Doak is in the small lab. This still loses at least 0.30s compared to the best spot even in a TAS setting<ref>https://www.youtube.com/watch?v=AjxR0nx8tmY</ref>, and would lose even more when compared to 'right strafe Doak'. 
+
+=== Good and Bad Trev ===
+
+This refers to the position of Trevelyan when Bond enters the bottling area.
+
+For detailed mechanics, see [[Facility - Good and Bad Trev]]
+
+==Strategies==
+
+===Theoretical===
+
+;Decoder door guard lure
+:This is a theoretical strategy that lures one of the guards next to the decoder door to open it for you, saving 2-3 seconds. This has only been demonstrated in a TAS. More information [https://forums.the-elite.net/index.php?topic=18518.msg470247#msg470247 in this post].
+
+== Technical Details ==
+
+=== Trio after console door ===
+
+The script for each of the trio of guards in the hallway after the console controller door is naively written to wait until they see Bond, then walk & shoot, followed by run & shoot, before becoming normal guards. However if you look down heavily then the two charging animations fail and they will fall through to become normal guards.
+
+=== One guard lure ===
+
+There's a separate page discussing the technical aspect of the [[Facility Decoder Door Lure|decoder door one guard lure]].
+
+==Tutorials==
+
+===Agent===
+
+*[[Goldeneye 007 Tutorial: Facility Agent|Facility Agent]]
+
+*[https://www.youtube.com/watch?v=-ssOL4oScoQ video tutorial by Luke]
+
+===Secret Agent / 00A Agent===
+
+*[[Goldeneye 007 Tutorial: Facility Secret Agent|Secret / 00A Agent]]
+
+===LTK===
+
+*[[Goldeneye 007 Tutorial: Facility LTK|LTK]]
+*Tutorial Video: [https://videos.huzip.net/tutorials/goldeneye/ltk-dltk/Adam-Bozon/annotated/Facility%20LTK%20Tutorial.html - Adam Bozon - Facility LTK Tutorial (turn captions on)]
+*Tutorial Video: [https://videos.huzip.net/tutorials/perfect-dark/ltk-dltk/Eric-Liikala/annotated/Facility%20LTK%20Tutorial.html - Icy - Facility LTK Tutorial (turn captions on)]
+
+
+===DLTK===
+
+*[[Goldeneye 007 Tutorial: Facility DLTK|DLTK]]
+*Tutorial Video: [https://videos.huzip.net/tutorials/goldeneye/ltk-dltk/Adam-Bozon/annotated/Facility%20DLTK%20Tutorial.html - Adam Bozon - Facility LTK Tutorial (turn captions on)]
+==External Links==
+
+*[https://rankings.the-elite.net/goldeneye/stage/facility Facility World Rankings]
+*[https://rankings.the-elite.net/goldeneye/ltk/stage/facility Facility LTK/DLTK Rankings]
+*[http://thengamer.com/GE/02-Facility/ Facility Videos]
+
+==References==
+{{Reflist}}
+
+[[Category:GE Strats]]
+[[Category:GoldenEye 007]]
+
+{{Template:GoldenEye 007 solo missions}}
