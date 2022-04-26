@@ -1,0 +1,122 @@
+<!-- -->
+'''Surface 1''' (Part i of Mission 2: Servernaya) is the fourth level in [[GoldenEye 007]]. 
+{|class="wikitable" style="float:right;"
+!colspan="3"|Surface 1
+|-
+| colspan="3" style="text-align: center;"| [[Image:Surface1.png|150px]]
+|-
+|}
+
+== Objectives ==
+
+=== Agent ===
+
+; a. Power down communications dish
+: Bond must [[Activation|activate]] the console the satellite dish building.
+; b. Enter base via ventilation tower
+: Completed when you reach the ending.
+
+=== Secret Agent / 00 Agent ===
+
+; a. Power down communications dish
+; b. Obtain safe key
+: The safe key is located in the first building on the left outside the spawn area. The door is locked by the large key, which is held by the 'brown guard' in the grenade launcher hut.
+; c. Steal building plans
+: The building plans are located in the safe in a building inside the compound. The door to the building itself is also locked by the large key.
+; d. Enter base via ventilation tower
+
+== Facts ==
+
+=== Guard Spawns ===
+
+==== Initial conditions ====
+Spawning is disabled until various conditions are met. The conditions are stricter for lower difficulties.
+
+In 007 mode, the only requirement is that the player is no longer watching either of the opening cinemas, and 2 seconds have passed since the level loaded.<ref>https://ryandwyer.gitlab.io/gepd-function-explorer/ge-surface1-1001.html</ref>
+
+On SA / 00A, the player must also enter one of two rooms before spawning will start<ref>https://ryandwyer.gitlab.io/gepd-function-explorer/ge-surface1-1006.html</ref>:
+
+[[Image:goldeneye_surface1_grenade_guard_spawn.jpg|border|400px|guard spawn rooms]]
+
+On agent the brown large key guard must finish fading out and '''then''' the player must be in one of the two rooms.
+
+==== Spawn odds ====
+There are 4 spawn guards in total, and their spawn times are based on the following logic, which is run independently for each of the guards<ref name="surface 1 guards">{{cite web | url=https://forums.the-elite.net/index.php?topic=18518.msg380421#msg380421|title=the-elite facts topic forum post on Surface 1 guards|access-date=July 16, 2021}}</ref><ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=22598.0|title=Surface 2 Consistent Spawn Guards|access-date=July 25, 2021}}</ref>:
+
+Every 2 seconds, the logic decides whether to (re)spawn the guard. If the guard is still in the level (including if he is doing a death animation), then he will not be respawned.
+
+Otherwise the odds of the guard spawning on each 2 second cycle depends entirely on what gun Bond currently has equipped:
+
+{| class="wikitable"
+|+
+| style="font-weight:bold" |Weapon|| style="font-weight:bold" |Probability
+|-
+|Unarmed, PP7 (incl. silenced), Hunting/Throwing Knives or Sniper Rifle||21.5%
+|-
+|Klobb, KF7 or Grenade Launcher||80.1%
+|-
+|Other||100%
+|}
+
+==== Spawn weapon & location ====
+If a spawning guard is within 100m of you, he'll always have a Klobb. Otherwise he has an 21.5% to have a klobb, and will otherwise have a sniper rifle<ref>https://ryandwyer.gitlab.io/gepd-function-explorer/ge-surface1-0418.html</ref>.
+
+Spawn guards delete themselves if they're 300m units or more away from you, but this is too great a distance to ever be relevant. <ref>Klobb spawn guard script https://ryandwyer.gitlab.io/gepd-function-explorer/ge-surface1-0419.html</ref><ref>Sniper spawn guard script https://ryandwyer.gitlab.io/gepd-function-explorer/ge-surface1-041b.html</ref>
+
+So now we know when they spawn, but not where. All levels in Goldeneye are divided into [[Room|rooms]]/areas, and in the case of Surface 1, entering certain rooms changes the guards' spawn locations. The map below shows the rooms with color highlights, as well as red circles indicating spawn locations, and colored numbers (corresponding to the room colors) between 1-4 so signify which of the four guards that can spawn in that location. Non-highlighted areas simply use the previously entered room's spawn locations.
+
+[[Image:goldeneye_surface1_guard_spawn_location.png|border|500px|Surface 1 guard spawn location by room]]
+
+== Strategies ==
+
+Unworkable, impossible, and infeasible strategies, including TAS ideas, can be found on the [[Surface 1 Unworkable Strategies|Unworkable Strategies]] page.
+
+== Tutorials ==
+
+; General Tips
+
+* It's fairly common to warp that ladder without switching weapons. It all depends on where you are looking and the spot you hit the ladder. If there is more lag, there is less need to swap. On agent it's just the most consistent way<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=22464.0|title=Ladder Warp in Surface 1 agent|access-date=July 25, 2021}}</ref>.
+
+=== Agent ===
+
+* [[Goldeneye 007 Tutorial: Surface 1 Agent|Surface 1 Agent]]
+
+=== Secret Agent ===
+
+* [[Goldeneye 007 Tutorial: Surface 1 Secret Agent|Surface 1 Secret Agent]]
+
+=== 00 Agent ===
+
+This follows the same strategy as Secret Agent.
+
+=== LTK ===
+
+* [[Goldeneye 007 Tutorial: Surface 1 LTK|Surface 1 LTK]]
+
+* Tutorial Video: [https://videos.huzip.net/tutorials/perfect-dark/ltk-dltk/Eric-Liikala/annotated/Surface%201%20LTK%20Tutorial.html Icy - Surface 1 LTK 3:46 (Turn captions on)]
+*'Safe' Strategy Example: [https://www.youtube.com/watch?v=OKCxR4VASsc Tom Russell - Surface 1 LTK 4:36]
+
+=== DLTK ===
+
+* [[Goldeneye 007 Tutorial: Surface 1 DLTK|Surface 1 DLTK]]
+* Tutorial Video: [https://videos.huzip.net/tutorials/goldeneye/ltk-dltk/Adam-Bozon/annotated/Surface%201%20LTK%20Tutorial.html - Adam Bozon - Surface 1 DLTK Tutorial (turn captions on)]
+
+== Misconceptions ==
+
+=== Agent grenade strat ===
+
+As described [[Surface 1#Initial%20conditions|above]], on agent the brown guard must be killed to trigger the spawning. This actually may not be too infeasible with some [[Surface 2|far-comms]] style shots through the back window of the hut, but the real issue is that the guard must have faded out before you can exit the trigger room. This would be the bottleneck and would presumably lose more than the grenade would save. That said it's not been carefully looked at.
+
+== External Links ==
+
+* [https://rankings.the-elite.net/goldeneye/stage/surface1 Surface 1 World Rankings]
+* [https://rankings.the-elite.net/goldeneye/ltk/stage/surface1 Surface 1 LTK/DLTK Rankings]
+* [http://thengamer.com/GE/04-Surface%201/ Surface 1 Videos]
+
+==References==
+{{Reflist}}
+
+[[Category:GE Strats]]
+[[Category:GoldenEye 007]]
+
+{{Template:GoldenEye 007 solo missions}}
