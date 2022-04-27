@@ -1,0 +1,94 @@
+[[Image:Theduel.png|thumb|The Duel]]
+
+'''The Duel''' is [[Perfect Dark]]'s 21st and final level. It is unlocked by gaining all the Bronze medals in the [[Firing Range]]. Although it appears last on the mission list it can actually be unlocked before you even get to [[Attack Ship]].
+
+Chronologically, it takes place ''after'' all the other levels. This can be said for certain because it features Trent Easton as an enemy.
+
+== Agent ==
+
+'''World Record Strat - 0:03'''
+
+The idea here is to pause the game a fraction of a second after you gain control, and select the [[Falcon 2]] from your inventory manually so that it comes out faster. This tactic was invented by [[Ben Gorman]] on July 20, 2000, and lowered the record on this level from 0:04 to 0:03. This is the longest-standing record in [[Perfect Dark]], and is [[maxed]].
+
+Objective 1: Defeat dataDyne guard.
+
+(N.B. If you use 1.1, I can't guarantee that your spinning speed will be the same as mine, and this first section may or may not work. Also, it may be of no importance, but I spin to my right, clockwise, and this guide will assume you do as well.)
+
+The key here is recognizing what decimal you have paused at and changing your strategy accordingly. The faster you pause, the faster you will make your first kill because from the moment you unpause you will be holding down the trigger button. What you have to do is adjust your strategy after the pause to insure that your crosshairs pass over the guard at the correct time. Make sure you are holding your analog stick to the right before you even have control of Joanna. Don't wait until after the pause to begin your spin.
+
+If you pause at:
+
+0.09 or earlier - Abort. You've paused too early.
+
+0.10 or 0.11 - Both common decimals and both good ones. Spin right and hold the right strafe button while also holding the trigger.
+
+0.12 - This decimal is very rare, but it's not too hard. You can follow the strategy above or the strategy below. I usually try something in between.
+
+0.13 - Possibly my favorite decimal and not uncommon. Just continue holding the analog stick down as well as the trigger. Now you may have to let go of the analog stick just as you fire, otherwise you might spin too far. I've practiced it enough that I've just got a feel for it now.
+
+0.15 and 0.16 - Same strategy as above, but you definately have to release the analog stick at the end of the spin. Keep trying to time it right and you'll get the hang of it.
+
+0.18 and 0.19 - These aren't too great but they can be done much the same as the 0.13 as well. Just stop spinning earlier.
+
+0.21 - Continue holding the analog stick right, but hold the left strafe to slow your spin. Your gun should fire just as your crosshairs find the guard.
+
+0.22 or above - Abort. You paused too late.
+
+Strafe towards the guard's dead body and try to grab his ammo. Hopefully you'll catch a glimpse of it flying out of his hand so you'll know where to look.
+
+Objective 1 Complete.
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=R2fFVhNAJwI Deep Darkness - Duel Agent 0:03]
+
+== Special Agent ==
+
+'''World Record Strat - 0:06'''
+
+For the DataDyne guard, follow the Agent strat.  Target time - 2.75 - 2.95
+
+Objective 2 - Defeat Jonathan Dark.
+
+The only iota of luck in this level rears its ugly head at this point. Jonathan must be behind the near side of the wall for maximum speed. As soon as you gain control of Joanna, you should be spinning to your right and then left-strafing, trying to get Jonathan onto your screen as soon as possible. Put your crosshairs at head level and begin firing before you even know if he's there, holding your aim just to the left of the wall, still strafing around it for a better angle.
+
+Objective 2 Complete.
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=N7sZecN_9EM Eliminator Jr - Duel Special Agent 0:06]
+
+== Perfect Agent ==
+
+'''World Record Strat - 0:09'''
+
+For the DataDyne guard, follow the Agent strat, but pick up the guard's ammo if you plan to use the Falcon against Trent.  Target time - 2.75 - 2.95
+
+For Jonathan, follow the Secret Agent strat.  If you intend to use the Falcon against Trent and you've collected the first guard's ammo, you should drain your whole clip so the gun reloads. If you plan to use the Magnum, then make sure you don't use the whole clip or you'll be stuck in the Falcon's automatic reload. You need to grab Jonathan's magnum as quickly as possible and pull it out immediately or you'll be screwed.  Target time - 5.6 - 5.95
+
+Objective 3 - Defeat Trent Easton.
+
+There isn't a great deal of strategy involved here. Just spin and fire a barrage of bullets as quickly as possible. If you use the Falcon, make sure you aim at the head. If you use the Magnum, you'll probably only get one shot and you'll have to fire early since there is a delay between pulling the trigger and firing. The advantage is that a shot to the body will kill.
+
+Objective 3 Complete. 
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=vdvHnyG8TlM Spec - Duel Perfect Agent 0:09]
+
+== LTK ==
+
+'''World Record Strat - 0:09'''
+
+Duel is the easiest level to complete on LTK.  The strat is the same as the PA strat, except it's easier to get a fast time since you can shoot anywhere on the enemy's body.  If you can get 0:09 on PA, you can certainly get it on LTK.
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=xpDEKzbZPz8 Role Model - Duel LTK 0:09]
+
+== DLTK ==
+
+Just a bit harder than 0:09 on [[Perfect Agent]].
+
+* '''World Record Video''': [https://www.youtube.com/watch?v=5B1Yf_LMNfg Icy - Duel DLTK 0:09]
+
+== External Links ==
+
+* [http://rankings.the-elite.net/perfect-dark/stage/duel Duel World Rankings]
+* [http://rankings.the-elite.net/perfect-dark/ltk/stage/duel Duel LTK Rankings]
+* [http://www.thengamer.com/PD/21-Duel/ Duel Videos]
+
+
+{{Template:Perfect Dark solo missions}}

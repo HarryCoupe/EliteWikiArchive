@@ -1,0 +1,50 @@
+[[Image:Maiansos.png|thumb|Maian SOS]]
+
+'''Maian SOS''' is [[Perfect Dark]]'s 19th level, and second special mission. Chronologically, it actually takes place somewhere between [[Chicago]] and [[Rescue]].
+
+===General advice===
+
+There are two ways to escape from your first room; one is to use the first door to get to the ante-room, grab the [[Psychosis Gun]] from the table and use it on one of your captors, who will then open the locked door for you and run off. This is much more time-consuming than the [[WR]] method, which involves surprising the first scientist so he pulls a gun on you, immediately disarming him, pushing the gurney against the window and shooting it to blow it up.
+
+For a faster escape, the pause-pull-out-[[Falcon]] trick is used again here.
+
+On [[Special Agent|SA]]/[[PA]], shooting the wall attracts guards from the next lab over. They open the door to the alien corpse for you, saving a trip all the way down and back.
+
+Still on SA/PA, shooting the next wall attracts a guard down the lift in the big warehouse area. Ordinarily on NTSC this lift is in the wrong place when you get to it, but via this method you can catch it.
+
+Throwing the proximity-primed [[Dragon]] at the very end of the level isn't really necessary, but fun.
+
+== Agent ==
+
+It was originally thought that PAL had a time advantage on this level due to the different timing of the lifts. However, after much effort [[Karl Jobst]] was able to successfully catch an earlier lift cycle on NTSC and set a new world record with a time of 1:37 (the previous record being 1:38). However this is extremely difficult and has only been replicated by a handful of players.
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=AmnKLWVX2wc CEDRIC - Maian SOS A 1:36]
+
+== Special Agent ==
+
+Strat here.
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=y5Xh5HzvzYk CEDRIC - Maian SOS SA 1:53]
+
+== Perfect Agent ==
+
+Strat here.
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=28XJYi08EnA Perfect Ace - Maian SOS PA 2:02]
+
+== LTK ==
+
+* '''World Record Video''': [https://www.youtube.com/watch?v=Wp-Kt6qcmNI Flickerform - Maian SOS LTK 2:24]
+
+== DLTK ==
+
+* '''World Record Video''': [https://www.youtube.com/watch?v=C5RfST1plFE Flickerform - Maian SOS DLTK 3:09]
+
+== External Links ==
+
+* [http://rankings.the-elite.net/perfect-dark/stage/maian-sos Maian SOS World Rankings]
+* [http://rankings.the-elite.net/perfect-dark/ltk/s Maian SOS LTK Rankings]
+* [http://www.thengamer.com/PD/19-Maian%20SOS/ Maian SOS Videos]
+
+
+{{Template:Perfect Dark solo missions}}
