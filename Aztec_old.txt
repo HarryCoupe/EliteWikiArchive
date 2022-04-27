@@ -1,0 +1,173 @@
+'''Aztec''' (Part i of Mission 8: Teotihuaca'n) is the nineteenth level in [[GoldenEye 007]]. The formal name of this level is Aztec Complex. It is generally thought to be the most difficult of the 20 levels. 
+
+{|class="wikitable" style="float:right;"
+!colspan="3"|Aztec
+|-
+| colspan="3" style="text-align: center;"| [[Image:Aztec.png|150px]]
+|-
+|}
+
+== Overview ==
+
+This level has the same objectives across all difficulties. The player must reprogram the shuttle guidance (Objective A), and then launch the shuttle (Objective B). Launching the shuttle begins a 30 second countdown, after which the level ends. The general speedrunning strategy is to use guard AI to open a locked door in order to complete Objective A. This bypasses Jaws, and avoids having to close and re-open the shuttle exhaust. The first half of a run will generate [[Noise]] to alert guards. Many strategies make use of [[Pause#Quick Pause|quick pausing]].
+
+== Version Differences ==
+
+* PAL lags more in first 2 rooms<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=854.msg279909#msg279909|title=the-elite forum post "Post Your Best Legit (And Semi-Legit) Fails Here!"|author=Wyst3r|access-date=July 19, 2021}}</ref>{{Dubious}}
+
+* NTSC lags a lot more in black room.
+
+== Objectives ==
+
+=== All Difficulties ===
+
+; a. Reprogram shuttle guidance
+; b. Launch shuttle
+
+== Strategies ==
+
+Unworkable, impossible, and infeasible strategies, including TAS ideas, can be found on the [[Aztec Unworkable Strategies|Unworkable Strategies]] page.
+
+=== Glass Door ===
+
+The following strategies<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=24158.0|title=The COMPLETE Aztec Glass Knowledge Repository|access-date=July 16, 2021}}</ref> are actively used to open the locked glass door to complete Objective A. These strategies make use of [[Tracking_Bond|guard tracking]] to trigger the "[[Guards#Ghost Doors|Ghost Door]]" mechanic.
+
+First thing to note is that a single [[Guards|guard]] can never open the door for us. Why? Because Bond's position when copied can always be reached without opening the door. What is needed is an obstacle, something to block the guards path to Bond's position. An obstacle is either Bond himself (when using invisibility) or another guard. When a guard is faced with an obstacle, he will start to try running around it. In doing so, he might try and run through the glass door room, which leads to him opening the door.
+
+In order for the strat to work, you must reach the glass before this animation ends. Otherwise, he will copy an earlier position and won't run all the way to the glass. The second guard, the one behind the mainframe, will usually see Bond as you run to the glass and do another animation as the mainframe closes. At this point, you need to wait by the glass only until this animation has ended. Usually, you can tell easily by listening to the gunfire, whenever it ends, wait a bit extra for the animation to end, then leave the glass. Also, you probably want to stay still during this time, so that both guards copy the same exact position, and increase the chances of them blocking each other.
+
+An important factor is that the guards needs to be close to each other in order to act as obstacles. (If one guard reaches the glass early, he might just continue running before the second guard even gets there). The mainframe usually handles this for us though, by delaying the nearest guard. It's also worth noting that the nearest guard will not spend more than 10 seconds trying to reaching the glass (usually not the far guard either), so he should *always* continue running. The time frame during which the door can open is therefore pretty small.
+
+==== Mainframe Strat ====
+The glass that is so consistent it made Aztec RTA friendly. Although not as fast as the best strats, it's really good for getting to the high 80 point range. The key to getting fast mainframe runs is getting a good animation on the guard that you shoot in the mainframe, as the time you have to wait at the glass depends on it.
+
+The core idea is to get the nearby guard stuck inside the mainframe wall, and then luring the first guard in the hallway<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=22337.0|title=the-elite forum post "Strategy Awareness: Aztec 'Mainframe Glass'"|author=Icy|access-date=July 28, 2021}}</ref>. Start the level like normal up to the black room, and kill the two guards that come running in front of the door, and then immediately run to the left wall and fire to make some noise. This will alert the guard by the mainframe, and his pathing will have him choose to go down the halls, however, because the mainframe is unloaded and closed, he'll get stuck in it. Clear out the two guards on the right side of the black room, then head to the glass. From this position, you want to shoot the mainframe guard and then shoot through the mainframe to the right of the guard near the hallway guard to draw his attention. This will make them both set Bond's position at the glass as their next target to run to, while the mainframe wall is still unable to open.
+
+After both guards have been lured, you want 10 seconds to pass before they reach your spot. The reason for this is because when guards reach their target within 10 seconds, they will then set a new target (your new location) instead of staying in place. Having them stop at the glass is significantly better for odds of it opening. In the meantime while waiting, you can do some quickpausing. Once you're ready, run towards the console and face left (you can pause here for the disk if you don't want to kill the guards), and this will allow the mainframe to finally open with the guards running towards the glass.
+
+The guard setup is functionally similar to the old glass strategy because they'll actually stop in place at the glass, rather than continuing to hunt for you like with the "Henrik" or fast glass strategies. The benefits of the mainframe glass strategy however is the setup is significantly easier, you don't get shot at, you don't have to rely on animations, and you're guaranteed to have 2 guards go to the glass, rather than a random selection out of a group of 4. On top and more importantly, this strategy is faster. Sometimes the glass still won't open because once a guard has reached his destination and stops, he'll do a turn and step after a few seconds, while the other guard perhaps hasn't opened the glass in time. In my 15 minutes of using this strategy though, I got 4 glass openings, and after Jimbo's onslaught of playing Aztec 00A, he finally got a good and fast PR, so it's still extremely consistent. It's really awesome!
+
+* Because one of the two guards warps the mainframe, he'll arrive there before the other. When guards reach their destination and stop hunting you down, they stand in place for a moment, and then spin/step around. Because of this, the distance from the mainframe on the glass where you perform the lure is important. If you're far to the right or at the middle of the glass, it's not enough time for the other guard to open the door, so always perform your lure to the left<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=22337.msg454222#msg454222|title=the-elite forum post reply to "Strategy Awareness: Aztec 'Mainframe Glass'"|author=Icy|access-date=July 28, 2021}}</ref>.
+
+* You must stare at the pink wall for about 5 seconds to unload the mainframe long enough to let it open. Additional quickpauses do nothing, lookdown does nothing, and other rituals do nothing. Just face the wall long enough.
+
+* Leave timing should be 5 quickpause and a bit on a fast guard hurt animation, and 6-7 quickpauses and a bit on slower reactions. Aim for the chest to avoid losing time, and make sure you don't leave too early and fail the lure or leave too late and lose time unnecessarily.
+
+Troubleshooting:
+
+#) If you see a guard come around the corner while waiting for the glass opening, you left too early and the 10-second guard tracking timer didn't reach 10 seconds.
+#) If only one guard goes to the glass and the other isn't around the corner, your lure shot missed. Use the marking on the mainframe as a visual cue.
+#) If both guards are at the glass and you performed everything correctly, you simply got unlucky. Try again.
+
+
+Consistency rating: Very Good
+
+Recommended examples:
+* video example: [https://www.youtube.com/watch?v=pVNyTfaXrkg Icy 00 1:44]
+* video example: [https://www.youtube.com/watch?v=HTc4owseDPk Dusky 00 1:38]
+
+More examples:
+* video example: [https://www.youtube.com/watch?v=qFTS26Rp8oQ Bozon 00 1:41]
+* video example: [https://www.youtube.com/watch?v=JYsIP1n157Y DSX 00 1:42]
+* video example: [https://www.youtube.com/watch?v=ECn50_qD9gY Jimbo 00 1:43]
+* video example: [https://www.youtube.com/watch?v=lby_e-eJPZk Henrik 00 1:47]
+
+==== Illu Mainframe ====
+Also known as "Natural Stuck Mainframe".
+
+A faster setup for the mainframe which doesn't require you to shoot into the wall as you enter the black room. It has been used by several people now on agent but is viable on SA/00 as well. The inconsistency lies in getting the guard stuck in the mainframe. This also requires the full screen mode for higher consistency. When you enter the black room, you look to the right ASAP as you finish shooting the two guards at the entrance. Once the guard is stuck in the mainframe, it's the same as the strat above. For the mainframe to be fast though, you need the guard in the mainframe to have a good reaction. So try aiming for his gun on agent. This strat alone is about as fast as Henrik glass and about 1-3 seconds faster than normal MF depending on execution. Survivability is also much better than normal Henrik glass.
+
+Consistency rating: MEDIUM
+
+[https://www.youtube.com/watch?v=__9FzzaFr7I video example].
+
+==== Reverse Mainframe ====
+Also known as "Visible Guard Glass Mainframe".
+
+Originally discovered by Henrik and is a faster but slightly less consistent version of the normal mainframe strategy. It uses the setup where you get a guard stuck in the mainframe and instead of pausing at the glass you move to the console causing one of the guards to warp and run to the glass. Then you turn around causing him to notice you and the other guard runs on top of the other making it open very quickly. The timing for when to turn around is done using quickpauses. I don't have much experience with this so others can add to this section. This strat might be improveable with some tweaks, certain people like Dusky, Eclout and others might have more examples or better methods. It is about as fast as Henrik glass.
+
+Consistency rating: Medium-Low
+
+[https://www.youtube.com/watch?v=zqdKEy_AMB0 video example].
+
+==== Fast Glass ====
+Still viable for UWR on all difficulties. Just really hard and unreliable even on agent.
+
+Consistency Rating: LOW
+
+[https://www.youtube.com/watch?v=UvY7Ztcm5Pw example video].
+
+==== Crouch Glass ====
+Very viable for UWR, but relies heavily on guard animations which makes it terrible to play for. There are several variations of it and Henrik needs to write this section. Crouch glass is the main strat on the XBLA version of Goldeneye which some might find interesting. It's possible we can learn some from the way they do it. There is also a trick where if you pause buffer the moment the guard finishes running, the guard will run further which might help with consistency.
+
+The strategy is for the guard to choose a side running animation towards the glass door, then shoot him to back him up slightly, then run up to the guard and crouch.
+
+By crouching near a step (slopes apparently don't work) like the one near the glass, you can glitch yourself inside a guard<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=22047.0|title=the-elite forum post "New Aztec Strat Revealed!"|author=Wyst3r|access-date=July 25, 2021}}</ref>. If done correctly, the guard gets stuck in place, and other guards can no longer see you. Think of it like invisibility without the cheat. However, even if you get the running animation (14.28%), he might not run to the right spot. The guard will always run in a 90 degree angle relative to the angle between him and Bond. He runs a minimum of 200 units, with an additional 0-200 units being added via random distribution. Even if the guard runs near the glass, he still won't be close enough (probably?). Therefor, wait until he turns towards you and then shoot his lower leg to back him up closer to the glass. This gives some time to open the mainframe, and get to the glass. Once there, you just crouch and strafe into the corner until you're inside him. Getting out of the guard can be tricky and sometimes you get stuck. Running away from the glass seems to work most often, but there may not be a consistent way of doing it.
+
+Consistency rating: LOWish?, more info is required.
+
+[https://www.youtube.com/watch?v=c1O_oQ7Najg example video]. [https://www.youtube.com/watch?v=yFT1N054SMw original strat example]. [https://www.youtube.com/watch?v=zvn_Dsjk-W8 XBLA example video]. [https://www.youtube.com/watch?v=y_9rZDksQlg Another XBLA example video].
+
+== Legacy Strategies ==
+
+Legacy strategies have been replaced with easier or more consistent strategies.
+
+=== Bryan B. Glass ===
+Obsolete because it is slower than [[Aztec#Strategies|modern strategies]]. Still has a place in modern RTA runs as a backup for failed mainframe attempts. It is also used in LTK runs. 
+
+Consistency rating: MEDIUM
+
+[https://www.youtube.com/watch?v=how7MyuuVTA example video].
+
+=== Henrik Glass ===
+Very viable for good PBs but newer strats are likely easier and more consistent.
+
+Consistency rating: Medium-Low
+
+[https://www.youtube.com/watch?v=vKZ9BrbMjvU example video].
+
+== Tutorials ==
+
+* Mainframe Strat: [https://www.youtube.com/watch?v=pgoQrpGfzf0 video tutorial by Dusky]
+* Glass Door: [https://www.youtube.com/watch?v=RXWgvY23w0Q video tutorial by Flickerform]
+
+=== Agent ===
+
+* [[Goldeneye 007 Tutorial: Aztec Agent|Aztec Agent]]
+
+* Tutorial: Target 1:26 [https://www.youtube.com/watch?v=JjrCK_JZ8N8 by Wodahs]
+
+=== Secret Agent ===
+
+* [[Goldeneye 007 Tutorial: Aztec Secret Agent|Aztec Secret Agent]]
+
+=== 00 Agent ===
+
+* [[Goldeneye 007 Tutorial: Aztec 00 Agent|Aztec 00 Agent]]
+
+=== LTK ===
+
+* [[Goldeneye 007 Tutorial: Aztec LTK|Aztec LTK]]
+
+* Tutorial Video: [https://videos.huzip.net/tutorials/goldeneye/ltk-dltk/Adam-Bozon/annotated/Aztec%20LTK%20Tutorial.html - Adam Bozon - Aztec LTK Tutorial (turn captions on)]
+* Tutorial Video: [https://videos.huzip.net/tutorials/perfect-dark/ltk-dltk/Eric-Liikala/annotated/Aztec%20LTK%20Tutorial.html - Icy - Aztec LTK Tutorial (turn captions on)]
+
+=== DLTK ===
+
+* [[Goldeneye 007 Tutorial: Aztec DLTK|Aztec DLTK]]
+
+* Tutorial Video: [https://videos.huzip.net/tutorials/goldeneye/ltk-dltk/Adam-Bozon/annotated/Aztec%20DLTK%20Tutorial.html - Adam Bozon - Aztec DLTK Tutorial (turn captions on)]
+
+== External Links ==
+
+* [https://rankings.the-elite.net/goldeneye/stage/aztec Aztec World Rankings]
+* [https://rankings.the-elite.net/goldeneye/ltk/stage/aztec Aztec LTK/DLTK Rankings]
+* [http://thengamer.com/GE/19-Aztec/ Aztec Videos]
+
+==References==
+{{Reflist}}
+
+[[Category:GE Strats]]
+[[Category:GoldenEye 007]]
+
+{{Template:GoldenEye 007 solo missions}}
