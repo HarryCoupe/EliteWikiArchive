@@ -1,0 +1,152 @@
+'''Train''' (Part v of Mission 6: St. Petersburg) is the fourteenth level in [[GoldenEye 007]]. This is the only level to use the watch laser.
+
+{|class="wikitable" style="float:right;"
+!colspan="3"|Train
+|-
+| colspan="3" style="text-align: center;"| [[Image:Train.png|150px]]
+|-
+|}
+
+== Overview ==
+
+Bond must make it to the end of the train to save Natalya. The player must shoot off locks from the floor escape hatch and then run to the end of the level. Secret Agent and higher difficulties require Natalya to complete additional objectives.
+
+== Objectives ==
+
+=== Agent ===
+
+; a. Destroy brake units
+; b. Rescue Natalya
+; c. Escape to safety
+
+=== Secret Agent ===
+
+; a. Destroy brake units
+; b. Rescue Natalya
+; c. Locate Janus secret base
+; d. Escape to safety
+
+=== 00 Agent ===
+
+; a. Destroy brake units
+; b. Rescue Natalya
+; c. Locate Janus secret base
+; d. Crack Boris' password
+; e. Escape to safety
+
+== Version Differences ==
+
+* On PAL/Jap, Xenia only needs to be shot to death to trigger the longer countdown, as opposed to needing to fade out. Likewise with Nat for the shorter countdown. On NTSC, you can kill Xenia, but if she takes too long to die (slow death animation), you won't get the longer countdown.. <ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=18518.msg457386#msg457386|title=the-elite form post on function version differences|author=Icy|access-date=July 16, 2021}}</ref>
+
+== Facts ==
+
+=== Guard Types ===
+
+There are essentially only three types of guards in the level, and none of them are normal.
+
+;[[Guards#Targeting Guard|Targeting Guards]]
+:These are your usual targeting guards who are always pointing at you, and never leave their space. All the guards in the first car are targeting guards, as well as many in the second car, and two of the three outside at the end of the level. Despite not being able to move normally, they do shuffle around as they do their firing animations. Their crouching animation lasts for up to 4 seconds, with a 5/256 chance of uncrouching early each couple of frames.
+
+;Animating Guards
+:These guards are like targeting guards in that they can't chase after you, except they don't target you and don't have body armor. As soon they are alerted, they can only do one of three things: standing firing animation, crouching firing animation, and running firing animation if you're far away from them. They will constantly be cycling through animations without stopping, and they are also unable to open doors.
+
+;[[Guards#Chaser Guard|Chaser Guards]]
+:These guards have the same AI as the blue hat guards in Caverns. They will target your location, run to it, and then have a random chance to run some more towards your new position. Their AI is very broken and very chaotic, and they will never stop running for you. That said, once you develop a feel for how they work, their AI is quite abusable.
+
+;Running Guard
+:There is technically a fourth guard type, but he's pretty much irrelevant. The middle of the three guards outside will immediately charge for you as soon as he's alerted, and as he's by a box, he's very easy to blow up.
+
+=== Guard Spawns ===
+
+This level has a number of thresholds or invisible barriers that, when crossed, will trigger a one-time spawning of guards. There is a chance the guard will run to Bond, but this is not guaranteed.
+
+There are two guards in the second car who spawn as you reach the end of the first car up to the box tower. Each of them has about an 80% chance of being an animating guard, and about a 20% chance to rush you. When considering both of them, it's about a 1 in 3 chance that at least one will appear.
+
+The front of the second car has four guards. The guard to the left and the middle-right guard are both animating guards, and the other two are targeting guards. The two guards who can rush you once you reach the end of the first car each have different spots where they can appear in this section. They are marked in cyan and green below.
+
+[[Image:goldeneye_train_car2guard_spawn.png|border|second car guard spawns]]
+
+Like the end of car 1, the end of car 2 will trigger some guards to chase you, except here it's five guards and all have a 100% chance to do so. They are indicated by orange and purple. They occasionally approach slowly or their script may not get triggered if you move in and out of the trigger zone quickly enough, but they will eventually rush for you. The first trigger line near where the two guards were will cause two guards in car 3 to chase you, and the second trigger line to trigger the other three.
+
+[[Image:goldeneye_train_car2-3_triggers.png|border|third car guard spawns]]
+
+At the end of car 3, two more trigger lines will lure in four more chaser guards in total. They are indicated by green and pink.
+
+[[Image:goldeneye_train_car3-4_triggers.png|border|third car guard spawns]]
+
+As soon as you pass the trigger line in car 4 in white in the image below, two chaser guards will come from behind and one from the front.
+
+[[Image:goldeneye_train_car4.png|border|third car guard spawns]]
+
+Car 5 has two sets of four guards each for a total of eight. The first set are chaser guards who each have trigger lines like earlier in the level, and can have either a black hat, purple hat, or blue hat. Each guard has about a 20% chance to spawn with a black hat, a 20% chance to spawn with a purple hat, and a 60% chance to spawn with a blue hat. 
+
+The second set are animating guards who have various positions they can spawn in, and can have either a black hat or a purple hat. Each guard has about a 47% chance to spawn with a black hat, and a 53% chance to spawn with a purple hat. Black hat guards have a single D5K and Purple hat guards have dual ZMGs. Under [[DLTK]] conditions, these guards have 15 and 20 head shots worth of health respectively.
+
+The four animating guards are marked by yellow, green, blue, and magenta. As you can see, there are many different situations that are possible.
+
+[[Image:goldeneye_train_car5_triggers.png|border|third car guard spawns]]
+
+=== End sequence ===
+
+* Trev will begin his speech only after you enter the room, but will change the music when he sees you. Shooting at them, leaving through the door, or being within 25 units of a spot near them will start the countdown.  <ref name="function explorer misc facts">{{cite web | url=https://forums.the-elite.net/index.php?topic=18518.msg455830#msg455830|title=the-elite Goldeneye facts topic post on miscellaneous function explorer facts|author=Icy|access-date=July 16, 2021}}</ref>
+* Natalya will be shot by Ouromov 30s after Trev says "That's close enough!".
+* After 20s from when Ouromov was killed, Natalya will run towards you whenever you're near the train exit.
+* After 50s from when Ouromov was killed, Natalya will say "He's in Cuba!" and complete the objective.
+* After 75s from when Ouromov was killed, Natalya will say "Got it! You're a slug-head, Boris!" and complete the objective.
+* After 15s from when anyone was attacking, Trev will say "Good luck with the floor, James!". If Xenia is dead and faded out, this takes 30s instead. 5s after the message, the countdown starts.
+Despite Nat becoming active after 20s and the countdown starting at 20s, the two slightly different triggers, as well as lag, may be why the objectives appear to complete with a few frames of leeway when using the countdown timer as a measure.
+
+== Strategies ==
+
+=== Escape without Natalya ===
+
+For optimal times, you want to leave Natalya in the train to complete her objectives while Bond is near the level exit<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=21944.msg448409#msg448409|title=the-elite forum post "Post Runs For Critique Here!"|author=flicker|access-date=July 19, 2021}}</ref>. This requires fast locks. Trevelyan has two relevant lines
+
+0:12 - "Good luck with the floor, James"
+
+0:18 - "Shouldnt take more than a minute" changes to "I'm coming, James!"
+
+you need to be beyond this line{{Citation needed}} before Trev says that 2nd line, otherwise Natalya follows you outside
+
+=== Theoretical ===
+
+==== Pause level end time save ====
+
+It may be possible to save a third of a second by timing a pause at level end. See the [[Pause#Level_end_time_save|pause]] strategy section.
+
+== Tutorials ==
+
+; General Tips
+
+* Locks are the most vital part of the level<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=854.msg321331#msg321331|title=the-elite forum post "Post Your Best Legit (And Semi-Legit) Fails Here!"|author=Wyst3r|access-date=July 20, 2021}}</ref>
+
+* For 00 Agent, If you escape the train without triggering Natalya to follow you, you want to trigger the exit fade exactly 10 seconds after her text "Now, if I just had time to crack his password..." first appears<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=854.msg357031#msg357031|title=the-elite forum post "Post Your Best Legit (And Semi-Legit) Fails Here!"|author=Wyst3r|access-date=July 20, 2021}}</ref>. 
+
+; Tutorials
+
+* [[Train: Practicing Locks]]
+
+=== LTK ===
+
+* [[Goldeneye 007 Tutorial: Train LTK|Train LTK]]
+
+* Tutorial Video: [https://videos.huzip.net/tutorials/goldeneye/ltk-dltk/Adam-Bozon/annotated/Train%20LTK%20Tutorial.html - Adam Bozon - Train LTK Tutorial (turn captions on)]
+* Tutorial Video: [https://videos.huzip.net/tutorials/perfect-dark/ltk-dltk/Eric-Liikala/annotated/Train%20LTK%20Tutorial.html - Icy - Train LTK Tutorial (turn captions on)]
+
+=== DLTK ===
+
+* [[Goldeneye 007 Tutorial: Train DLTK|Train DLTK]]
+
+== External Links ==
+
+* [https://rankings.the-elite.net/goldeneye/stage/train Train World Rankings]
+* [https://rankings.the-elite.net/goldeneye/ltk/stage/train Train LTK/DLTK Rankings]
+* [http://thengamer.com/GE/14-Train/ Train Videos]
+* [https://forums.the-elite.net/index.php?topic=24045.0 Train DLTK guide by Icy]
+
+==References==
+{{Reflist}}
+
+[[Category:GE Strats]]
+[[Category:GoldenEye 007]]
+{{Template:GoldenEye 007 solo missions}}
