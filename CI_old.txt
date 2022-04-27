@@ -1,0 +1,48 @@
+[[Image:Defense.png|thumb|Carrington Institute: Defense]]
+
+'''Carrington Institute: Defense''' (usually referred to as "'''CI'''") is [[Perfect Dark]]'s 15th level.
+
+One objective on this level is rescuing the CI hostages, of which there are seven. You only need to rescue a bare minimum of
+* 2 hostages on [[Agent]],
+* 4 hostages on [[Special Agent|SA]] and
+* 6 hostages on [[PA]],
+BUT you still need to ''visit'' all of them. This often entails opening the door to a room full of hostages and simply walking away, or, on PA, shooting the hostage yourself.
+
+== Agent ==
+
+It's possible to open the door to one of the hostage rooms on the top floor ''through the wall'' from outside the OTHER door. This saves about 2 seconds of detour.
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=Tg51_nlAHoM Big Bossman - CI Defense A 0:46]]
+
+== Special Agent ==
+
+Strat here.
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=TQSGJOYsJf8 Big Bossman - CI Defense SA 1:22]
+
+== Perfect Agent ==
+
+If all the hostages are still alive when you rescue Grimshaw and his co-worker, then one of these two (the first one who turns to you) will drop a [[Devastator]] as they thank you for saving them. The Devastator is critical on PA.
+
+The grenade fired into the hologram training room is intended to kill the ''hostage'', not the guards.
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=PiVNkcIitEk Big Bossman - CI Defense PA 1:34]
+
+Planning on only using the combat boost once gives you the advantage of using the second dose to reverse the effects of the first during times where the boost is counter-productive (e.g. while re-programming the ship at the end).  Using it twice means that, during the second dose, you have no way to reverse it.  This can apply to other levels with the combat boost, but the last objective of this mission is time-sensitive; being in "boost mode" at that point means that the objective takes more seconds to complete.
+
+== LTK ==
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=Ye_WqTnMxCc Big Bossman - CI Defense LTK 1:43]
+
+== DLTK ==
+
+* '''World Record Video''': [https://www.youtube.com/watch?v=dQ3TF4BNp9A Flickerform - CI Defense DLTK 1:58]
+
+== External Links ==
+
+* [http://rankings.the-elite.net/perfect-dark/stage/ci CI Defense World Rankings]
+* [http://rankings.the-elite.net/perfect-dark/ltk/stag CI Defense LTK Rankings]
+* [http://www.thengamer.com/PD/15-CI%20Defense/ CI Defense Videos]
+
+
+{{Template:Perfect Dark solo missions}}

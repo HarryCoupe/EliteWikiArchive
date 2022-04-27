@@ -1,0 +1,92 @@
+[[Image:Attackship.png|thumb|Attack Ship: Covert Asault]]
+
+'''Attack Ship: Covert Assault''' is [[Perfect Dark]]'s 16th level. This is the level where [[Perfect Dark]] "jumps the shark", so to speak. This is for two reasons:
+# This is the level where all the human enemies are replaced with alien Skedar.
+# This is the level where Elvis successfully dethrones [[GoldenEye 007]]'s Natalya as the most annoying non-player character in either game. Words cannot adequately express how frustratingly Elvis behaves in this level. His utter lack of self-preservation instinct, combat ability and speed combine with his critical importance to the mission to promote him beyond "liability" to "ball and chain" status. Any speedrun in which Elvis completes his objectives at a high speed without dying is a statistical fluke.
+
+===Combat with Skedar===
+
+Skedar programming is unbelievably simplistic compared to that of human enemies in this game. Every Skedar on this level wields a single [[Mauler]] except the bridge commander who has two. When you are seen, a Skedar will run to a nearby position, turn to you and start shooting. They'll shoot about five shots, then move again, then shoot again; if they lose sight of you, they'll keep moving. That's it. They have extremely poor accuracy from long range but are deadly close up and a single shot will do you serious damage (on [[PA]], five direct hits equals death). If you are crazy enough to go toe-to-toe with a Skedar it will headbutt you or kick you in the head, which can kill you instantly from full health on PA. Luckily, this almost never happens if you know what you're doing.
+
+Since the very first waypoint is almost always exactly the same for many Skedar, you can predict where they're going to be running and aim there pre-emptively. A single fully-charged shot from a Mauler will take one down instantly wherever you hit it; half a clip from an [[AR34]], likewise. If you miss, a single regular Mauler shot will ''not make it flinch'', which is cause for alarm; you will need to seek cover or try to get behind it as fast as possible.
+
+Skedar which spawn during the hangar alarm sequence have about half as much health and are even more inept with their weapons than the regular ones.
+
+===Other advice===
+
+Particularly on higher difficulty settings, don't let the Mauler charge by more than a one shot when taking down the shield generators: you need that ammo and the generators have very few hit points.
+
+The elevator in the hangar is activated by you and the Maians killing a set number of Skedar there. This number varies by difficulty level and since the number of Skedar the other Maians take down also varies, it's difficult to determine how many you should kill before making your run for the elevator. On PA, six is a good bet.
+
+In general, as you will be streaking ahead of Elvis, you need to kill any Skedar you pass so that he doesn't slow down, try to fight them, and die.
+
+== Agent ==
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=hoDBItqvH6k Chuya Takizawa - Attack Ship A 2:06]
+
+'''Target Time Video (2:10)''': [http://www.youtube.com/watch?v=nMFxpDNZsMc Big Bossman - Attack Ship A 2:10]
+
+== Special Agent ==
+
+Strat here.
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=OmFJwo7X2MA Greenounet - Attack Ship SA 2:33]
+
+== Perfect Agent ==
+
+'''4:20 strategy'''
+
+Let's not make any mistake here - Attack Ship [[PA]] is one of the hardest levels in the game. Not the hardest, that honour goes to [[Maian SOS]] PA or [[Air Base]] PA, but close enough to make it incredibly unpleasant to try to get anything approaching a fast time. This strategy assumes you already have reasonably well-developed moving and aiming skills and a good knowledge of the level. Under 5:00 should be cake.
+
+Time your exit from the cinema so the first lift is right there when you get there. Play a couple of times through to work out exactly when this is. I generally choose after Jo groans the second time, but it depends how quickly you can pull off the first bit. Immediately left-[[strafe]] towards the door and zoom through, around the corner. Switch to right-strafing at the corner and skid over to the first Skedar. Two things could happen now: either it spots you and starts shooting back, in which case you should circle warily and try to slash it from behind, or it will not see you in which case one slash to the tail will sort it out instantly. Pick up the [[Mauler]] and switch it to charge-up shots if you haven't already done so, and take aim at the leftmost shield generator. Shoot once three shots have charged - you don't need more energy than that so it's a waste of precious ammo waiting for it to charge fully. Strafe right a pace or two, shoot the second generator and then the third as fast as possible. Do not wait, the pause between shooting each generator is enough time for the Mauler to charge up. Listen out for the lift arriving at this point.
+
+Break away and run around the corner to where the other Skedar will now be waiting. If the lift is already here, dive in and hit B on the way to close it behind you, but if it isn't quickly headshot the Skedar then call it. Grab the extra ammo while you wait: DO NOT reload as this wastes a whole 5 bullets of charged ammo.
+
+At the bottom of the lift (now with anywhere from zero to 10 bullets left), left-strafe across the middle of the mian hangar ignoring the two Skedar here. Skedar are morons: they can't shoot over a long distance to save their lives, so unless you're exceptionally unlucky you will take no damage at this point. Head down the far ramp and turn to head towards the next lift. Usually it will be waiting for you but you might have to call it depending on when you quit the cinema earlier and how fast you were getting here. Shut the door as you run in and turn around to face it. Stand in the front right corner of the lift as it rises.
+
+At the top, go out and turn right, heading across the raised walkway to the hangar bay door control on the left of the large panel of controls. Look down at it from above and hit B to activate it, then quickly high-tail it back to the lift. There's no way you can beat the lift before it closes so just call it when you get there and turn right to look out for the Skedar in this room, who may turn up at any time. If it does, shoot it. Dive down the lift again, closing the door behind you.
+
+At the bottom, one or more of the two Skedar you ignored earlier will probably now be waiting, but Elvis is there too. The two Skedar scarper pretty soon - and get shot in the hangar - so you don't really need to bother taking them on unless they start shooting back. Run out past Elvis and turn right at the top in the hangar. Switch to your [[AR34]] as soon as you collect it and go and face the hangar door on the right. The many Skedar who spawn now have far lower energy than the usual ones so the AR34 is ideal for taking them out. Bop the first one in the head as the giant door opens, then spin and take out the one who spawned at the opposite door. Repeat this until you've shot four or more Skedar. Then run to the other two big doors, near the lift.
+
+Collect the ammo from any Skedar who have been killed around here and wait for more Skedar to spawn. There's a certain trigger which causes the top lift to start descending. That happens when a Skedar spawns behind the door in one of the large areas and then ANOTHER one spawns almost immediately afterwards, this time much further back inside the dark area. This triggers the lift descending. Collect as much more ammo as you fancy while you wait, then go and wait inside. TT: 1:40 or something, I think. Just a guess. Haven't played this level in a while.
+
+If you have more than two clips of Mauler ammo, switch to the Mauler at this point, otherwise go with the AR34. Head in the far door facing left in preparation for zapping the nearest Skedar right in the head the second it opens. (If you're unlucky, the second Skedar sometimes runs and opens this door, and gets in the way. Not much you can do about that. Just deal with it...) Quickly spin right and finish the other one off with an efficient head shot. Run through the door on the right and kill the third Skedar, and if you need to reload, do it ASAP or you'll have to face no. 4 while reloading... not nice. Don't stop to collect ammo and run through the door on the left to face the fourth Skedar, blast it from a distance at your leisure.
+
+Reload your Mauler BEFORE it starts charging, to conserve ammo, and run straight ahead at the next junction. Turn right, look up the ramp, and shoot the Skedar here. This is to make sure that Elvis doesn't have to fight it himself on the way up from the navigation room. Run back the way you came (Elvis may have caught up by now) and right, into the nav room.
+
+This bit sometimes runs like a dream and sometimes goes totally wrong. Shoot the furthest Skedar from the doorway, then strafe around and blast the next one in the face before it manages to react. If it all goes horribly wrong, stick to cover and take it carefully, trying not to get shot. Head out the other way from the nav room, go right and through the next door to kill the next Skedar. Run back and look through the still-open door to the nav room. Elvis has probably arrived by now. If not, the act of looking back seems to have a positive effect on whether or not he completes his objective in the nav room. Run away, switching to the AR34 again, and head upwards.
+
+If Elvis has reached the nav room properly, you'll get an Objective Completed message about now. Rake the lone Skedar at the end of the corridor and switch to the Mauler AND CHARGE IT before rounding the next corner. There are most often two Skedar in this corridor, one of whom is right up at the far end. The furthest one will run away as soon as you arrive, in order to get Elvis who is coming up from the opposite direction. If you're quick and accurate it is sometimes possible to shoot it in the back as it runs, saving Elvis a little health and making it more likely that he will survive. However, 50% of the time there is another Skedar halfway along the corridor who runs in the same direction, thus getting in the way. Although it's not critical that you kill the further Skedar, it's very important that you get the nearest one, so make sure it's dead before heading right, towards the engine room.
+
+The other 50% of the time the nearer Skedar isn't there, and this means it is actually in the engine room, hiding behind the first door to ambush you. Be careful opening it and you can ambush it back. Ignore the Skedar on the left and run right, switching to AR34 as you do so. Open the next doors, ignore the Skedar at the corner, then pause and turn off your Auto-aim from the Control menu. Cross your fingers, then left-strafe into the engine room proper, aiming upwards.
+
+The reason you turn off your Auto-aim at this point is because if you don't, the game has an annoying habit of pointing your gun at the Skedar on the ground level instead of at the brown connectors holding what, for want of a better word, must be referred to as the "warp core". Strafe into the room and rake the nearest connector with half your clip on the way in, destroying it. Keep going, stop briefly to shoot the second connector, then leave by the way you came in. Pause on the way out to turn the Auto-aim back on again.
+
+This method is risky and dangerous, but it is anything up to thirty seconds faster than sticking around to shoot everything in the room for safety beforehand, and the damage risk, believe it or not, is actually quite low. These Skedar really CANNOT aim.
+
+You'll encounter one or two Skedar on the way out, ignore them and high-tail it for the exit. Turn right and head upstairs, charging your Mauler again on the way. Elvis might be somewhere around here, just ignore him too. At the top, shoot the Skedar guarding the door and reload. Head in the next few doors.
+
+Go either direction in this room, face up the ramp and blow the Skedar's head off from below. Turn to face the door and wait for the Skedar at the other side to come down, and shoot it too as it comes into your line of fire. Quickly run up the ramp and call the lift if it's not already there, or close it if it's waiting.
+
+Reload and focus. If you got here at around 3:30 you stand a good chance of beating the 5:00 barrier. Check your health to determine how much discretion to use on the bridge. If you're low, take it slow, use the lean to stay in cover and shoot while the other Skedar aren't. However, if you have a few hits left, you can shoot the middle Skedar right in the head as you arrive, then duck right into cover and take out the next two Skedar with two more charged shots. Note: the faster you kill these guys, the faster Elvis arrives. Collect all the ammo quickly, taking particular time to make sure you get the double Maulers from the bridge commander. Reload both Maulers and wait by the left-hand door for Elvis to arrive.
+
+When he does, run in and block the door from closing with your body. Face the middle of the small room and wait for a Skedar to decloak inside. Shoot it instantly but do not reload. Strafe backwards and right to face the other door, listen to the approaching hoofbeats, and shoot the next Skedar which comes through. Run in and wait for the third and last Skedar to decloak inside, then shoot again and wait for the level to end.
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=oA1f87v2qOE CEDRIC - Attack Ship PA 3:09]
+
+== LTK ==
+
+* '''World Record Video''': [https://www.youtube.com/watch?v=zMuD9KHYWcE Dr. Light - Attack Ship LTK 3:32]
+
+== DLTK ==
+
+* '''World Record Video''': [https://www.youtube.com/watch?v=SXI59pCUuEU Flickerform - Attack Ship DLTK 8:33] 
+
+== External Links ==
+
+* [http://rankings.the-elite.net/perfect-dark/stage/attack-ship Attack Ship World Rankings]
+* [http://rankings.the-elite.net/perfect-dark Attack Ship LTK Rankings]
+* [http://www.thengamer.com/PD/16-Attack%20Ship/ Attack Ship Videos]
+
+
+{{Template:Perfect Dark solo missions}}
