@@ -1,0 +1,178 @@
+[[Image:Deepsea.png|thumb|Deep Sea: Nullify Threat]]
+
+== Background ==
+
+'''Deep Sea: Nullify Threat''' is [[Perfect Dark]]'s 14th level. 
+
+For reasons unknown, it is usually impossible to skip all but the last few seconds of the closing cinematic on this level.
+
+This level is the largest in the game (and pretty sparse when it comes to it). The use of "teleportals" means that on [[A]], [[Special Agent|SA]] and [[PA]] you'll find yourself diverted through various different areas which are all part of the full level, but not connected to each other, and you'll actually end up deactivating the megaweapon three different ways. On Perfect Agent, the Cetan megaweapon is ultimately deactivated by blowing up a pair of hidden pillars using the [[Farsight]].
+
+On Agent and SA, if you are playing [[PAL]], it is possible to locate and destroy these pillars from entirely different areas in the level, by scoping through walls with the [[Farsight]]. This is MUCH faster than waiting for Elvis to deactivate the weapon. On [[NTSC]], however, the Farsight doesn't have enough of a zoom range to pull this off. This puts PAL at an advantage of over 90 seconds total over NTSC players.
+
+== Other References ==
+
+* [https://www.youtube.com/watch?v=13nFOotq1R4 Agent Tutorial by Greg K - Video]
+* [https://www.youtube.com/watch?v=CLnXQEVvY7c Perfect Agent Tutorial by Flicker - Video]
+* [https://www.youtube.com/watch?v=NyEzvRQPGsQ Easy Farsight Shots Positioning by Deep Darkness - Video]
+* [https://drive.google.com/drive/folders/1gNqBhBeNJXChVYpwULcpn6vFXWvHnh-I?usp=sharing Second Agent Farsight Shot visual reference by Greg K - images]
+
+== Strategies: Overall ==
+
+=== A/SA: PAL Only ===
+
+For PA the versions are pretty much the same, but PAL and NTSC-J are considered slightly better due to Elvis consistency (still unconfirmed, claimed by Boss). 
+
+=== Elvis Consistency ===
+
+The level is basically split into two big parts on all difficulties - even with the second part being different in each one of them. First part involves getting Elvis inside the Objective 1 room as fast as possible. The strat used will vary for each difficulty but in general the consistency is based on how many shotgun guards are left alive, how fast you kill them, having Elvis himself being fast plus not doing anything stupid and some mysterious unconfirmed information.
+
+* '''Guards left alive''': the rule of thumb is: more guards killed, more consistency. By watching videos you'll notice that usually for fast times '''one shotgun guard is left alive''' in the first big room. Hopefully Elvis kill this guard fast and will follow you quickly up to the Objective 1. Killing them all is actually better for obvious reasons but we haven't came up with a fast strat for it. Leaving more than one shotgun guard behind, however, greatly decreases Elvis consistency. It is only worth playing out runs on that situation on [[Perfect Agent]] where it is already hard enough to get a clean start. 
+
+* '''Killing guards fast''': based on multiple players' experience with the level it also seems like the faster you are at the Shotgun guards section, the better for overall consistency. ''Note from Vitor: I've noticed that Elvis would show up more often on really fast runs rather than average fast runs, specially on Agent where WR Elvis are more rare. This doesn't mean that going really fast will guarantee you a fast Elvis, though.''
+
+* '''Elvis behavior''': there are a few bad things that can happen with Elvis that could ruin a good pace run very quickly and some of them could happen in the last section before the Objective 1 room (e.g: he starts walking in slow motion), but his pace is determined mostly on the first sections as that will make him "warp" or "skip" some segments when you are far away. So what we call '''luck''' on this level is mostly having Elvis running fast (specially in the beginning), not wasting time killing the extra guard in the first room (e.g: bad shooting animations) and not slowing down when approaching Objective 1 room. 
+
+* '''Others''': it is hard to tell as you are not looking at Elvis when doing the runs, but it feels like even by doing everything listed above Elvis will still not cooperate sometimes and we don't know why. Could be related to the path that you take along the level, or could be something with the CMP guards. Also not looking behind when going through the tunnel seemed to help (as that makes sense with his "segment skips") but that wasn't confirmed too. Read below for more details on his consistency on each difficulty as on Agent there is more luck involved since the pace is more tight. 
+
+=== Shotgun guards strats ===
+
+* The [[Alternate Function Shot]] (holding B and pressing Z) can be really helpful on this level. The Double Blast (2nd function) is more accurate (less spread) than the Single one. By having the Shotgun set to Double, when doing B+Z for the alternate shot, the single blast that is shot actually has the accuracy of a double. So basically you can do more accurate single blasts. This is super helpful (althought not 100% necessary) for all difficulties. Takes some practice but it is worth it for sure. 
+* There are different strategies that can be used to kill the guards (varying in speed/consistency). You can even let Elvis kill one or two guards in first room. But keep in mind that slow strats will not yield you super good Elvis paces. 
+* Guards on Agent will behave a little different than on SA/PA due to their slow reaction time, meaning that 1st and 2nd guards movement will vary a bit (2nd one will be kinda far) and more importantly the ramp guard will only come down on Agent after you kill the guard behind the rock, while on SA/PA he will come down as soon as you're spotted. So the Agent WR strat can't be used 100% on SA/PA - only with some adaptations. 
+
+==== First section (5/6 guards) ====
+
+* The considerations here are for WR strat or similar ones. If you're learning the level you can try out some easier/different ones, such as the one that Narigutita used in [https://rankings.the-elite.net/~Narigutita/time/179323 his Agent 2:37] for a quick completion - that is one of the very first strats used in Deep Sea.
+* Talking about WR/decent time strats now: if you have played the level a bit you've probably noticed that sometimes guards will take weird paths. However if you approach the door through the very middle (maybe slightly to the right but that's just by feel) you should be good. First guard will run from you in a straight line. The next two guards will do an X - you kill the one that goes from left to right. Sometimes, rarely (way less rare on SA/PA) the very first shot will kill the guard behind too (the one that you'd skip). 
+* 3rd and 4th kills is where you can have some variations. For [[https://rankings.the-elite.net/~Greg+K./time/183050 Agent WR strat]] you get close to the guard behind the big rock and turn for a quick kill on the guard that comes down the ramp. This strat for some reason is the only one that gives 51 Elvis paces on Agent (more below). Killing the ramp guard with a Double Blast from far away first is a consistent while also a fast strat for SA/PA (used by Karl's on his [https://rankings.the-elite.net/~Karl+Jobst/time/110335 SA 2:55], for instance). 
+* ''Note from Vitor: I like to use the Agent WR strat, even if adapted for SA/PA, because I feel like that gives insane Elvis paces more often - and I kinda got used to it after a while. You can see me using that on my [https://rankings.the-elite.net/~Greg+K./time/183358 SA 2:56 (.0 decimal)] and my [https://rankings.the-elite.net/~Greg+K./time/186980 PA 3:10] - this one was a 57 Elvis''.
+
+==== Second section (4/4 guards) ====
+
+* Start off with a double blast that should kill the 5th and 6th guards. This is pretty much the same for all difficulties, other than that on Agent it should be easier to kill guards - in theory. However, since on Agent you should yolo the shots a little bit, it turns out that this double kill could be super inconsistent which is very annoying. So for better consistency aim for the very middle and wait a little bit. If you shoot too fast you may kill one guard and they won't bump into each other, which makes it way easier.
+* Sometimes (or most of the times, rather) your double shot will only kill one of the guards. You shouldn't quit out because of that, though. Use single blasts depending on your remaining shotgun shells. However be aware that losing a couple of seconds here will very likely decrease the chances of a really good elvis on Agent, being capped at around 53-54 (and perhaps on SA if you're going for insane paces). For PA you're still OK - such as in [https://rankings.the-elite.net/~jezz/time/112681 Jezz 3:02 which had a 58 elvis].  
+* 7th guard (on the left) is progressively harder on A, SA and PA - the alternate B+Z shot helps a lot here in case you need to do a single blast! 8th guard shouldn't be too much of a problem if your aim is not completely off. 
+* On PA you can die on this part. But other than that it is very similar to SA (consistency wise) as you need headshots. 
+* An alternate strat for 7th and 8th kills is killing the one on the right while the left one gets closer. This helps a little on PA as you will get shot less often by the guard on the right. 
+* '''DON'T''' leave guards alive here. It will pretty much kill any chances of Elvis being fast. Try it out if you want (anything could happen) but 99 out of 100 Elvis will get stuck here trying to kill the cloaked guard left alive. ''Note from Vitor: I had VERY few runs where Elvis was on pace on this situation. Probably like one or two throughout all the difficulties. So just don't play out these runs.''
+
+=== Tunnel CMP Guards - general strategies ===
+
+The movement and shooting will vary for each difficulty. On Agent the guards are super chill but on PA they can kill you in one second with a bad animation. But some general tips include:
+
+* Avoid leaving guards alive here unless you get a good Elvis and you are 100% sure that he's getting kills faster than you (mostly valid for PA and eventually SA). 
+* Use [[Pause Buffer]]. Helps a lot. 
+* Watch out your ammo and make smart decisions (e.g: hiding, waiting for a guard to show up). Basically don't hold Z hoping that you'll kill everyone super fast. 
+* Pay attention to Elvis sounds (talking/shooting) on SA/PA so you know if you should react and do something. If you use headphones you can likely hear his footsteps when getting closer to the room too (helps for Agent leave timing). 
+* After playing out many runs you'll notice a pattern with guards movement if your pace is somewhat consistent. Non-cloned guards will likely hide behind the walls on the sides too and there's a guard in the far end of the hallway almost every time. 
+* Always try to hold speed within the Objective 1 room. On SA/PA if you get a sloppy run but Elvis gets there faster than you killed the guards, you can leave one guard alive inside the room and just get the hell out. 
+
+=== Tunnel CMP Guards - clones ===
+
+When going down in the tunnel (on the way to Objective 1), if the first patrolling guard (the 4th one) sees you even for a fraction of a second before you stun or kill him, clone guards will spawn so you'll have to kill 6 more instead of 3. This makes a HUGE difference for PA, and it helps a lot on SA as well. For agent it doesn't really matter that much as you have some spare time.
+
+His position will also vary according to your pace. 
+
+So try to stun the guard when going down the small ramp and kill him before he gets back to neutral position. This is a little tricky though as you only see like 50% of the guard's hitbox. Going down through the left side of the ramp seems to help too.
+
+=== Ending ===
+
+* '''Open Door:''' On all difficulties it's possible for guards to randomly open the big door (second one after cutscene) - one every 20 tries or something like that. Shooting will create more lag and don't increase the chances of that happening, so just focus on the strafing and be prepared in case you hear the door opening. 
+* Guards can boost you (one to three on Agent, and a lot on SA/PA). It's hard to time but one good boost can save like 0.2, so eventually up to half a second or even more could be saved. 
+* A good ending with no door open and no boost should be around ~21.3 (starting off from cutscene time). 
+* Strafing is really important here to save some decimals. Watch out for small details.
+* Careful to '''not move the stick around when teleporting''' to the Dr. Caroll room (or any other teleport) as that will make you do a weird turn. 
+
+== Strategies: Agent ==
+
+=== Overall Considerations ===
+
+{| class="wikitable"
+|-
+! Type
+! Degree
+|-
+| Pure Strafing
+| Good strafing here is important for the second part up to the end (around ~1:30 of strafing) but it is easy to execute with some practice in general, but making dumb mistakes after Farsight shots could happen, specially if you're on a good pace under heavy nerves. Watch out for optimal strafe lines everywhere.
+|-
+| Shooting/Overall Movement
+| The WR strat for first room isn't trivial but a good player will get it down with some practice. Also guards movements are mostly predictable (both shotgun and cmp guards). Farsight shots can be practiced and they are 100% skill so that helps too. 
+|-
+| Nerves/Adrenaline
+| Very high, mostly due to Elvis randomness. It gets very tense after hitting the Farsight shots - which is not a trivial thing to do even with lots of pratice. 
+|-
+| Luck
+| WR Elvis (51-ish) are uncommon (even with WR strat and fast starts), but a little worse than that (52-53) should be way more common with some practice, so this level is '''not''' so pure luck based (as [[Carrington_Institute:_Defense]] on [[PA]] or [[Area_51:_Escape]], for instance).
+|}
+
+=== Shotgun guards - first room ===
+
+Other than what is written above in '''Shotgun guards strats''' and also obvious things that can be spotted watching videos:
+
+* The WR strat for first room - killing the guard behind the rock first - '''is the fastest strat known that will yield 51-ish Elvis'''. Also it will give 52-53 Elvis more often if executed consistently fast. It is slightly inconsistent, though, especially due to the rock guard kill and the tight movement for the ramp guard kill, so some decent practice is necessary. That was used in the best runs, such as [https://rankings.the-elite.net/~jezz/time/110211 Jezz's 2:25], [https://rankings.the-elite.net/~Karl+Jobst/time/110221 Karl's 2:25], [https://rankings.the-elite.net/~Greg+K./time/183050 Vitor's 2:25], [https://rankings.the-elite.net/~Lake+Demon/time/183819 Lake Demon's 2:28] and many others. 
+* The key thing about this strat is to balance out how close you want to be on the rock guard kill versus how much time you have left to turn to the ramp guard coming at you. Try out different timings and see what's more comfortable for you. 
+* The alternate strat (swaping guard-ramp guard kills), which is a little easier, will likely give 53-54 Elvis more often and rarely 52s. Examples are [https://rankings.the-elite.net/~Greg+K./time/180279 Vitor's 2:27] and [https://rankings.the-elite.net/~Funky+Buddha/time/61518 Funky Buddha's 2:27 - the WR set back in 2012].
+* ''Note from Vitor: I duped lots of 2:27s with the ramp guard first strat, and had a few 52 Elvises. When switching to WR strat I started getting 52s way more often and had 4 51s, including a 51.0. I did the switch after Karl told me he would get 51s semi-often with WR strat, and that the older one was "limited" to 52-53s. We're not sure why that happens but was empirically confirmed.
+
+=== Shotgun guards - second room ===
+
+* Not much to say here, just double blast and kill guards '''really fast''' for a better chance at insane Elvis TTs. 
+* The double shot can be super inconsistent if you try to do it very fast (which is important for Agent) but again it might have an impact on Elvis pace so balance out your runs. Aiming for the middle and waiting a little bit helps with consistency. 
+* The target for the Falcon 2 switch should be around '''21.8~22.2''' in general for fast runs. Depends on how much you walked backwards, though, and also if you used a single blast for last guard or not, but it's okay as a target time.
+
+=== CMP guards ===
+
+* On Agent this part should be super chill unless you get really unlucky with guards. 
+* Again for good Elvis consistency try to do this part very fast and '''avoid looking back when in the tunnel'''.
+* Another unconfirmed myth: when turning to hold speed, if you had too much spare time (more than 3 or 4s), wait a little before turning to the wall (thus towards Elvis). 
+* Target time for Elvis is when he says "Time to reactivate those teleportals". 
+
+=== Farsight shots ===
+
+* The shots on Agent aren't easy by any means, specially the second one (if using WR positioning). So the key thing is '''practice as many runs as possible, including slowish Elvis runs'''
+* On the strat used on [https://www.youtube.com/watch?v=h9aE1yyB2Wo?t=100 Jezz's 2:25] and mimicked on [https://www.youtube.com/watch?v=TOvlPC0fHB4?t=104 Vitor's 2:25 later on] you make the turns in the tunnel following the wall and underneath the 6th beam get closer looking slightly to the left for the first cannister - this is a somewhat easy shot. Then when approaching the pillar that's up ahead, do a hard turn left for the second shot. 
+* You can hold R and mash Z for the shots if you're really confident. 
+* The further you are from the wall, the better! When the cannister are kinda red and blurred it means you're on almost optimal distance. A little more than that and you can't see and shoot them. 
+* You can also [https://www.youtube.com/watch?v=pGg8q893-P8?t=106 pause buffer for the second shot] but that is like 0.3 slower. Use the pillar for a visual reference as shown in [https://drive.google.com/drive/folders/1gNqBhBeNJXChVYpwULcpn6vFXWvHnh-I these pics]. 
+* There are many setups possible for the shots, but ideally you want to '''strafe between the shots to optimize the Farsight cooldown time'''. Watch many videos and find the setup/positioning the suits you the best. 
+* The stationary strat used by [https://rankings.the-elite.net/~Lake+Demon/time/183819 Lake Demon on his 2:28], for example is a good easier alternative but it's almost a second slower.
+
+=== Ending ===
+
+* After the second shot, pay attention to your strafe line and go to the middle of the hallway as that's the optimal line. The double green doors can be opened from kinda far away and you can "squeeze in" really fast - also practice this part as you can lose/save tenths easily.
+* Not much more to say other than hopefully don't choke, such as missing B after teleport or getting the cutscene freeze/stuck.
+
+== Strategies: Special Agent ==
+
+
+== Strategies: Perfect Agent ==
+
+'''4:00 strategy'''
+
+Forget about putting the [[IR vision]] on, and stay with the [[Falcon]]. Run straight through the first clutch of cloak guards and head towards the airlock on the far right - you shouldn't get hit. At the top, a guy will cloak and run past you. Turn on your IR vision as you get to him and climb the ramp to stand in front of the airlock, watching as he scoots away below you. You have higher ground here and the fact that you're looking backwards means Elvis will be able to catch up relatively fast. Once that guard stops moving, empty a Falcon clip into him at extremely high speed - a Falcon 2 is easily as dangerous as a [[K7 Avenger]] if you're fast enough on the trigger. This should kill him.
+
+At this point anywhere from zero to four of the other guards in the room will run in from the left. Elvis will be laying into them with his single-shot-kill [[Farsight]], but they are still shooting at you. The aim here is to take at least one more of these guards down - best tactic, I find, is to go for a headshot. Devote just a few seconds to this, then, whatever the situation, switch to your shotgun on double-blast and go through the two doors. The first door doesn't respond if you're at the instant of switching weapons, for reasons unknown.
+
+Blast straight down the middle of the next two guards to take them both out - if one survives, you have room for an additional double-blast to take him out properly, but if both survive, you're screwed and might as well quit. Run through and turn left - you'll probably take a shotgun blast in the back from the guard on the right - and line up CAREFULLY for this guy. He is carrying proximity mines which he drops when killed - if your first blast kills him, your second may trigger the mines and blow you up, but this is pretty rare. You don't need the mines anyway. Back up as you finish that guy off, and finally take out the fourth guard near the Skedar corpse as you pass him. You shotgun is down to 1 or 3 shells at this point - switch back to your Falcon. The shotgun slowly reloads itself while it's not selected, which is handy.
+
+Take out the first red guard from behind (he runs away) with four solid torso hits or whatever you can manage. Reload and use one Falcon clip each on the two guards at the bottom near the honeycomb maze. You'll have about 10 bullets left by this point, to use on the first patrolling guard in the tunnels and shoot the first lantern. Once done, switch to the [[CMP-150]] - you should have collected at least two clips for it by this point.
+
+In the next few tunnels there are about seven guards positioned randomly. The aim here is to get to the farthest lantern as quickly as possible, so Elvis catches up - you can take your time shooting your way back to the final room with the CMP-150 and [[shotgun]]. Now, depending on any number of random factors, Elvis will catch you up in that room somewhere between 1:20 and 2:00. 1:30 is your target - the rest of this level is down to you and not him, and takes a pretty much constant amount of time. You should also make sure you have around a third of your green health bar remaining or you're not guaranteed to survive the rest of the level.
+
+Reload the shotgun completely as you zoom to the first teleportal. Blast each of the three guards in the big cylindrical room once to wound them, but keep running (you may take damage from behind as you hare away). Reload a little in the joining tunnel and - if you are low on health or they are likely to be a threat - shoot the next two guards on the way to the second teleportal too. Switch to the Farsight (on Target Locater) before you reach it.
+
+Like the big columns later, you can take out the first of the green lamps in this room before the door is fully open, although it's not a sure hit. Take out all five and strafe madly through the rest of this section, reloading when you get brief chances. Hug the inner walls to avoid taking explosion damage and ignore all the little critters. When you get to the T-junction with the second drone gun, take it out and run to roughly where it was. Aim through the wall to the left to get the farthest column without wasting time running for it. Take out the column through the door ahead while backing up. Turn right and take out the first hidden column through the wall, then run for the final door to leave the T-junction permanently. Stop at the door - you have to be fast or the mini Skedar will have caught up - and turn right to take out the other hidden column. Switch to the CMP-150 once more on your way to the last teleportal.
+
+Spray madly and aim to take out at least one Blonde - switch to the Backup Disk and lurk next to Dr. Carroll while Elvis takes out the other one if you don't manage to get them both. You need about 3:35 here to beat 4:00 at the finish.
+
+Finally, hope you have enough luck/health to survive the last dash. If you have any CMP-150 or K7 ammo left you can spray this madly at the last clutch of red and cloaked guards on your way to the exit doors. Don't forget that unlike many levels you actually need to step through the last door to finish...
+
+== External Links ==
+
+* [http://rankings.the-elite.net/perfect-dark/stage/deep-sea Deep Sea World Rankings]
+* [http://rankings.the-elite.net/perfect-dark/ltk/stage/deep-sea Deep Sea LTK Rankings]
+* [http://www.thengamer.com/PD/14-Deep%20Sea/ Deep Sea Videos]
+
+
+{{Template:Perfect Dark solo missions}}
