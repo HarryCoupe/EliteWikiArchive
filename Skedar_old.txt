@@ -1,0 +1,76 @@
+[[Image:Skedarruins.png|thumb|Skedar Ruins: Battle Shrine]]
+
+'''Skedar Ruins: Battle Shrine''' is [[Perfect Dark]]'s 17th level, and final main storyline mission.
+
+The name of this level is usually abbreviated to "Skedar" or "Ruins", both of which redirect here, despite the fact that both Skedar and Ruins are actually separate and distinct Combat Simulator maps, neither of whose layouts are based on this solo mission level. In fact, "Skedar" is doubly imprecise since [[CI]], [[Attack Ship]] and [[War]] (and also, if we want to get technical, [[Crash Site]] and [[Deep Sea]]) also feature Skedar.
+
+===General advice===
+
+There are five pillars on this level and three of them are randomly selected to be the targets at the start of the level. This makes ten combinations, but only one of them is optimal... leading to a whole lot of restarting until the pillars are right.
+
+Ordinarily one would climb the other side of the ravine, use the [[IR Scanner]] to locate a weak section of wall, blast through it and reach the bridge that way. However, a bug in the level landscape means you can just hug the right wall as you go off the end of the ravine and warp up to where the bridge is. The "blow down the wall" objective doesn't seem particularly worried about this... UNLESS you use up all your [[Devastator]] ammo. If you run out of grenade rounds, ''even if you're already past the weak wall'', the game ''assumes'' that you will not be able to get past that wall, and automatically fails that objective. So you must keep at least one grenade round in reserve no matter what.
+
+Activating the bridge is fiddly and time-consuming, but using an explosive boost it's possible to push yourself across the bridge and continue the level. With skill it's even possible to get across without any explosives at all, but that's really hard. Either way, once you're a few steps into the next area the objective marks itself completed, bridge activated or not. This is called the [[Skedar Jump]] and is used on all three difficulty settings.
+
+On SA/PA it's generally the all but useless [[Falcon 2]] which is sacrificed to open the door to the inner sanctum. All you have to do is press B in front of the shrine; there's a pause of a few seconds before the weapon is taken, ''during which you're free to run off and keep on through the level''. Just don't forget yourself and switch weapon as you run, or the shrine will take the newly-selected weapon instead!
+
+Using the high-penetration [[Callisto NTG]] rounds it's possible to take out the bottom two prongs of the main shrine in one go. With skill you CAN instead take out the right-hand two at the same time and then the left-hand two, which would save more time, but this is exceptionally difficult to do once, let alone twice on the same run.
+
+Doors are almost all random.
+
+== Agent ==
+
+'''1:32 strategy'''
+
+Skip the whole video, and just as the level opens up, pause and select the Target Amplifier from your inventory, as well as turning on your [[R-tracker]]. As you left-strafe for the wall ahead, check the radar for the layout of pillars. For a perfect run, there is only one combination of pillars that is correct - there is a one in ten chance that this combo came up. To make sure, look for this on the radar: the first pillar should be right near you (around the next corner, in fact), the other two should be right on top of each other, off the edge of the radar to the left. If this is the case the chances of a good set of pillars increase to one in two. If not, quite and restart ASAP.
+
+Left-strafe around the right-hand side of the big block, ignoring the Skedar that decloaks here. Switch to right-strafe as you round the final corner and ignore the two Skedar in this next area too as you zoom down the right-hand side behind the target pillar. Without slowing as you pass it, lob a target amplifier on it. The Skedar with the [[Reaper]] will shoot at you at this point, but you're moving so fast he'll hit the pillar instead.
+
+This next bit is basic speed at its purest. Still right-strafing, head around the right of the Reaper Skedar and round the long curve staying close as physically possible to the inside wall. Cross over the moment the exit comes into view and continue down the right-hand side of the long path here, trying not to get caught on the bits and pieces of rubble that so irritatingly get in the way all over this level. Go right at the T-junction and still hug the right wall as you curl around the block at the end and throw the second amplifier on the pillar in the middle of this small clearing, then stop for the briefest possible moment just slightly to the right of the pillar, already pulling the joystick back to look at the third and final pillar visible over the walls. Aim high over it and throw. It's tricky to get right, I know... the secret is, stand right next to the pillar and aim the crosshair right at the tip of the pillar you're aiming at.
+
+Without waiting for any kind of confirmation of an accurate throw, switch to left-strafe and bolt the other way around the block and back down the passage. Being the incredibly fast speed freak that you are, none of the many Skedar you've ignored on your way here have caught up with you yet... hopefully. If Skedar have arrived you have a fair chance of being slashed to pieces here, even on Agent. As you dash across the T-junction and towards the ravine, hopefully avoiding any Skedar, release the joystick briefly and hit A and Z with your left hand to bring out your [[Devastator]], which, with some preparation, will already have its secondary function - Wall Hugger - selected.
+
+If not, you're screwed. Dive into the ravine at top speed, veering left slightly and bouncing off the far wall by the destructible rubble. Bounce back onto the near side and streak left along the knife-edge of a cliff path towards the part where, if you weren't going to cheat, you'd cross over. Cross over, and continue to left-strafe along the side of the ravine facing the wall - as if by magic, a game glitch allows you to run along in midair and pop up in the hallway by the bridge a second later.
+
+Activate the bridge? But who needs one, when you're a master of the ancient art of the [[Skedar Jump]]? Less than a second after arriving in the corridor, plonk a Wall Hugger on the ground near the lip of the ravine, back up, and take a perfectly-timed running jump into oblivion. Boom, aargh, lose a pile of health, but somehow the extra boost from the explosion was enough to push you across the gap!
+
+The Skedar Jump is rather harder to do than it sounds. You can either put in the effort and learn how to pull it off, or you can take the easier but much slower route. Go around the next corner and open the door, shooting the mini Skedar with your [[Callisto]] if you think you can spare the extra second. Position yourself in front of the block and push it forward, strafing right as you do so. This will leave the block near the wall at 45 degrees to the rest of the room. Go around to face the far side and push it again, straight onto the button. Ideally you should pull this off in two smooth runs taking around 5 seconds or less altogether. However it is annoyingly easy to mess this bit up and take 10 seconds or longer. If you're back through the door before it closes, you're doing OK.
+
+Pause as you left-strafe relentlessly on through the dark, flickering corridors, and select the next weapon of choice, the Callisto NTG (set on High-Impact Shells), from your inventory. Keep going, in one long run, past all the mini Skedar and up the ramp to open one of those oh-so-annoyingly-slow-to-open doors. Here's where Lady Luck once again rears her hideous head. Depending on the time of day, whether it's raining or not, when the last full moon was and other seemingly-unconnected factors, this door will either open beautifully first time or stick and jam for anything up to ten seconds.
+
+Right-strafe across the glass bridge, opening fire on the Reaper Skedar here as soon as it comes into view. You'll take some damage - this always happens, but you must shoot this Skedar because otherwise he blocks the door.
+
+Open the next door - again, watch out for stickiness, and reload your Callisto as you hurtle towards the next two doors, through them, towards the next two, through them too, and come face-to-face with the King. Open fire immediately. You should wear his shield right down to green as you run towards him, smashing to a halt at the front right corner, and run out of ammo simultaneously.
+
+Reloading a Callisto takes so long, right? There is a quicker way. As the clip empties down to around 3-5 bullets (if you run out you'll reload automatically and it won't work), hit A to go to the next weapon, then pause and select the Callisto from the inventory menu again. This brings you up a fully-loaded Callisto in slightly less time than usual - yet another excellent technique devised by the Elite. An easier way is to simply pause, select another weapon, then select the Callisto again without unpausing in-between.
+
+Aim towards the very base of the shrine behind the King (you presumably know how to kill it by this point, right?) and fire. With an accurate set of shots using the [[Magnum]]-like Callisto shells, it's possible to make every bullet hit both of the bottom two prongs and remove them both simultaneously. What a time-saver! It's not too critical if you don't pull this off but it does save a good couple of seconds. The rest, as they say, is history. As soon as the King gets back up transfer your target onto him and wear him down again, hopefully before he has time to attack. If he summons another Skedar at this point you're in trouble - you don't have time to fight it off, but they'll still attack you. You'll just have to cope... and hope. Similarly, if you are unlucky he may cloak so he can attack you, in which case you can forget getting a decent time because it'll waste about 10 seconds. He may also fire rockets at you which is not quite as bad but still undesirable. Ideally he should not be able to attack you at all. Rinse and repeat the shooting pattern until he is finally dead.
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=V8Y0ruDtS6k Big Bossman - Ruins Agent 1:05]
+
+== Special Agent ==
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=CfpnqTNJz0U Big Bossman - Ruins SA 1:21]
+
+== Perfect Agent ==
+
+You don't actually have to take out the Skedar "army" unless you're playing on [[PA]].
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=9PULNkbnlJQ Big Bossman - Ruins PA 1:29]
+
+== LTK ==
+
+* '''Fastest Time Available by Video''': [http://www.youtube.com/watch?v=NqVVKlUL1qY Big Bossman - Ruins LTK 1:32]
+
+== DLTK ==
+
+* '''World Record Video''': [https://www.youtube.com/watch?v=-qkQtIoAn8w Flickerform - Ruins DLTK 4:40]
+
+== External Links ==
+
+* [http://rankings.the-elite.net/perfect-dark/stage/skedar-ruins Skedar Ruins World Rankings]
+* [http://rankings.the-elite.net/perfect-dark/ltk/stage/skedar-ruins Skedar Ruins LTK Rankings]
+* [http://www.thengamer.com/PD/17-Skedar/ Skedar Ruins Videos]
+
+
+{{Template:Perfect Dark solo missions}}
