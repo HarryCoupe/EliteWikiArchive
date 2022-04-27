@@ -1,0 +1,152 @@
+[[Image:Villa.png|thumb|Carrington Villa: Hostage One]]
+
+'''Carrington Villa: Hostage One''' is the fourth level in [[Perfect Dark]].
+
+== Agent ==
+
+'''1:15 strategy'''
+
+Firstly, run straight forward and look downwards at the first executor. Shoot as soon as you can then pull right slightly to zap the other one. Ideally this should be done in two fast shots about a second apart - in practise three shots in 1.5-2 seconds will suffice.
+
+Whirl left and left-[[strafe]] for the corner of the observatory, switch to [[unarmed]] as you slide along the side, jink around the small corner and hug the inside wall as you let-strafe onwards. Mind the small outcroppings on the walls. Jump off the edge at between 0:10 and 0:11. You should already be strafing a good distance along the next wall before you hit the ground - hug it!
+
+Zoom along hugging the corners as closely as you dare and when you get to the T-junction don't even look where you are going as you head left. Blue walls should blur past your vision and once you enter the sniper area at 0:20 or less. Aim so that the stairs you're aiming for are JUST offscreen to the left. Speed-strafing does not take you straight diagonally! With some knowledge, experience and skill you can judge exactly when the steps come up on the left and dive up them (still left-strafing - you left-strafe all the way up to this point). You may get a [[boost]] from the sniper at this point.
+
+As you reach the top of the first flight of steps spin the joystick right a bit and switch to right-strafing like lightning. Go up the steps, steer the joystick left so that you hurtle straight across the balcony, then let go of the joystick and hit B with your left thumb as you pass in front of the door. Move your thumb back instantly and steer the joystick still further left and direct yourself down the middle of the door. You should still hold C-up and C-right throughout this whole manoeuvre, opening the door at 0:27.5 or thereabouts.
+
+Twist down the stairs and bolt diagonally across the hall at the bottom towards the blue corridor. Dive along this and the next, strafe across the lounge dodging left slightly to avoid the couch. This is your first chance to grab a [[CMP-150]] - sometimes a guard is positioned in the middle of the lounge for some reason. Disarm him if he comes near you. Spin left down the stairs... still holding right-strafe.
+
+Downstairs, again, you need to know exactly what direction speed-strafing sends you so you pass the corner of the curved wall in the right place. You may also get a second chance to grab the CMP-150 from the guard here if he runs across into your path. Swirl the stick left a bit more and aim for the door. Let go of the stick as you bolt for the door and hit B as you pass the left edge it. Your thumb should be back on the stick as you reach the middle of the door and turn left slightly to dive through it. Go right and zoom down the inside edge of the stairs, and just before you land on the ground at the bottom (at 0:41-0:42), switch back to left-strafing. Smack B with your left thumb once more as you reach the big doors - it's easier because the doors are bigger - and left-strafe in and along the tunnel to the panel area.
+
+Cross the threshold between sand and steel catwalk at around 0:45-0:47. The guard between the two panels is a pain if he runs in any direction except right - if he gets in the way, and you still have no gun, you could try disarming him. Since you're left-strafing, switch to right-strafing at the turn in the catwalk and go straight across to the far panel where you should hit B. Then left-strafe away and hit B again as you pass the second panel - listen out hard for the beeps as you hit the panels to make sure you got them. Turn, and right-strafe all the way back along the catwalks to the first corner in the sandy tunnels.
+
+At this corner a bunch of guards will have caught up by now, and this is your fourth chance to nab a machine gun. Knowing exactly where they are gonna be, hit Z - you're still on Disarm, remember - to steal one of their CMP-150s as you dash past.
+
+Switch back to right-strafing at the next corner, switch to the CMP-150 if you have it during this briefly peaceful moment, and continue to right-strafe to the final panel. Check your clock - 0:55 is what you should be aiming for here. Activate the panel as quickly as possible from side-on and turn around and RIGHT-strafe back in the opposite direction.
+
+Here's your fifth and last chance to grab a CMP-150: the last guard before the lower basement. If this fails you're up the creek and you might as well quit. Disarm him as you pass on the outside, then hit A to switch to the CMP-150 as soon as possible in preparation for the first shock trooper. Stab B at the door as you switch strafe directions, and then left-strafe through. As you bounce down the steps the "Windmill activated" sign will vanish and you can check your time - 0:59-1:01 is the target.
+
+Open fire with your CMP-150 along the right wall of the right-hand tunnel to blow away the first shock trooper, and run through him without slowing AT ALL. DO NOT reload now. You should have over 20 bullets left as you strafe to the next two shock troopers. Stay as far away as possible from them to save time, and shoot the left one first. Just spray at about chest height and you're guaranteed a kill since it's [[Agent]]. This bit should take a minimal amount of time.
+
+Right-strafe away down the corridor reloading as you go. Pass the upward-leading corridor at 1:04-1:07. Head for the far door and turn to face straight forwards as you open it and spray the trooper ahead of you. Turn right and run around the right-hand side of the wine rack, spraying the second trooper wildly before you pass the rack. If you're lucky you'll get him. You might even catch his ammo. Hit pause IMMEDIATELY after you shoot the second trooper, select Unarmed and then CMP-150 from your inventory to reload nice and quickly. Zoom on.
+
+The next trooper should be shot while you wait for an instant at the corner, then turn around and strafe so that you can shoot the next one in a similar fashion. This particular shock trooper is a nasty one - sometimes he runs away making your job easier, sometimes he crouches with his face in the wine rack, making it very tough. Then the next one is the most random in his positioning. If he's behind the wine rack shoot him through the bottles. If he's moved, run and shoot him as you pass the corner, WITHOUT slowing down, but making sure you keep at least four bullets in reserve. He can be in any number of places. Ideally he is in your path but many times he's hiding right behind the corner in wait for you. It's a lottery.
+
+Finally, pass the last wine rack and pray to the gods of gaming that when you empty your magazine at the last shock trooper, at least two of the bullets hit him hard enough to kill him and make him drop the keycard. Run through his collapsing corpse and then turn and open the door, backing off so it opens smoothly. Assuming, of course, that you managed to not leave any troopers wounded behind you. :)
+
+* '''World Record Video''': [https://youtube/watch?v=8C1i25tgqjo Perfect Ace - Villa A 1:00]
+
+== Special Agent ==
+
+'''1:33 strategy'''
+
+Skip the whole cinema. Run forwards as the [[sniper rifle]] comes out, pushing your stick forward so you arrive at the ledge pointing almost directly at the first executor. Hit R to zoom in. You won't often get a perfect shot, but you'll be able to pull the stick up or down to shoot him instantly, then pull the stick right a bit, shoot again, then run. The two shots should come about a second and a half, maybe two seconds apart. The fastest physically possible is around 0.75 seconds, but split-seconds aren't critical this early in the game.
+
+Release R and whirl left 45 degrees, then speed-strafe left around the corner of the observatory. Hit A to switch to Unarmed, zigzag through the small chicane. Switch to [[Disarm]] now if you haven't already done so. Ignore the guard on the left, hug the right-hand wall, still left-strafing.
+
+When you get to the ledge (0:10 exactly), switch to right-strafing and go diagonally right, heading for the guard on ground level. He'll drop to the ground but he'll be upright when you reach him (unless he ducks, which sometimes happens. Unlucky, just restart). Disarm him as you reach him, then turn right a bit, still right-strafing, and head along the rock, once again taking the optimum route.
+
+Don't hug the left wall in the next long cavern. Instead, go around the RIGHT of the guard here, switching to the [[CMP-150]] nice and early as you do so. Aim upwards slightly as you run, turn left once you're around him and open fire at the sniper on the pillar here as you run straight forwards down the steps. You'll here him shout "My gun!" if you hit him - this is because if you kill him within about 35 seconds or so, he drops a second CMP-150 for you. However this is of no use on this run so don't hang around.
+
+The reason you go around the right of the guard instead of the left is - speed. By this method, you don't ever actually stop running, and picking off the sniper is actually fairly easy while on the run. Ordinarily, you'd have to stop below the pillar, aim upwards, and shoot him, then start running again. Not only does coming to a complete halt lose you loads of time, it's also fiddly and uncertain trying to shoot the sniper and not the pillar he's standing on. Then you have reaction times to worry about when you start running again after he dies. My method eliminates all that at the cost of a fractionally longer route, and the extra time is made up anyway, see?
+
+Right-strafe into the large sniper area and avoid the route you'd normally take on [[Agent]], as this isn't the best way to take out the snipers. Instead, you should be running further right and aiming up on the left where the next sniper appears, positioned distantly on the roof. You only have a very small amount of time to shoot him as a rock outcropping gets in the way, so unless you're feeling lucky, you should stop for a fraction of a second to fire a decent volley of bullets at him. The crosshair is a faint green on a blue background, making it hard to see, it's a shame but I'm afraid nothing can be done to make it easier to see, except pressing R, which is NOT recommended, it wastes far too much time. Waiting to check that he's dead is optional. From this distance, it's hard to tell until you see the death animation running, which wastes a second. I think it's worth just running regardless, but it all depends how often you manage to shoot him.
+
+After this sniper, turn right to face the one nearby on the roof, which is much easier to shoot. Squeeze off another volley of bullets in his chest as you run diagonally towards him (no strafing, they make it too difficult). Finally, turn left to face the sniper high up on the roof in front of you. Run towards him and fire a third volley at him. Try to leave a bullet or two remaining in your CMP-150 so that it doesn't reload automatically. This makes the sniper rifle come out later (which is the next bit).
+
+Once this last sniper is dead, you should be standing close to the steps. Turn ninety degrees left and left-strafe straight up them, switching to the sniper rifle as you run, and switching to right-strafing as you reach the turn in the steps. I was running up these steps at 0:29 on my best run. 0:33 is perfectly acceptable.
+
+Reach the top, dive for the front wall and hit R to aim at the two snipers that are just near each other straight ahead. One of them is easy to hit fast, but the other, positioned on the harbour wall, is a VERY small target. You're expected to take about a second longer on these two snipers than you did on the first two executors. Many times you may end up wasting your entire [[sniper rifle]] clip shooting at the further sniper - you could restart if this happens, it all depends how lucky you're feeling.
+
+There is on other factor to consider. There is one sniper over to your left who'll be shooting at you while you do this. You'll probably be hit (and knocked sideways a long way) at least once before you leave this balcony. If you're fast you can take out both snipers before he hits you, but otherwise he'll make aiming a misery. Just another point to consider, there.
+
+After those two snipers are dead, turn and run for the door. Make sure you open it OK, this bit seems to get messed up very often. The doors don't cooperate as much as they should. You'll be entering the door at around 0:39 on a very good run to 0:47 on a bad run. 0:41-0:44 is what you should be aiming for. Turn right and left-strafe along the wall inside, switching to the CMP-150. Open the door and you'll be facing right at the penultimate sniper. There might be a guard waiting behind the door if you're unlucky - ignore him but try not to let him slow you down. Run forwards into the little square balcony, shooting the sniper, then turn around in the alcove-type area to aim at the last sniper, on the roof. He should be easy to hit, but he isn't because the auto-aim always wants to point at the guards on ground level. Use the target now if you like, or the guards might behave themselves, making things easier. After shooting he last sniper, don't reload yet, but turn left and open this door - which is also known to be uncooperative.
+
+Reload and switch to Disarm inside as you bound down the stairs. Turn left at the bottom and strafe across the kitchen at anywhere from 0:50 to 1:01. 0:54 is what you should aim for on a good run.
+
+Whirl left down the stairs - from now on the level is almost exactly like Agent, but there are a few minor points to consider. Firstly, the amount of ammo you'll have left for the shock troopers is noticeably smaller than you would on Agent. This makes disarming at least one guard on the way down to the lower basement a necessity. The other point will come up later...
+
+Right-strafe across the area with the curvy wall and disarm the guard if he comes nearby. Keep going past the end of the wall, turn left, open the door and slide down the stairs. Switch to left-strafing at the bottom of the stairs and open the door, then run peacefully into the generator area. You should arrive at the area with the two panels at around 1:01-1:06.
+
+Right-strafe across the middle and hope that the guard gets out of your way. If you want a bit of a safety margin on your ammo in the lower basement, you could try to disarm him but this isn't absolutely necessary. Right-strafe across and hit B to activate the panel. Whirl left and left-strafe away, activating the other panel as you pass it. You can stop briefly if you think it's necessary. It's very important to have the sound turned up loud in this area, otherwise you won't be able to hear whether the panels have been activated or not - relying on the on-screen messages is NOT a good plan, as they come up way too late.
+
+As you round the corner, hit Z once to have a chance of disarming the pursuing guards waiting at the corner as you blur past. Actually seeing them as you pass is optional. ;) Switch to right-strafing at the next corner, activate the main panel from side-on, then right-strafe away again. Bring out your CMP-150 as you run, turn left more than 90 degrees at the corner, open the door, and dive down.
+
+Open fire all along the right-hand wall as you reach the bottom, to murder the first shock trooper and collect his ammo. Don't reload but carry on running towards the next two. Shoot the one on the left first as he comes into view earlier. Make sure you spend slightly more than the usual amount of ammo on these guys. On [[SA]] they require a little bit more killing than on [[Agent]], meaning you may leave either or both of them alive if you just spray like in Agent. The same applies to all the other shock troopers on this level. Break right, and reload as you run for the next door, passing the stairs at around 1:19-1:26. Shoot the trooper ahead - make SURE you shoot him enough - and then the other guy to your right, through the shelves.
+
+Pause, go to your inventory, select Unarmed, then CMP-150 again, to reload fast. Run around to the final corridor. Right-strafe along, shoot the guard hiding behind the shelves, turn, left-strafe along, and shoot the other guy. This second shock trooper has a tendency to run away from you - this makes him easier to shoot than when he's hiding. Be grateful for small mercies.
+
+If you experience some gunfire from the end of the corridor at this point, that means the next trooper has not moved from his position. If you don't, that means he's either moved, or he hasn't shot at you for some reason. In the last case, you should right-strafe out and shoot the shock trooper - you know where he's going to be by now, don't you? If he's still in his place, strafe straight around the shelves and machine gun the trooper from the side, and try to leave as much ammo as possible to take out the last shock trooper, because a reload now would hideously mess up the entire run. Finally, run towards the last trooper shooting him, run over his dead body to collect the key card, turn and open the door as fast as possible, and stand back - the level ends only when the door is fully opened.
+
+* '''World Record Video''': [https://youtube,com/watch?v=_F6WiOvsT9I Perfect Ace - Villa SA 1:10]
+
+== Perfect Agent ==
+
+This is an excellent level to try your skill on. It'll test all your speed-strafing, aiming, shooting, planning, combat and improvisation skills to the limit.
+
+===Laptop Sentry Gun practice===
+
+This strategy hinges on a single thing - the [[Laptop Gun|Laptop Sentry Gun]]. If thrown in the correct place, and with a sufficient remaining quantity of ammunition, it will automatically take out all but two of the snipers, saving much time. For reference - you need 150 bullets or more for it to work.
+
+Before you start going for this time, play the level a few times with Infinite Ammo (Laptop Sentry Gun), Invincible and All Guns turned on. At the start, turn and shoot the sniper across the harbour, then ignore the executors and go up from the jetty, then right along the front of the villa, then up the steps by the windmill. Go in the door here, across the kitchen and up the stairs in the hall. Open the door at the top and you end up on a small L-shaped balcony with a sniper dead ahead, one to your left, and one up and right. This is where you chuck the LSG from. Go forward and right slightly to face along the wall from the corner, turn right a bit, aim almost vertically upwards (so only a small part of the roof appears in the bottom-right corner of your screen), and throw the LSG. Watch it as it falls and it should land on the roof quite a long way away. Switch to your [[Sniper Rifle]] and zoom in to watch the thing whirl around and shoot all the snipers except one. Now open the door on the right and go through the lounge and out again to the pillared area. Look up and left to find the last sniper, and shoot it.
+
+If the "Objective 1 Completed" message appears, you threw the LSG in the right place. If not, restart and practice some more until you can consistently throw it correctly. Once you're ready, you can start practicing for the real run. Remember to turn all the cheats off first...
+
+===Strategy===
+
+'''2:00 target'''
+
+Skip the whole cinema and pause the game straight away. Select the [[Laptop Gun]] and whirl back and right to stand in the corner of the jetty facing across the harbour to the furthest sniper. Zoom in as the Laptop Gun unfolds and shoot him using less than ten bullets. Turn back around again and left-strafe past the two executors. ''Don't shoot them.'' The snipers do not start shooting at anybody until the two hostage executioners are killed. (This is to prevent them from automatically turning and shooting the hostage dead before you have a chance to rescue her, on [[A]] and [[Special Agent|SA]].) Therefore, on [[PA]], as killing the executioners is not an objective, it's a very good idea to leave them alive and just run away at high speed.
+
+Right-[[strafe]] across the front of the villa and put your Laptop Gun away, selecting [[Disarm]] instead. Turn the corner and head around the thick pillar to the door on ground level. Open it (it opens outwards), then run in and disarm the guy here from behind. This will most often knock him out, completing Objective 4, but if it doesn't it's not critical. There's a dead-cert knockout guard who comes along at a later time. As long as you get the [[CMP-150]], you're doing ok.
+
+Run left and in through the next door leading down to the basement. Jump down the stairs and switch to left-strafing at the bottom. Cruise along and try to disarm the guard here as you pass, while not getting shot. Open the door as you pass him and right-strafe in, disarming the guy who comes up the side tunnel here as well. Carry on down the tunnel to where you find the area with the two computer panels. There's a guard in the middle here who's a real pain in the neck. If you want, you can pull out your CMP-150 at this point and shoot him as you run through the zigzagging metal catwalks, but it's possible usually to go in, activate the panels and leave while taking minimal damage, or sometimes none at all. You may even be able to disarm him on the way past although this only works if he runs in the right direction and it is somewhat fiddly to do while you also activate a pair of panels, which you should do like this:
+
+Run in and left-strafe across the area with the two panels towards the bit of catwalk which is hidden from all the guards behind the far panel. Activate the panel as you zoom past and wait for a second behind the panel while the three guards in this area shoot at you. Right-strafe out again and activate the other panel on the way past, and head for the exit.
+
+The only guards around in the corridor will be the ones you met on the way in, as long as you go fast enough. Since these will probably be weaponless, you don't need to worry about shooting them, but if some of them are still armed you should make a spirited attempt to disarm them on the way past, for safety reasons.
+
+Follow the floor pipes along to panel number three, run into the large area under the windmill, activate the panel really fast from side-on, change direction and leave in about three seconds. If done at sufficient speed you will not get shot. Run back the other way, this time heading back upstairs out of the basement. The first armed guard which you ignored earlier will now have caught up: he arrives at the T-junction at the end of the corridor just at the same time as you do. There are about four or five more guards behind him, some still holding the basement door open (helpful) and the rest scattered between there and the top of the stairs. These guys need to be dodged and disarmed as much as possible. The critical element is speed: the faster you run, the less likely you are to get shot (and the more chance you have of completing the upstairs sections without dying a terrible death). If you are unable to disarm many guards do not fret, but if you end up taking ages getting past them, or lose lots of health, you need to improve your speed-strafing and dodging skills.
+
+The door at the top of the stairs is usually still open when you get there but if you are too slow it may shut before you get there. Be warned that if anything it will be opened inwards so you may get caught behind one of the doors while you try to run through them. Go right, around the curved wall panel, and run up behind the guard posted here, who, against all logic, will not have heard a thing from downstairs and will still be at his post, with his back to you. Disarm him on the fly, and head up the kitchen stairs.
+
+About now, Grimshaw will radio in informing you of the hackers. The hackers are stupid: even if they leave their computers to chase you, if they're not all dead by the end of the time limit, you've lost. Fortunately the limit is the easy part to beat. Health and ammo are the difficult factors.
+
+Switch rapidly to your Laptop Gun as you shoot right through the kitchen and up the nearby stairs. Check the magazine and make sure you have at least 150 bullets. If not, don't bother quitting and restarting, you can still use the practise upstairs. Run through the door at the top to end up on the balcony, folding the thing up to throw (press B and Z) as you run in and take aim to throw it. Once thrown, you can stay and watch it to make sure it falls in the right place, but that's not essential. Pause and switch to Disarm again (as you now have ''zero ammo remaining'') and open the next double doors.
+
+Rapidly disarm both of the guards inside, making sure you get BOTH of them, even if it takes longer than you'd like or they manage to shoot you once or twice. Once weaponless they are effectively neutralised... more or less. More importantly, you now have 20 precious CMP-150 bullets. Run left and open the door out to the main entrance to the villa, run in under the porch and look up and right to find the last safe sniper. Shoot him - exactly one CMP-150 bullet will do the trick, so try not to waste them by hurrying.
+
+With a further three or four guards from the main entrance area now on your tail, run back in the villa and right. Go right again into the large room with two guards and a hacker at the far end. Run in a few steps to vastly improve your chances of shooting the hacker, and empty your CMP-150 at him. Sometimes a guard will run across between you, this doesn't help but it doesn't necessarily mess everything up either. Once the clip is empty, leave. Don't bother waiting to see if you killed the hacker or not, as there are now about six guards chasing you, and even though two are unarmed they still have a nasty punch on them.
+
+Now out of ammo for the second time, run down the stairs and right-strafe along the hall towards the room with the final two hackers, switching to Disarm again as you do so. About now, the Objective 2 Completed message will appear to inform you that the LSG has done its job. If not, never mind, keep going. Right-strafe into the room and whirl around, then disarm the left-hand hacker from behind to knock him out: this completes Objective 4 if you haven't already done so. Your CMP-150 will now come out automatically as you pick up the ammo, and for some reason, the other hacker won't have noticed your presence, so you have plenty of time to take aim and shoot him in the head with as few bullets as possible. If the Objective 3 Completed message now appears, this means you killed the hacker upstairs as well. Good job.
+
+Turn and leave fast, heading back towards the kitchen. There are now roughly twenty guards on your tail, but luckily eight or so of them are upstairs still chasing after you. However the rest are scattered along the route between the kitchen table and the door to the lower basement. You may lose a lot of health or get killed if you run blindly towards them or pause for even a fraction of a second to shoot or disarm them. Switch to Disarm and just run, strafe, and dodge as fast as you possibly can past all of them, only disarming if someone gets in the way or you can do it without slowing. Remember that a target that is moving from side to side is harder to hit, and know the capabilities and behaviour of the guards. This bit is never the same twice. Just be lucky.
+
+Run down the kitchen stairs and go LEFT around the wrong side of the curved wall panel. This will protect you from gunfire from the guards who are waiting in this area. There are usually a bunch of guards near the door to the next set of stairs, be especially careful not to get caught behind the doors. Zoom down the steps and change direction, there are sometimes more guards by this next door. Strafe through the basement switching to your CMP-150, open the door to the lower basement, and jump down to face the shock troopers.
+
+Shoot the first trooper on the right just as you arrive and he starts to run away from you. CMP-150s are very powerful so use the minimum of ammo required, as you may have as few as 10 bullets remaining at this point. Grab his ammo and reload before going around the next corner to face the next two troopers, whom you should also shoot fast and efficiently. Grab their ammo and reload as you sprint back the way you came and into the second part of the lower basement.
+
+Now, if you didn't complete all the required objectives upstairs, this shock trooper will not be there, preventing you from completing the mission. But if he is: open fire just as you open the door to take him out fast, then quickly dodge left and behind the wine rack to grab his ammo. Strafe out and shoot the other trooper quickly with the rest of your clip, then grab the ammo and pause-reload (pause, select Unarmed, select CMP-150, unpause).
+
+Try not to get too jittery as you enter the final tunnel. Strafe along to the start of the second wine rack and use your vantage point to quickly murder the shock trooper hiding behind the first one. DO NOT RELOAD. Strafe out and hope that the trooper right at the end doesn't shoot you as you take out the second trooper in much the same way.
+
+The penultimate trooper could be anywhere: right around the next corner, behind the shelves, anywhere. Just be prepared and improvise to get him killed as quickly as possible. Finally reload if necessary and shoot the last trooper fast and grab his keycard, whirl and run forward and hit B to open the door, then back up so it can open quickly.
+
+* '''World Record Video''': [https://youtube,com/watch?v=2yzVHsZUj7o True Faith - Villa PA 1:22]
+
+== LTK ==
+
+* '''World Record Video''': [https://www.youtube.com/watch?v=EmTnsnAg7fI Flickerform - Villa LTK 2:23]
+
+== DLTK ==
+
+* '''World Record Video''':[https://www.youtube.com/watch?v=WOI1UQ7DQH4 Flickerform - Villa DLTK 4:30]
+
+== External Links ==
+
+* [http://www.the-elite.net/PD/stage4.htm Villa World Rankings]
+* [http://rankings.the-elite.net/perfect-dark/ltk/stage/villa Villa LTK Rankings]
+* [http://www.thengamer.com/PD/04-Villa/ Villa Videos]
+
+
+{{Template:Perfect Dark solo missions}}

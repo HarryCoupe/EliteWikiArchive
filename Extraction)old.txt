@@ -1,0 +1,60 @@
+[[Image:Extraction.png|thumb|dataDyne Central: Extraction]]
+
+'''dataDyne Central: Extraction''' is the third level in [[Perfect Dark]].
+
+There is a significant luck factor on this level on SA and PA as you are depending on Dr. Carroll staying alive on the ground floor while he trundles through whatever guards you leave alive.
+
+
+
+== Agent ==
+
+The major trick on this level is at the top of the first lift. While still in the elevator, turn to face the door to the side of the elevator and press B to open this (ordinarily locked) door from ''behind''. This saves around 15 seconds total.
+
+* '''World Record Video''': [https://youtube/watch?v=RCsIFf4SYCY True Faith - Extraction A 0:48]
+
+== Special Agent ==
+
+Strat here.
+
+* '''World Record Video''': [https://youtube.com/watch?v=RWF1KeyHC40 Perfect Ace - Extraction SA 1:16]
+
+== Perfect Agent ==
+
+Strat here.
+
+* '''World Record Video''': [https://youtube.com/watch?v=r4cFfq0HvKg Perfect Ace - Extraction PA 1:19]
+
+== LTK ==
+
+'''~2:43 Strat'''
+
+Watch the entire cinema. The trick to the ground level is to stay as far away from the guards as possible (i.e. hug the wall) so they can't see you! If a guard shoots at you at any time, you aren't close enough to the wall. Also, collect as much ammo as you can without wasting a lot of time, as you will need it to take out the hovercopter later.
+
+Start by putting on your Night Vision Goggles, then open the door. Quickly shoot the guard ahead, then proceed to the next door. Open it, but DON'T stand directly in front of it, else you will be viciously mauled by the next guard. Retreat to a safe distance from the second guard and kill him. Go through the door and go to the right, hugging the wall, facing the next two guards behind the shield things. Creep right until you can see the one on the right, blow him away, then do the same for the one on the left.
+
+Now position yourself so that you can see the guard by the lift you will enter later, but behind the wall so the guard down the hall can't see you. Take out the guard by the lift (and the one by the other lift if you like, but I leave him for later), then the one down the hall. Next you will encounter two guards behind a desk. Make sure you hug the wall behind you and position yourself so that you can see both of them, take out the closer one, then the far one. Around the corner is another guard behind a couch, you know what to do.
+
+To take out the last ground level guard, put yourself in the corner between the wall and stairs so that you can just see the guards head, then bust a cap in him. The lift opens at 0:49 on NTSC, I don't know about PAL. Get in the lift and close the door. On your way up, check how much CMP ammo you have. If you have under 60, you might as well restart.
+
+When you reach your destination, close the lift. Be warned, the next two guards will be the leading cause of death on this level. For the first guard, just run around the corner while firing your Falcon rapidly and hope you land a shot before he has a chance to fire. You could do the same for the next guard, but that doesn't work often. One option is to slowly peek around the corner until you can see the guard's arm and shoot that. The other way is to sidestep out from behind the wall for 1 nanosecond (no more, he has awesome reaction time), then attack when he reloads.
+
+Carry on through the doors and down the hall, and take out the 2 bodyguards as they run toward you. Open the door and take out the third bodyguard (she rarely hits you), then activate the computer. Take out your CMP (on lock-on mode) and go to the corner where the copter should be, lock on it and FIRE. You'll spend two full clips. On the third clip, run backwards down the hall (toward the lifts) while firing, and the copter should explode. Retreat to the lift from which you came, which should be open by the time you return. If it started to go back down, you were too slow. Try not closing the door when you exit the lift.
+
+Enter the lift, open the brown door through the wall, and go up the stairs to the next floor. Go through the door on the right and take out the lone bodyguard, then head back to the door on the left and take out the two bodyguards who open the door. Be amazed at how terrible of a shot the bodyguards are (despite 1000% accuracy!).  Go back to the stairs and up to the next floor. Punch the shocktrooper in the back and pick up the Rocket Launcher. Go up the stairs and into the bodyguard room.
+
+Immediately run behind the ramp, shoot the RL at the upper level wall so you kill the guard on the upper catwalk and the two guards near the pipe, then DUCK. Put on your Night Vision Goggles and take out your Falcon. Shoot the guard near the lightswitch, then stand up and take out the final bodyguard in front of the ramp. Run up to the helipad to complete the mission.
+
+* '''World Record Video''': [https://www.youtube.com/watch?v=b579NEqB4Mw Flickerform - Extraction LTK 2:03]
+
+== DLTK ==
+
+* '''World Record Video''': [https://www.youtube.com/watch?v=kNztnZf26Bk Icy - Extraction DLTK 2:21]
+
+== External Links ==
+
+* [http://rankings.the-elite.net/perfect-dark/stage/extraction Extraction World Rankings]
+* [http://rankings.the-elite.net/perfect-dark/ltk Extraction LTK Rankings]
+* [http://www.thengamer.com/PD/03-Extraction/ Extraction Videos]
+
+
+{{Template:Perfect Dark solo missions}}

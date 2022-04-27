@@ -1,0 +1,95 @@
+[[Image:Escape.png|thumb|Area 51: Escape]]
+
+'''Area 51: Escape''' is the ninth level in [[Perfect Dark]].
+
+===General strategy===
+Your main enemies on this level are not the [[SuperDragon]]-toting guards nor the [[tranquilliser]]-wielding scientists but Elvis and Jonathan. Jonathan follows you on a waypoint basis - wherever you go, you leave a trail of waypoints and when he's in "follow Jo" mode Jonathan always runs for the nearest one, eating up the trail. However, if he sees a guard, he'll switch to "kill the bad guy" mode and spend some time killing him before picking up your trail again. The main tactic, then, is to make sure Jon never sees a bad guy - sprint ahead of him and take them all out before he catches up. Jon also moves faster when you're looking at him than when you're not, and faster still if you persuade him to stand near a wall and then push him along it. Nevertheless there is still something of a random factor in how long it takes Jon to return from the meeting point to the room where he places the explosives for you, and this is the biggest random factor in the level.
+
+Similar problems apply to Elvis although he never follows you, only the pre-determined trail from his bed to the flying saucer.
+
+Other notes:
+* The [[Remote Mine]]s only appear if you get Elvis to his safe deposit area fast enough at the start of the level. "Fast enough" is pretty much impossible NOT to achieve on a speedrun - it's something like 45 seconds.
+* On SA/PA, the medpack completes not after a set amount of time but after a set number of guards are killed (unless you wait for about thirty seconds - then it completes automatically). That's what the Remote Mines are for - blowing up guards back in the explosion room.
+* There are two ways to escape the level. Jonathan originally says he will open the hangar doors, allowing Jo and Elvis to escape by flying saucer, and try to escape himself by hoverbike. However, it's also possible to run past him, which will cause Jo to offer to take the consoles and let Jon and Elvis escape. This leads to a more lengthy (but fun) escape by hoverbike. Of these two ways, the first is the fastest: but faster still is to let Jon offer to take the consoles, but ALREADY be past him, and activate the consoles yourself, manually. This convinces the game that Jon just activated the consoles really quickly, and ends the level immediately.
+* If, for some reason, you escape the level by hoverbike, Jon shows up on [[CI]] (though not in any particularly helpful location, speedrun-wise). If you DON'T, he doesn't show up, which strongly implies that he dies if he tries the hoverbike escape himself!
+
+== Agent ==
+
+'''2:45 strategy'''
+
+Skip the cinema. From the off, strafe right a tad and head straight towards the doors hoping that they open fairly sharpish. Once through, switch to left-strafing. Be careful not to get caught on the metal pillars. You should hopefully escape through the up-and-under door without coughing once. Turn right and go through. Feel free to shoot the [[tranquilizer]] scientist ahead of you if you want, but certainly not the one to the left, and on a fast run you should really ignore both and risk being shot.
+
+Head down. Halfway down the ramp release the stretcher and run down to the door at the bottom, causing it to open. You can wait for the stretcher to pass through it before leaving or you can just run and hope that it gets through before the door closes of its own accord. Back up at the top, again ignore the scientists and run right through all the doors. Head around the cryo chambers and down to the bottom, turning right at the bottom. Hopefully you shouldn't be tranquilized more than once at this point, otherwise the darkened outdoor area gets pretty hairy.
+
+These guys here are to be ignored as they'll slow you down - your priority here is to get to Jonathan as fast as possible. Go through the door and left shooting the guard ahead with your [[Falcon 2]], and the next one along the walkway. Grab their guns and switch to the [[SuperDragon]]'s grenade launcher function as you open the next door and get Jonathan's attention.
+
+As soon as he finishes his second sentence, run back through the open door and shoot all your pursuing guards with your grenade launcher as fast as you can. If you don't, Jon himself will slow down to take a few pot shots with his [[DY-357 Magnum]] - and you really need him to be moving as fast as you can. At the next door reload and open it, firing a grenade into the midst of the ambush party, hopefully taking out any pursuing guards and scientists. Use normal fire to clear up the mess and turn around to wait for Johnny to turn up. Once he's through go, and get the [[Remote Mines]] from the corner. Chuck one of these on the wall panel to the right of Jonathan. Chuck a second one just to the right of the door, and the third and last one at the wall between the two. Then get your SuperDragon back out again and open the door you just came through. Snipe along here to take out the guards how have newly spawned and are coming down to shoot you. Once the door shuts itself again of its own accord, go and stand by Jonathan, grenade launcher out, facing downwards.
+
+As Jon says "Right, stand back!", the explosive charge on the wall is placed. Shoot the grenade into the ground here to blow the hole in the wall nice and early - you'll be diving through less than a tenth of a second later, so you'll lose almost no health. Twist left as you dive through, go down the ramp, and be through the door to Elvis before the charge even has time to detonate.
+
+The bomb will go off sometime during the cutscene. Turn right after skipping the rest, selecting normal machine-gun fire on your SuperDragon, and shoot the guard standing in the red area up on the walkway. Turn around and go up back to the hole. Shoot a few grenades through, setting off the explosive barrels, and shoot a few on the ground here and there to keep away the guards. The reason you do this is to keep Johnny moving - if he sees guards up here he'll stop to shoot them. And since Elvis follows Jon, Elvis will stop too. And since the next bit of speech can only be triggered once Elvis reaches his spacecraft, you want to keep them both moving fast.
+
+Once you've done this, go back down to where Elvis will just be rounding the corner to the flying saucer. Try to push Elvis against the wall and push him up to catch up with Jon more quickly. Turn right and shoot the guard who snipes you from up above, then go back to the other two. Now the talking begins. While the chatting goes on push Jon against the wall and rapidly push him back to the ramp. Some guards will come around this corner and try to shoot Elvis, so take care of them while you push Jon as close as you can to the bottom of the ramp. Once Joanna says "But we can't leave you behind", stop pushing and start running up the ramps to the first and nearest panel. As you do this Jonathan will say "I'll get out on that hoverbike..." When this happens, trigger your remote mines to stop any potential guards slowing Jon down again.
+
+If you don't have the music turned on (as well [[Settings recommendations for Perfect Dark|you shouldn't]] - it makes it harder to hear vital in-game sounds), you should temporarily turn it up now. When the music changes, that's when it becomes possible to activate the terminals. Run to the terminal and wait for the music to change if it hasn't already. Once the music changes, activate the terminal and run to the next one, activating that one too. This ends the level.
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=DMvdTmEsJoY Taka - Escape Agent 2:21]
+
+== Special Agent ==
+
+'''4:00 strategy'''
+
+Skip as much of the cinema as you wish and run straight towards the first two doors. Learn to do this so that they open instantly when you get there. Do not strafe until you're through them, because there isn't room. Through the next room, left-[[strafe]] expertly between the metal pillars and open the far door in 0:09ish. If done correctly and at appropriately high speed, you shouldn't cough once.
+
+Right-strafe to the door and turn to face forwards. Quickly shoot the masked scientist ahead of you with your [[Falcon]] while running towards him, then right-strafe through him ignoring the other one. Left-strafe down the passage and hit B to release the gurney just as you line up right. Elvis will now drift down the passage. Run around it to the bottom and open the door, then run back up again around the still-drifting bed. If done correctly, the bed will slip through the door before it closes, and Jonathan will radio in just as you arrive at the top again. Practise this technique over and over. Learn to push the bed slightly just after you let it go so it moves faster. Try to aim straight, and practise getting out of the way of the bed on the way back up. This should all be done really fast. If you arrive at the top and Jon still hasn't radioed in, check back to see if the bed has gone through. If not, abort and try again.
+
+Right-strafe past the remaining technician and open the door on the right. This bit is fiddly but doable with practise. Open the next door, and left-strafe around the circular cryo room, switching to [[Disarm]] as you do so. Ignore the scientists in this room, but disarm them if they get in the way.
+
+Arrive at the bottom door at roughly 0:31-0:34. Open it and right-strafe across this area to the middle door, again ignoring everybody. Open this door and there's a guard waiting on the other side. 50% of the time he is right in front of the door, allowing you to quickly disarm him as you dash past, if he isn't, just forget him. Disarm the next guard on the catwalk as you pass him and try to get the third guy too. The more guys you disarm here, the safer your return journey will be.
+
+Switch to your Falcon as you disarm guard number three and open the door on the left. Ignore the guard around the next corner, instead right-strafe diagonally across this long corridor. Sometimes he gives you a boost. Avoid the purple containers which slow you down. Switch to your newly-acquired [[SuperDragon]] grenade launcher while passing the next four doors, and once you reach the end fire a fast grenade at the guard waiting here. Right-strafe right, firing another grenade into the corner to take out the next one. Fire a third grenade onto the catwalk to take out the third guard - if you don't manage to kill him, DO NOT slow down to try and finish the job, you'll be coming back this way anyway. Left-strafe out into the open area to get Jon's attention at roughly 0:56-0:59, then go stand in front of him as he talks, reloading the grenade launcher as you do so.
+
+Anticipate him beginning his last sentence about half a second early, and run right to where the three guards ambush you. Fire a grenade at their feet to kill them all fast. Switch back to machine gun mode and head back the way you came. If you failed to kill the guard on the catwalk he'll be around here somewhere. Try to shoot him on the strafe if possible. The guard you ignored before the four-door corridor will also have caught up by now. He will be by the last (fourth) door or possibly later. Shoot him fast as well.
+
+This next bit is kind of random and difficult to devise a strat for. Switch to GL again and turn right to open the door where four more guards will again ambush you. These should be removed as fast as possible with one or at most two grenades. Quickly whirl back to face the other direction and open the fourth door. Now a lot of the guards from earlier on in the level will be running down this corridor to kill you. However you also need to keep Jonathan moving as fast as possible, and IF HE SEES THEM ALIVE, HE WILL STOP TO SHOOT THEM. It is therefore critical that you destroy them on sight to keep Jon moving. However you also can't get too far ahead of Jonathan or he will slow down. Jon moves faster when you are looking at him.
+
+My method for the four-door corridor is as follows. Wait in the fourth doorway and fire a few grenades at the base of the third door in the hope of taking out any guards which are waiting behind it. Turn back to face the way you came and wait for Jon to appear running from the direction of the catwalk. When you see him, go open the third door and shoot anybody you see here. NOTE: If a guard collapses on a door, this keeps it open which allows you to look back and see Jon from further away, accelerating the process of moving him. Sometimes two or even three doors in the corridor will be kept open in this way. Use your own wits and skill to take out all the guards in this corridor fast while periodically looking back at Jonathan to make sure he's still following you. In the best of situations you'll reach the area where the shield is hidden at around 1:35-1:45 with Jon hot on your trail.
+
+Bounce a grenade around the corner to kill the guard, then look back towards Jon whether he's there or not. Go to the door back to the catwalk and use your zoom to see who, if anybody, is waiting here. There's usually a mixed bag of armed guards, unarmed guards and [[tranquilizer]] scientists waiting here. Shoot a volley of grenades over them to take out at least some. Turn back and watch until Jon catches up again, then run out across the catwalk mopping up the stragglers. Switch to your GL again at the last door and aim downwards as you open it. Any guards you haven't yet encountered will be waiting in this room, plus whatever scientists you missed, plus an ambush party of four newly-spawned guards. Shoot the grenade right at their feet to take out all four of them and anybody in the surrounding area. Blow up anybody else hanging around the place. Make sure you look quickly at the far right corner where some guards are prone to hiding in the shadows. Look back at the catwalk to see Jon catching up, back up through the door and wait for him to arrive. He should say "Right, we're near. Cover me, Jo" at roughly 2:05 on a top-notch run or 2:15-2:20 on average. The fast music now starts playing.
+
+As soon as he says this dash over into the small area with the [[Remote Mines]], pause and bring them out. Go around the room throwing them in the following places: 1) on the red-lit wall opposite the door where the guards come from; 2) on the brown wall to Jonathan's left; 3) on the wall immediately to the left of the door where the guards come from. After throwing all three mines pull your grenade launcher out again, open the door to the catwalks and stand in the doorway looking along the catwalk with your zoom.
+
+Shoot one grenade right away to knock out the light, then wait while guards run down towards you. It's child's play to blow them all up but make sure you close-open the door manually after five seconds or so to ensure it doesn't close in your face just as you fire. Anticipate the fast music ending by quickly emptying your magazine and reloading. Fire two grenades at the catwalk regardless of whether there's anybody there or not, then turn about a second after the music slows down again to aim a grenade at where Jon is standing. Fire a grenade at the ground there the moment he announces "OK, stand back" and run through into the big hangar as soon as it is safe to do so. Aim high and send another grenade high into the distance to blow up the guard right at the other end of the hangar, while left-strafing off the catwalk and dropping to the ground. Pause before you hit the ground and select your Alien Medpack, and run right into the room with Elvis' bed. Activate the medpack as soon as possible. This should occur at between 2:45 and 3:00.
+
+The next bit is the most frustratingly random section in the whole level. You must now wait around while the medpack does its work, which, depending on how lucky you are, can take between a slick five and an agonising FORTY-five seconds. While you wait, go to the door leading up the ramp and look up with your grenade launcher out. Several guards come down here. The faster you kill them, the faster the medpack finishes its thing (I think), so fire many grenades up to take them out fast fast fast. Once you hear the bleep of the medpack, run back to the area at the bottom by Elvis to trigger the cinema.
+
+Select your Remote Mine as soon as you're done and blow them all up, emptying the room upstairs of guards and allowing Jonathan and Elvis a free run at the exit. Run out and up the stairs, GL at the ready, and lay down suppression fire on anybody who's still there. If Jonno sees them, he stops to shoot. Kill them ALL, and fast. After a couple of second waiting up there, head back down. Elvis should be just making his way to the corner of the wall. Push him along a little while switching to standard gunfire mode. Aim up and right under the catwalk to take out the guard waiting by the computer. Then push Elvis the rest of the way to Jonathan, who should already be waiting at the saucer. If all goes to plan, they should start talking at around 3:10.
+
+While they chat, push Jonathan gently towards the wall. Once he's against the wall, quickly shove him all the way along it so he's as close as you can get him to the "up" ramp. Sometimes Elvis is in the way against the wall, if this happens move him out of the way. More frequently, a selection of guards will arrive at the end of the wall and shoot at Elvis. Take them out fast when you see them with your SuperDragon, taking care not to let Elvis or Jonathan get caught in the crossfire. Jonathan can take a head shot or two without flinching, but Elvis dies rather easily. Once the area is clear, push Jon as far as you can up the ramp until he is finishes saying "One of us will have to stay behind and open the hangar doors." At this point, fire another grenade or two into the hole, then run around as fast as you can to the nearest computer (where the guard was).
+
+Wait there, facing the computer FROM THE LEFT (so you can watch Jonathan), rapidly tapping B, while you wait for the music to change. Again, it's luck how fast Jonathan shifts himself up the ramp. AS SOON AS you hear the music change, run for the next computer, because the first one has now been activated. Hit the second one just as you reach it and hope you got something good. :)
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=TLspfD7qlh8 Big Bossman - Escape SA 3:14]
+
+== Perfect Agent ==
+
+Strat here.
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=c-lIZ927EQ4 Big Bossman - Escape PA 3:15]
+
+== LTK ==
+
+* '''World Record Video''': [https://www.youtube.com/watch?v=i8Ej3V_ilyg Perfect Ace - Escape LTK 3:34]
+
+== DLTK ==
+
+* '''World Record Video''': [https://www.youtube.com/watch?v=VFVU8ffOVcE Axel Z - Escape DLTK 4:37]
+
+== External Links ==
+
+* [http://rankings.the-elite.net/perfect-dark/stage/escape Escape World Rankings]
+* [http://rankings.the-elite.net/perfect-dark/ltk/stage/escape Escape LTK Rankings]
+* [http://www.thengamer.com/PD/09-Escape/ Escape Videos]
+
+
+{{Template:Perfect Dark solo missions}}

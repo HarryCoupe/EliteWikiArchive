@@ -1,0 +1,64 @@
+[[Image:Rescue.png|thumb|Area 51: Rescue]]
+
+'''Area 51: Rescue''' is the eigth level in [[Perfect Dark]].
+
+== Agent ==
+
+'''World Record Strat'''
+
+Cut the cinema after Jo says "Doesn't sound like a problem to me."  Begin in right [[Speed strafing|strafe]], rapidly pressing B so you quickly grab onto and release the hovercrate.  This causes you to move slightly faster.  Lose the box as you round the corner and head for the lift, which will start to open when you reach it.  Close it so that you can slip in with the lift open minimally.
+
+When you reach the top, immediately bolt out of the lift in right strafe and run towards the second lift, ignoring the two guards as you pass.  The second lift will be going up as you reach it and will be anywhere from slight off the ground to near the upper level depending on how fast (and lucky, to an extent) you are.  Summon the lift downward, get in, and close it as soon as possible.  [[Target time]]: 0:24 - 0:27
+
+When you reach the top, kill or disarm a guard, whichever you feel more comfortable doing, to pick up a Dragon. Arm it as you run to where the hole will be.  Throw the dragon into the corner at the dead end, quickly change to Falcon, and shoot the Dragon, hopefully in less than one clip.  Target time: 0:36 - 0:39
+
+HOPEFULLY (read: probably not) the scientist will be on the other side of the wall.  If he is, grab the disguise he drops and run into the nearby door.  Run down the hall, doing your best to disarm the guards as you pass.  When you're outside the lab, shoot the scientist with the keycard through the glass, then IMMEDIATELY put away your gun, else the guard will tell you to do so, which wastes time.  
+
+Run into the lab when the door opens, grab the keycard, and get out.  Do your best to dodge the guards and evil killer doctors that block your way.  Hopefully the guards will open the slanted door into the main hall.  Head toward the final medlab.  Target time for door to hall to last medlab: 1:12 - 1:17
+
+Run down the hall, boosting yourself with grenades if you have enough health.  Go into the lab, and shoot the guy with the keycard.  Hopefully he won't do something stupid, like roll out of the way or throw the key in some random direction, and you can cleanly kill him and pick up the keycard.  Open the final doors to victory.
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=wwsCN4E2y7g True Faith - Rescue A 1:24]
+
+== Special Agent ==
+
+'''World Record Strat - ~2:20'''
+
+Cut the cinema after Jo says "Doesn't sound like a problem to me."  Begin in right strafe, rapidly pressing B so you quickly grab onto and release the hovercrate.  This causes you to move slightly faster.  Lose the box as you round the corner and head for the lift, which will start to open when you reach it.  Close it so that you can slip in with the lift open minimally.
+
+When you reach the top, immediately bolt out of the lift in right strafe and run towards the second lift.  If you wish, you may disarm a guard as you go, provided he isn't too far out of your strafe line.  The second lift will be going up as you reach it and will be anywhere from slight off the ground to near the upper level depending on how fast (and lucky, to an extent) you are.  Summon the lift downward, get in, and close it as soon as possible. The longer you take over this, the more likely it is that a guard above will summon the lift back up again, and you'll end up fighting over it, so you might as well quit. Target time: 0:25 - 0:28.
+
+If you got a [[Dragon]] earlier, throw it into the far corner as you ascend.  Shoot it as you approach the upper level.  If you didn't get the Dragon, try to kill (or disarm, if you dare) a guard while running around like a lunatic trying not to get shot yourself.  In either case, pick up a Dragon and arm it as you run to where the hole will be.  Throw the dragon into the corner at the dead end, quickly change to [[Falcon]], and shoot the Dragon, hopefully in less than one clip.  Target time: 0:37 - 0:41.
+
+Switch to Unarmed as you run, in right strafe, toward the showers.  Try to disarm the patrolling guard as you pass, and enter the showers through the left door.  Run up to the scientist, shoot him, and pick up the disguise he drops.  Immediately put on the disguise and switch to Unarmed.  Turn around and exit through the door through which you entered.  Target time: 0:58 - 1:02.
+
+Now go to the cryo room.  If you didn't proxy Dragon the guards into kingdom come earlier, they'll probably give you a bit of trouble here.  Carry on, and enter the cryo room, ignoring the guard immediately outside and the doctor within.  Press the button at the 7:00 position (you enter at 6:00) and put on your [[X-Ray Scanner|X-Ray goggles]].  You can take them off after the target locks, but don't move until the objective completes.  Target time:  1:26 - 1:31.
+
+Run back toward the hole and toward the medlab, and hopefully you won't get hurt too badly here. Close the outer door behind you - this forces later guards to open it again for you (otherwise the timing is such that it closes on you). When you're outside the lab itself, shoot the scientist with the keycard through the glass, then IMMEDIATELY put away your gun, else the guard will tell you to do so, which wastes time. Run into the lab when the door opens, grab the keycard, and get out. Do your best to dodge the guards and evil killer doctors that block your way, and hope you don't die here, especially if you didn't use the Dragon in the second lift.  Head toward the final medlab.  Target time for door to hall to last medlab: 2:04 - 2:10.
+
+Run into the hall, then into the lab, and shoot the guy with the keycard.  Hopefully he won't do something stupid, like roll out of the way or throw the key in some random direction, and you can cleanly kill him and pick up the keycard.  Open the final doors to victory.  Final time: 2:20 - 2:26.
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=dF8ddl5Mb2E Perfect Ace - Rescue SA 2:16]
+
+== Perfect Agent ==
+
+Strat here.
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=1unaj6shQKQ Illu - Rescue PA 2:36]
+
+== LTK ==
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=ufznl_09aFY Perfect Ace - Rescue LTK 3:09]
+
+== DLTK ==
+
+* '''World Record Video''': [https://www.youtube.com/watch?v=IEzboZM7cyg Flickerform - Rescue DLTK 3:56]
+
+== External Links ==
+
+* [http://www.the-elite.net/PD/stage8.htm Rescue World Rankings]
+* [http://rankings.the-elite.net/perfect-dark/ltk/stage/rescue Rescue LTK Rankings]
+* [http://www.thengamer.com/PD/08-Rescue/ Rescue Videos]
+
+
+{{Template:Perfect Dark solo missions}}

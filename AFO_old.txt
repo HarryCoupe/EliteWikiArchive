@@ -1,0 +1,93 @@
+[[Image:Af1.png|thumb|Air Force 1: Antiterrorism]]
+
+'''Air Force One: Antiterrorism''' (or "'''AF1'''" for short) is [[Perfect Dark]]'s 11th level.
+
+== Agent ==
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=mfyHMTrq64g Otto Oksman - Air Force One A 0:53]
+
+== Special Agent ==
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=bnHwCi-r92k Perfect Ace - Air Force One SA 1:18]
+
+== Perfect Agent ==
+
+* '''Target Time - 1:27''' (written by [[Your Eliteness]]):
+
+'''Objectives:'''
+
+* Objective 1: Retrieve equipment
+* Objective 2: Meet president
+* Objective 3: Get pres to escape pod
+* Objective 4: Reactivate autopilot
+* Objective 5: Blow up fuselage
+
+'''Rules:'''
+
+* You must retrieve your equipment before you talk to the president
+* You must meet the president before you can do the last 3 objectives
+* This means we must do Objective 1 first, then 2, then the last three can be done in any order.
+
+'''Strategy:'''
+
+There are two places where you can start in this level: On the middle floor (facing an orange/brown door), and on the bottom floor near the cargo bay. Where you start depends on where you finished Air Base last time. The equipment is in the cargo bay, so it's best to start on the bottom floor. If you find yourself starting on the middle floor, go play Air Base (any difficulty) and finish via the lasers and the ladder at the bottom of the plane.
+
+From where you start in AF1, you can left strafe for a moment and you'll be in line to open the door in front of you. Change to right strafe while the door opens so you can hit the techie and activate the switch.
+
+The platform takes a short amount of time to raise. If you wait for it to raise, grab the equipment and leave, you'll find the door has already closed itself. You'd have to open it, which wastes time. While the platform is rising, you should go to the door and double tab B (to close and re-open it instantly). This will reset the door's timer and it will therefore be open when you come back through it.
+
+We need to see the president next. We can take the dumbwaiter lift to go up a floor, or run to the back of the plane and up the stairs. It's faster to take the dumbwaiter. Call it as soon as you can. You have to wait a few seconds for the lift to come down and open, then a few more seconds for the door to automatically close itself. You cannot close it manually. You may use this time to knock out and/or kill the two staff workers here, but it's not necessary.
+
+You need to crouch once to enter the lift, and twice to leave it. While the lift ascends, stand up, look up and open the door before the lift reaches it. This means you don't have to open it once the lift stops. Double crouched, leave the lift and immediately uncrouch. Open the double doors then move into strafe.
+
+At the top of the ramp, Carrington talks to Jo. If Carrington is still talking when you meet the pres, the conversation with the pres will not start until Carrington has finished. To stop this from occurring, simply speech skip Carrington's speech at the top of the ramp. You may not hear his speech as you skip it.
+
+Between meeting the pres and the mid-cinema, you will fail if you lose eye contact with the pres. Don't move out of his point of view. You'll want to move the pres into a position so you can get as far back to the ramp as you can. You can only do this while Jo is talking. When strafing the pres, use a combination of C-left and C-right while pulling backwards slowly (if you're a 1.2 player, you'll need to tap C-down). With a bit of practice you'll be able to get the pres in front of the door.
+
+Here's a summary of speech said during the pres's conversation:
+
+* Pres: "Who are you, young lady?" - You can't do anything, so move into position to strafe him.
+* Jo: "Mr. President, you're in danger..." - Strafe the pres to the door.
+* Pres: "You can't make accusations without evidence..." - You can't do anything, so get your combat boosts ready and move out near the ramp, keeping eyesight with the pres.
+* Jo: "This is a recording of a meeting..." - Speech skip this. It's the only line in the conversation that can be skipped.
+
+The cinema will play, after which you may safely lose eye contact with the pres. Now you can complete the last 3 objectives in any order.
+
+* The fuselage is on route to the escape pod, so it makes sense to complete this objective along the way.
+* The pres runs slower than you. If you run to the escape pod, you can run back to the cockpit and activate the autopilot before the pres reaches his pod. This is the fastest method.
+* You could activate the autopilot first then go save the pres, but this has been proven to be slower.
+
+The president will follow you until you reach the escape pod room. Then he'll ignore you and run to the pod. The strategy is to go to the escape pod room as fast as you can, killing EVERY guard along the way. The guards will kill the pres if they're still alive. After you step foot into the escape pod room (and kill the guards in there), you need to go for the autopilot. There is a guard who enters the escape pod room later on, so the laptop must be deployed as a sentry to take him out.
+
+With regard to throwing the mine on the fuselage, you can do this on the way to the pod or on the way back from the pod. I find it easier to throw it on the way back because:
+
+* you won't have the "Objective 5: Complete" in the middle of your screen when trying to kill people, and
+* you don't have to do a massive turn to throw the mine.
+
+The rest of the level is fairly self explanatory. If the pres is fast, he will complete his objective as you reactivate the autopilot. If he's slow, you'll activate the autopilot then probably get killed by the two K7 weilding guards in the cockpit.
+
+A few more things:
+* Don't use autoaim. All your gun combat is done with combat boosts, and headshots are important, especially on the Blondes.
+* Try not to look at the pres as you pass him. I believe he will reach the pod earlier if you don't see him.
+
+I executed this strategy almost perfectly on my 1:27. Combined with an open door near the mine throw, I finished up with one of the longest lasting untied world records. This record was untied for over 3 years.
+
+* Target Time Video: [http://www.youtube.com/watch?v=YoecpVuzcdw Your Eliteness - Air Force One PA 1:27]
+* World Record Video: [http://www.youtube.com/watch?v=bnHwCi-r92k Perfect Ace - Air Force One PA 1:25]
+
+== LTK ==
+
+* '''World Record Video''': [https://www.youtube.com/watch?v=EmqMMYnYEoc Flickerform - Air Force One LTK 1:27]
+
+== DLTK ==
+
+* '''World Record Video''': [https://www.youtube.com/watch?v=0ndQBfEQuww Flickerform - Air Force One DLTK 1:22]
+
+== External Links ==
+
+* [http://rankings.the-elite.net/perfect-dark/stage/af1 Air Force One World Rankings]
+* [http://rankings.the-elite.net/perfect-dark/ltk/stage/af1 Air Force One LTK Rankings]
+* [http://www.thengamer.com/PD/11-Air%20Force%20One/ Air Force One Videos]
+
+
+{{Template:Perfect Dark solo missions}}

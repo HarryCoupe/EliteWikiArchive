@@ -1,0 +1,41 @@
+[[Image:Defection.png|thumb|dataDyne Central: Defection]]
+
+'''dataDyne Central: Defection''' is the first level in [[Perfect Dark]]. All three world record strategies on this level make use of the world-famous [[Defection glitch]].
+
+== Agent ==
+
+The world record on this level is '''0:05''', set on November 7, 2010 by [[Ilari Pekkala]]. It is the shortest amount of time needed to complete a level, not counting the [[Duel]]. it has sense been tied by 28 other players as of September 8, 2021
+
+There are two ways to do the glitch:  off the guard's head, and off the door.
+
+Off the guard's head - This is the faster of the two methods.  Cut the cinema immediately before the jumpship appears.  Run off the edge of the helipad, crouch once while landing on the guard's head, run over the inward-opened door, and off the edge of the pipe.  Uncrouch and run in midair to the space above the elevator.  If you don't know how to get to the elevator, we would suggest trying the door strat first.  If all went well, you'll see the magical 0:06 on your screen.
+
+Off the door - This is slightly slower than the first method, but it is still possible to get the WR with this strat.  Cut the cinema after Carrington says "the key is useless."  Run off the edge of the helipad and crouch once before landing on the door.  Run off the edge of the pipe, uncrouch when you start falling and run toward the elevator.  I can't give you exact directions; you'll just have to experiment and figure it out for yourself.  (And read [http://www.qntm.org/defection_a this]!)  Depending on how quickly you did the beginning, you should end up with anywhere from 0:06 to 0:08.
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=OXLUV44oaIw Illu - Defection - Agent - 0:05]  ([http://thengamer.com/PD/01-Defection/Illu%20-%20Defection%20Agent%200.05.wmv Download!])
+
+== Special Agent ==
+
+* '''World Record Video''': [https://youtube.com/watch?v=reneEKNRDrE MW - Defection SA 14]
+
+== Perfect Agent ==
+
+* '''World Record Video''': [https://youtube.com/watch?v=ICYMEn4Z6Q8 Big Bossman - Defection PA  1:12]
+
+== LTK ==
+
+* '''World Record Video''': [https://www.youtube.com/watch?v=rS_NsD3zuuo Illu - Defection LTK 1:27]
+
+== DLTK ==
+
+* '''World Record Video''': [https://www.youtube.com/watch?v=Q9U4dm-AdhA MouserScribe - Defection DLTK 1:29]
+
+== External Links ==
+
+* [http://rankings.the-elite.net/perfect-dark/stage/defection Defection World Rankings]
+* [http://rankings.the-elite.net/perfect-dark/ltk/stage/defection Defection LTK Rankings]
+* [http://www.qntm.org/defection_a Defection for Dummies] - An in-depth explanation of the strategy used on Agent.
+* [http://thengamer.com/PD/01-Defection/ Defection Videos]
+
+
+{{Template:Perfect Dark solo missions}}

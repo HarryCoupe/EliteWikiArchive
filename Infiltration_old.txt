@@ -1,0 +1,81 @@
+[[Image:Infiltration.png|thumb|Area 51: Infiltration]]
+
+'''Area 51: Infiltration''' is the seventh level in [[Perfect Dark]].
+
+A standing difference between PAL and NTSC versions of Perfect Dark is that on PAL there is a crowd of guards behind the final door, whereas there is none on NTSC. The last door is also closed. This puts PAL at a disadvantage of approximately 0.5 seconds. Overall, however, Infiltration is one of the most PAL disadvantaged levels, especially on the [[Agent]] difficulty.
+
+=== Universal strategies for this level ===
+
+# The elevator control panel can be operated from the far side.
+# The elevator door can be closed manually, you don't have to wait (although making it back to the lift after placing the explosives requires you to be pretty fast anyway).
+
+== Agent ==
+
+Strat here.
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=F1OwbtsVyVU True Faith - Infiltration A 1:10]
+
+* PAL Record Video: [http://www.thengamer.com/PD/07-Infiltration/Perfect%20Ace%20-%20Infiltration%20-%20A%20-%20114%20(PAL).wmv Perfect Ace - Infiltration A 1:14]
+
+== Special Agent ==
+
+Keeping your back to the drone gun in the antenna area usually stops it from shooting at you.
+
+While you can't ordinarily throw the tracker bug onto the antenna without lowering it first, crouching and then throwing the bug as you stand up makes it go further (its speed is added to yours as you rise from crouching). You still need to keep your eye on it until it lands, though, because otherwise it falls through, regardless of whether it was on target or not, and you fail the objective.
+
+Walking through the minefield without getting blown up is no great trick; just line up with the right leg of the H.
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=YfIcr0V-EfA Perfect Ace - Infiltration SA 1:28]
+
+== Perfect Agent ==
+
+On the NTSC-J version of the game, you'll pick up a shield after the minefield. This makes the level significantly easier to survive on NTSC-J. 
+
+'''4:00 strategy'''
+
+Quit the cinema as Carrington finishes saying "get this out to us" and select [[Disarm]]. Strafe right and smack the two guards here from behind, hopefully knocking both out in the space of three seconds. Turn around and if you're really fast you might be able to knock out the third guard as he strolls away from you before he hears the commotion and turns round. Otherwise simply shoot him. Grab at least two grenades from these guys, get your [[Falcon 2]] out and go around the next corner. Shoot the guard here, and strafe fast past the next two drone guns.
+
+Climb quickly up the tower and shoot the two guards inside, then jump down and peek down the tunnel. Shoot a clip of Falcon ammo at them to take out one or two guards, then turn left and head through the gap in the wire fence.
+
+This minefield is dangerous but not impassable if you know where the mines are. Line yourself up with the right-hand leg of the H on the helipad ahead and run straight towards it. This should let your through alive. Grab the [[Rocket Launcher]] and select your [[Magsec]] as you duck into the small crawlspace. There are two guards circling this antenna building, make sure you know how many you've killed so they don't ambush you later. Shoot the patrolling guard waiting at the other end of the crawlspace if he's there. Warily circle left around the brown building and shoot any guards which are crouched here waiting for you. Right-strafe over to the lift panel, turn left and shoot the drone gun (and the last guard if it turns up at this point). Get your RL out, set it on Targeted Rocket, target either the robot interceptor in the distance or the lift technician by it, fire, and forget.
+
+Duck back through the crawlspace and cross the minefield by the same method as last time. All the guards which were coming your way will have now mysteriously vanished, so you have a free run down to the lower antenna area. Select your grenade on the way down - you should have at least two at this point - and get ready for the fast, difficult bit.
+
+LEFT-strafe down the tunnel and out into the open area, facing right so the drone gun to your left never actually comes into your screen. After running out a sufficient distance, turn left 90 degrees and slip across the ditch to the antenna area. If you make sure you don't see the drone gun at all - and it's not hard to do - then IT won't see YOU and you won't be damaged at all - or indeed, shot at. Pop the pin from your grenade just as you arrive here, aim downwards slightly and throw the grenade at the robot interceptor straight ahead. Pause and select your Comms Rider bug, then turn left and quickly activate the antenna dish-lowering button. Run back around the far side of the antenna building as this is the relatively safest place to be waiting.
+
+There are guards everywhere around here, so no place is truly safe. Sometimes they'll ambush you and shoot you off-course while you try to shoot straight, and sometimes they will suicidally throw grenades in their own face, taking you out too. But sometimes they don't, and the whole point of this stupidly fast method is that if you do it at high enough speed, it's easily possible to escape without dying, or even (once in a blue moon) without taking damage. As the dish lowers, an explosion to your right will signal the explosion of the robot interceptor. NOTE: if you don't get an onscreen message signalling the destruction of the interceptor, you must quickly select your triple-shot [[Magsec]] and shoot it manually, then get your Comms Rider out again.
+
+As the dish lowers itself into range, throw the bug on it. Pause to quickly select your [[Magsec]] and strafe right but NOT TOO FAST. If you look away from the bug as it flies towards its target, IT WILL NOT HIT, but go through the dish and register as Objective Failed. Just keeping an eye on it for half a second before it lands is enough to ensure a hit, and wastes practically no time at all.
+
+To the right, and hide around here so you're just out of range of both the blue drone gun ahead of you and the guards which will be waiting behind you. Hit R and zoom in on the other grounded interceptor here. Quickly rake it with nine fast shots. Then right-strafe madly away and around the many guards which will have gathered here, back the way you came. Again, avoid looking at the drone gun but it'll probably see you anyway. You should still make it back to the tunnel without it shooting you.
+
+Select your Falcon and strafe up the tunnel again. There are two guards who run down from the minefield to ambush you from above. Wait around halfway up the tunnel once you see them and take them out quickly from a distance while they run towards you. Strafe up and go through the minefield again, pulling out another grenade on the way. Go through the crawlspace and then jump down into the bunker.
+
+Pull the pin from your grenade as you open the door, run in and throw it against the second metal pillar on the right-hand wall. When it detonates, this grenade will destroy all the lasers for you. Pause and select your explosives, then stick them on the computer. Get your Falcon out again and head back out the door after the flames have cleared. Right-strafe rapidly across the open field to where the lift technician was and grab the keycard from the floor as fast as possible. Go activate the nearest lift and wait for it to arrive. The framerate will go horrifically low at this point as lots of guards are after you, but you should be unobstructed when you run into the lift and wait in the far right corner, triple-shot Magsec at the ready.
+
+By now you most likely have a very small amount of health left, perhaps one or two hits. This makes this next section the most nerve-wracking and the most frustrating, because you need to be able to strafe all the way through and make the lift without dying. However, there are several guards to your left, several more on the right, one dead ahead sniping at you, one on the walkway at the top of the ramp, three more further along the walkway, and another one right next to the lift. Dodging them all is difficult. Especially when they start chucking grenades.
+
+Left-strafe out ignoring everybody and head for the furthest guard. Turn and shoot him in the head as you run towards him, then veer right up the ramp. Shoot or at least injure the guard here and carry on running, reloading your Magsec or switching to the [[Dragon]] if you've picked one up. As you reach the diagonal walkway, you must QUICKLY evaluate which guards are potential threats and need shooting. Threats are guards which are throwing grenades or running an about-to-shoot animation. Ideally you should hit them all at least once to stun them long enough to get past alive. Reload if you run out of ammo and pray that the last guard, the most infuriating guard in the entire level, doesn't behave like an imbecile and kill you as you start the final run for the lift. Shoot him once if you can, get to the lift, call it if it's not there, hide in the corner and turn around to finish him off. Collect his ammo and wait in the corner, shooting anybody who comes to challenge you. Get in the lift and activate it. Breathe deeply: you now have a good chance of finishing the level.
+
+Switch to your Magsec once again and wait in the middle of the lift. Shoot the guard in front of you with three quick shots on the way past and rake the next guy as you run towards him as well. Just a quick stun will be enough at this point, because if you run fast enough you'll be around the corner to safety by the time they recover. Ignore the last guard here, he never shoots you, and jump down the gap in the barrier. Right-strafe to the door and open it, then scramble through the guards to finish the level.
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=qJdGsDuaAiw Big Bossman - Infiltration PA 1:40]
+* '''World Record Video''' (non-NTSC-J): [http://www.youtube.com/watch?v=VbES_2yHz-k Perfect Ace - Infiltration PA 1:40]
+
+== LTK ==
+
+* '''World Record Video''': [https://www.youtube.com/watch?v=BRfBMitUsro Flickerform - Infiltration LTK 2:46]
+
+== DLTK ==
+
+* '''World Record Video''': [https://www.youtube.com/watch?v=RS94K6MZNB8 Flickerform - Infiltration DLTK 3:59]
+
+== External Links ==
+
+* [http://rankings.the-elite.net/perfect-dark/stage/infiltration Infiltration World Rankings]
+* [http://rankings.the-elite.net/perfect-dark/ltk/stage/infiltration Infiltration LTK Rankings]
+* [http://www.thengamer.com/PD/07-Infiltration/ Infiltration Videos]
+
+
+
+{{Template:Perfect Dark solo missions}}

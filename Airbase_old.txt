@@ -1,0 +1,121 @@
+[[Image:Airbase.png|thumb|Air Base: Espionage]]
+
+'''Air Base: Espionage''' is the tenth level in [[Perfect Dark]].
+
+This level has two possible exits: the ladder underneath Air Force One and the passenger capsule which is elsewhere. Where you begin [[AF1]] changes depending on which exit you use. Do NOT let this affect your choice of strategy! You can beat the level quickly any time you like with cheats if you want to set up for some AF1 speedrun. (The exception to this is if you are doing a single-segment run.)
+
+== Agent ==
+
+'''Target Time - 1:15'''
+
+Start the level anytime you want (watching the animation won't make any difference on the position of the [[disguise]] woman), with a left [[strafe]]. You should line yourself to shoot the guard on the way. His position is random, so you must slightly look around to run straight forward as much as possible. When you get close, shoot him and get the [[Dragon]]. The strafe now is very important - you should pass very close to the wall, or you're gonna lose a tenth or two, which will make a difference on your door [[TT]]. Just do a smooth strafe and go for the disguise. When you get close enough to the girl, shoot and change to right strafe as soon as possible. On this part, you can either run through the woman, or turn earlier and hope that she throws the diguise towards your direction. With the second option, you'll save a couple tenths, but it's not worth the inconsistency. Just learn a way that you get the disguise all the time.
+
+Proceed back to the base. If you're lucky, guards are going to give you one or even two (!) boosts after you get the disguise. That's pretty rare, though. Now, the strafe here is VERY important (again). After a while, you'll learn how to do a very good line, without sticking on those weird walls to the right. Also, you should turn right as soon as you get out of the tunnel, even if you turn more than what's needed. It's better to make a mistake by turning more than turning less. Just run to the door and, when you just pass the wall before the door, turn right and press B (Karl does this on his vid, it saves a little time), and pause. [[TT]]: 19.8-20.2 seconds. If your time is worse than this, then restart.
+
+Select the disguise, and unpause. Now hope for a nice talk from the receptionist. As soon as possible, enter the room and go to the 90 degrees right. If you did it correctly, the lady will start talking very fast. If she takes too much time to talk, restart. Continue running, and go to the door. Hold your strafe on it (watch Bryan's vid for this), and press B when you feel like the door is unlocked (you can open it 0.2 or 0.3 before the receptionist says her second speech, so time it well). Get past it as fast as you can. Now, it's just left strafe before the [[drugspy]] part. Select your Dragon on the way. When you get close to the corridor that leads to the lift, turn a little to the right, throw your Dragon (2nd function) and pause. [[TT]]: 34.2-34.7 
+
+Select the drugspy. It's a tricky part now. When the drugspy is "opening", you CAN strafe and turn, but you won't see what's happening. So, basically, right after you unpause, start right strafing and turn a little to the left. After a while, you'll master this, and when the drugspy screen appears, you'll be going in right strafe very close to the left wall. Just keep the strafe and press B on the lift as soon as possible.  Pause and unselect the drugspy. You're back to Jo now.
+
+Run with left strafe, and pass through your Dragon, in a way so that you get boosted (more than backboosted). Two things can happen now, depending of the place where your Dragon landed. 
+
+# This happens when you throw it more to the left (closer to the corner): the explosion will only destroy the glass on top of you, and won't kill the [[K7 Avenger]] guard there.
+# If you threw it more to the right: the explosion will break the glass AND kill the K7 guard.
+
+Second option is better, because disarming that guard can be a pain sometimes. In any way, run to the stairs, change to right strafe to go up, and then change to left again, so you can press B on the terminal. Disarm the K7 guard or get the weapon on the floor, depending of what happened. When you get through the broken glass, change to right strafe in the air and run to the lift. Press B to close it, while getting your drugspy back.
+
+If you did everything correctly, you're on track to 1:15. A good end here is essential. Basically, you should line yourself, so that when the lift door open, you have a perfect aim on the panel. Each person has his/her own way to do this, but the most consistent and easy to learn goes like this:
+
+Get your K7 up. Look as much as possible to the floor. Go backwards and lean on the wall behind you. Now, take a look at [http://img102.imageshack.us/img102/7793/pdxi6.jpg this picture]. Move yourself to the sides, so your aim stays on spot number 1 (in the middle of that square line). Without moving, aim to spot number 2. Now, aim up (not indicated in the picture). Go forward and lean on the lift door (careful to not get stuck on it). When the door opens, start pausing until you see the panel. If you positioned yourself correctly, your aim should be right on the panel. [[TT]] for pausing: 1:04.4-1:04.9
+
+Start shooting! The panel should've been destroyed very quickly. Run like crazy, and enter into the laser section. I don't know how to explain this part (someone edit later if needed), but it doesn't take much time to master. 
+
+Congratulations on your 1:15!
+
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=DX735odKhxQ Greenounet - Air Base A 1:13]
+
+== Special Agent ==
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=Z4tCA1qHcBw Taka - Air Base SA 1:42]
+
+== Perfect Agent ==
+
+'''Target Time - 2:06'''
+
+So... wait in the cutscene until "Arrival point". Make a 90° turn to your left and left strafe your way to the side door of the Base. Get in the lift. There are three possibilities for what happens next.
+
+# The secretary at the desk will see you. Happens 10% of the time if you entered correctly in the lift. Abort and try again.
+# You'll get in safely and the lift closes on you
+# (Rarer) There's a possibility that a normal guard will see you. This makes later parts harder but there's no need to abort. 
+
+[[TT]]: 3.4-4.0 seconds. Take your [[DrugSpy]] out, bring it to the far right corner of the lift so you can use it as an object to block the lift open. Get out of the lift in right [[speed strafing|strafe]]. Make your way around the corner and go to the right of the table. If your strafeline is correct you'll be able to shoot a [[crossbow]] bolt at the Office Guy who would alert security. If you fail to do so, abort and start until you get it right. (Note: you can shoot him on the way back from the suitcase, so you actually get 2 chances.) Get suitcase. TT: 12.7-13.8. Make your way back to the lift, keep right strafe the whole way. Pick up DrugSpy. TT: Sub 17. 
+
+In the lift: reload. Again, two possibilities: 
+
+# Use the DrugSpy and position yourself in the far left corner, and as you reach the bottom floor you should be able to open the side door ''through'' the wall. It's a glitch, hard to perform and takes a while to master. About 0.5 faster than possibility number 2.
+# Use the DrugSpy to get through the lift's opening door and open the side door normally. Pause, unselect DrugSpy, unpause, get out of base in right strafe. (Note: Small possibility that the secretary sees you on the way out, I'd say 5% chance.)
+
+Make your way around the base, don't mind the first guard you pass by, continue your way towards the alarm guard. Depending on your strafeline and distance from the building, you might or might not need to adjust your line to be able to hit the guard on the strafe with a bolt. TT: 29ish. Keep right strafing towards tunnel: you should be able to see the stewardess as you get in the tunnel. If you don't abort and start again. Get [[disguise]], pause, select disguise, unpause, start left strafing while Joanna puts on her disguise, pause, select Unarmed on Disarm function, unpause. 
+
+You're good to go for the first hard part of the level. You'll be facing 3 to 5 guards (it depends if a guard saw you get in the lift in the beginning). Your best bet is to disarm the one that'll be very close to the tunnel and to change your strafeline as you get close to the other guards, that'll result in them missing you. If you survive, you'll get through the main door of the base at TT: 40.7-42.1. 
+
+As the secretary says her first message, get by the next door. Learn the time between both her speeches, to time a good PAUSE just after you open the door, and select the suitcase. (This doesn't really matter, just learn to open the door as soon as she says her second speech, just make sure you have the suitcase selected.) Left strafe in, turn left, and go towards the far escalator stairs. TT: 48.8-51.
+
+Keep left strafe and put the suitcase in correct place. Either do a quick strafe change to correct your line, or keep left strafe to go in the next corridor. (Note: Keeping left strafe will more often than not result in getting stuck in an invisible wall by the suitcase.) Keep left strafe to continue in the corridor, and in next room you can punch the guy by the escalator stairs. This doesn't really matter, that guy gets in your way on the way back once in about... 60 hours of playing.
+
+A guard with a [[Dragon]] should be in the middle of the next corridor. Disarm him. If he's not there, no worries, there'll be another one in the next few turns. So, just after the guard, make a left, then a right, then a right. You'll see a guard either close to you, kind of far, or on the right of the pillars. Disarm him on the first two options, do nothing if he's on the right of the pillars. 
+
+Run towards the stairs at the end of the corridor, tricky part to do quickly. Learn how to go up by quickly changing to right strafe then back to left strafe. Deactivate the computer and go back downstairs. Make your way back to the big room, this time in RIGHT strafe, select your Dragon and while you're strafing through the room, throw it as a proximity mine in the corridor that goes back to your suitcase. (Note: The guy that was by the escalator stairs will be close to you while you do that, shooting at you with a Magnum, DON'T mind him, he's gay.) Your strafeline should be guiding you to the top right corner of the room towards the door that is now unlocked. TT: 1:16.0-1:18.
+
+Trickiest part of the level, you'll die in the next 20 seconds about... 90% of the time. ;) So after the door, you're in right strafe, take a right towards the next room. There'll be a K7 Avenger guard, he'll either:
+
+# run to the left wall, best option, as you can just strafe towards him and disarm him
+# run back in the next corridor you want to reach, pretty bad, that'll oblige you to face two guards at once, resulting in death
+# crouch right away and shoot at you, if you still have health, just run at him and disarm, good option since it's quick
+# aim at you right away and kill you. You're dead ;)
+# roll to the left or right, just run pass him, good option, but hard to deal with afterwards
+# run to the right for about 4 meters, then shoot at you, slow option but you won't get hurt since you have time to go at him and disarm him.
+
+You got past the first guard! Congrats! Run to the next corridor, a second K7 Avenger guard awaits you, either:
+
+# right at the corner, hardest possibility since he'll shoot quickly and most likely kill you
+# roll over on the left or the right, obliging you to let go of strafe to disarm him, if you don't he'll rape you down in one blast
+# be still around the corner, best option since you can just run pass him while disarming him.
+
+You'll be facing a 3rd guy just after the corner. There's a few possibilities for him too:
+
+# He'll be right next to the 2nd guard, best option since you can disarm them both
+# He'll be far and shoot right away, you're dead
+# He walks towards you shooting, if you still have good health you'll have time to hide by the door on the left, there's a small wall to protect you, rush to disarm him right after he's done shooting
+# Crouch and shoot, if you got good health you'll be able to run right at him and take damage
+# Still be hidden in the next room, gay option, good luck disarming him and not dying.
+
+At this point you should have a [[K7 Avenger]], so pause and select it. Run towards the lift at the end of the corridor and call it. Come back to the room you just went by on the left. Rush to top right corner of the room, but keep yourself at an angle so you can shoot quickly at the mine that is on the door in the next room. The mine should kill at least 2 guards out of 3 in that room. Almost as soon as it explodes, rush in and look to the right because if anyone survived, he'll be there. Shoot them or him quickly, make your way over the counter, double crouch to go through the small hole. There's a switch on the right wall. Press B once, wait a few, press B again to open the safe. You can pick up the plans from behind the safe, thus saving you time. Make your way back over the counter. 
+
+The Final Strafe to the lift. Depending on all that happened earlier:
+
+# The proximity dragon killed the guards that were coming from the far corridor back to the suitcase.
+# You disarmed all 3 K7 Avenger guards on the way to the safe. You'll have a different number of guards blocking your way back to the lift. You have to be quick to make it back to the lift so I suggest you just try to strafe pass all of them hoping you'll survive. You can choose to shoot your way through like in the vid below.
+
+Step in the lift, close it if you were quick enough. TT: 1:44.5. Almost there folks, the lift will bring you to the bottom level, but that's not your destination, time yourself perfectly to reclose the lift as it opens. It'll bring you back one level. (Note: Sometimes, depending on how many guards were on the way back, one of them will call the lift right back up. Abort mission and suck it up.) Get out of lift in right strafe and make left, left, right turns towards the plane. TT: 2:06.
+
+Have fun folks ;) 
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=oMqLfdEYwDY Perfect Ace - Air Base PA 2:02]
+
+== LTK ==
+
+* '''World Record Video''': [https://www.youtube.com/watch?v=Jh0ssk4FABY Illu - Air Base LTK 2:11]
+
+== DLTK ==
+
+* '''World Record Video''': [https://www.youtube.com/watch?v=0XlOEnFWYkU Icy - Air Base DLTK 2:24]
+
+== External Links ==
+
+* [http://rankings.the-elite.net/perfect-dark/stage/air-base Air Base World Rankings]
+* [http://rankings.the-elite.net/perfect-dark/ltk/stage/air-base Air Base LTK Rankings]
+* [http://www.thengamer.com/PD/10-Air%20Base/ Air Base Videos]
+
+
+{{Template:Perfect Dark solo missions}}

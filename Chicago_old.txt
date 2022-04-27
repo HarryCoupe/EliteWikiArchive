@@ -1,0 +1,42 @@
+[[Image:Chicago.png|thumb|Chicago: Stealth]]
+
+'''Chicago: Stealth''' is the fifth level in [[Perfect Dark]].
+
+== Agent ==
+
+'''Target Time - 0:15 - written by [[Greg K.]]'''
+
+You got two options for this record: either wait for the cutscene (like [http://www.thengamer.com/PD/05-Chicago/Discombobulator%20-%20Chicago%20-%20A%20-%20015.mpeg  Discombobulator's 0:15)] or start right away. Using the first option, the guard that's normally by the catwalk ''will not'' be there, so you can run through the catwalk and save a few tenths. On the other hand, when you start as soon as possible the guard will be there, so you have to avoid him and use the street. I used the second option on my 0:15, because waiting is boring ;-)
+
+Start with right strafe. Do a smooth turn at the first corner, and "jump" into the little hallway. When you get out of it, change to left strafe, and climb the catwalk when it's possible (after a little practice you will find the perfect spot). As soon as you're up there, change to right strafe again. Now you have two paths: use the whole catwalk (if you waited the cutscene) or use some part of it and then go through the street. Either way, just line your strafe and run. This part isn't hard, just do smooth turns. When you fall on the storm drain, change to left strafe in mid air and quickly press A. Get the equipment with at least 10.90 - it should be 10.6~10.8 though - and press start. Select the remote mine and turn around. (ps. the pressing-A-before-selecting-mine may sound useless, but by doing that the mine will come up faster, test it :])
+
+Now is the crucial part, but there aren't secrets here; climb quickly, throw the mine (it should pass very close to the left wall) and detonate it. Yeah, it's that simple. The only tip here is not detonating the mine too early, or else it won't kill the guard that sounds the alarm. You will get a lot of 0:16s when going for 0:15, and when you less expect the WR will appear :) Good luck!
+  
+* '''Target Time Video''': [http://www.youtube.com/watch?v=KLsJv1TRV9w Illu - Chicago A 0:15]
+
+* '''World Record Video''': [http://www.youtube.com/watch?v=5ds0QzFIpVo True Faith - Chicago A 0:14]
+
+== Special Agent ==
+
+* '''World Record Video''': [https://www.youtube.com/watch?v=iqdiP6s7VOw True Faith - Chicago SA 0:25]
+
+== Perfect Agent ==
+
+* '''World Record Video''': [https://www.youtube.com/watch?v=JDup0sGwtY0 Alephℵ0L - Chicago PA 0:25]
+
+== LTK ==
+
+* '''World Record Video''': [https://www.youtube.com/watch?v=iBFbEfXgBDM Icy - Chicago LTK 0:32]
+
+== DLTK ==
+
+* '''World Record Video''': [https://www.youtube.com/watch?v=xVgFy3fobhU Icy - Chicago DLTK 0:34]
+
+== External Links ==
+
+* [http://rankings.the-elite.net/perfect-dark/stage/chicago Chicago World Rankings]
+* [http://rankings.the-elite.net/perfect-dark/ltk/stage/chicago Chicago LTK Rankings]
+* [http://www.thengamer.com/PD/05-Chicago/ Chicago Videos]
+
+
+{{Template:Perfect Dark solo missions}}
