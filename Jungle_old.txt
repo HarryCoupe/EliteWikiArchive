@@ -1,0 +1,62 @@
+'''Jungle''' (Part i of Mission 7: Cuba) is the fifteenth level in [[GoldenEye 007]].
+
+{|class="wikitable" style="float:right;"
+!colspan="3"|Jungle
+|-
+| colspan="3" style="text-align: center;"| [[Image:Jungle.png|150px]]
+|-
+|}
+
+== Objectives ==
+
+=== Agent ===
+
+; a. Destroy drone guns
+; b. Eliminate Xenia
+; c. Escort Natalya to Janus base
+
+=== Secret Agent / 00 Agent ===
+
+; a. Destroy drone guns
+; b. Eliminate Xenia
+; c. Blow up ammo dump
+; d. Escort Natalya to Janus base
+
+== Version Differences ==
+
+* On PAL/Jap, when Nat finds a target and is shooting, a 5s timer starts after each shot (or more likely, firing animation?) to check when to leave the shooting function, as opposed to just waiting for Nat to stop moving. This is likely what fixes the Frozen Natalya Glitch, since the game on NTSC must think she's stuck moving while firing, despite not doing so. <ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=18518.msg457386#msg457386|title=the-elite form post on function version differences|author=Icy|access-date=July 16, 2021}}</ref>
+
+== Tutorials ==
+
+; General Tips
+
+* Enter the cave at the normal look-up angle and shoot the drone earlier. That way you avoid a risk of getting backboosted by the drone. <ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=21944.msg447689#msg447689|title=the-elite forum post "Post Runs For Critique Here!"|author=Ace|access-date=July 19, 2021}}</ref>
+
+* Be careful not to lose time at Xenia. You should switch to AR33, align your aim at her head and shoot her earlier, [https://www.youtube.com/watch?v=pT21K2eku98&t=30s like this]. Consistency may drop but you can get better kills
+
+* For the final drone and ammo dump section, switch from Grenade Launcher/RCP-90 to Grenade Launcher and strafe the entire part. Just shoot the first drone, quickly shoot the dump and turn and quickly shoot the last drone from a decent distance<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=854.msg343518#msg343518|title=the-elite forum post "Post Your Best Legit (And Semi-Legit) Fails Here!"|author=Darth Vader |access-date=July 20, 2021}}</ref>. Just don't hesitate a second to fire the GL shot on the last drone after blowing the ammo dump, or the shot will go trough the ground, just fire fast<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=854.msg343490#msg343490|title=the-elite forum post "Post Your Best Legit (And Semi-Legit) Fails Here!"|author=Illu|access-date=July 20, 2021}}</ref>.
+
+=== LTK ===
+
+* [[Goldeneye 007 Tutorial: Jungle LTK|Jungle LTK]]
+
+* Tutorial Video: [https://videos.huzip.net/tutorials/goldeneye/ltk-dltk/Adam-Bozon/annotated/Jungle%20LTK%20Tutorial.html - Adam Bozon - Jungle LTK Tutorial (turn captions on)]
+* Tutorial Video: [https://videos.huzip.net/tutorials/perfect-dark/ltk-dltk/Eric-Liikala/annotated/Jungle%20LTK%20Tutorial.html - Icy - Jungle LTK Tutorial (turn captions on)]
+
+=== DLTK ===
+
+* [[Goldeneye 007 Tutorial: Jungle DLTK|Jungle DLTK]]
+
+== External Links ==
+
+* [https://rankings.the-elite.net/goldeneye/stage/jungle Jungle World Rankings]
+* [https://rankings.the-elite.net/goldeneye/ltk/stage/jungle Jungle LTK/DLTK Rankings]
+* [http://thengamer.com/GE/15-Jungle/ Jungle Videos]
+
+==References==
+{{Reflist}}
+
+[[Category:GE Strats]]
+[[Category:GoldenEye 007]]
+
+{{Template:GoldenEye 007 solo missions}}
