@@ -1,0 +1,220 @@
+'''Control''' (Part ii of Mission 7: Cuba) is the sixteenth level in [[GoldenEye 007]]. With the 2 and a half minute protect sequence, Control is unassailable as the longest level in the game. Control is primarily a knowledge-based level (more so than other levels at least) and in order to get a good time, you need to know how Natalya works.
+
+{| class="wikitable" style="float:right;"
+! colspan="3" |Control
+|-
+| colspan="3" style="text-align: center;" |[[Image:Control.png|150px]]
+|-
+|}
+
+==Objectives==
+
+=== All Difficulties ===
+'''a. Protect Natalya'''
+
+This is completed by Natalya once she arrives back in the lift at the start. This can complete in the fade and moreover the [[Time Not Saved]] glitch will happen if it completes on the very last frame of NTSC-U.
+
+'''b. Disable Goldeneye satellite'''
+
+This will be completed by Nat towards the end of the protect.
+
+'''c. Destroy armored mainframes'''
+
+There are 6 mainframes in total, with all but 2 in the main protect room. One can reliably be destroyed during the protect with a clever throw, but the final mainframe is actually an issue. They can only be destroyed by explosions.
+
+== Level breakdown ==
+The level divides itself into several very distinct sections, most marked by a switch from the player being the bottleneck to it being Natalya, or vice versa.
+
+# Killing the first room guards and destroying the drones
+# Natalya from starting moving to her 'got one open' line
+# Bond running around to meet back up with Nat
+# Nat jogging down to start the protect
+# The protect
+# Nat jogging back to the lift at the start
+
+For '''(1)''', note that the guards must have finished fading out, and so their choice of [[Death Animation|death animation]] is very important.
+
+With the exception of '''(3)''', the rest are discussed in the next section.
+
+==Natalya Simonova==
+Much of the level is bottlenecked by Natalya's actions, but is very much not beyond the ''control'' of the player.
+
+=== [https://ryandwyer.gitlab.io/gepd-function-explorer/ge-control-0402.html At her first console]===
+
+As Natalya turns to face the console, a timer is started, which is our bottleneck. Natalya does a specific animation 1 second after facing the console, and displays the first message after she finishes it. As such this is a pretty good reference point to start timing from, though will vary by a frame or two.
+
+Then while her timer counts up to 15 seconds, Natalya is doing animations. Crucially though she will not check her timer during an animation.
+
+Fortunately if Nat is not on screen then she'll sit in a different loop, checking each frame to see if she's come back on screen. 2 cycles of her script later, she'll check her timer. This will be between 0.25 and 0.64s later (+ some rounding up to game frames), due to the random [[Scripts#Delays|delay]]<nowiki/>s in between cycles while Nat is idle.
+
+This is a truely random factor which can frustrate players when they try to cut this lookup too finely.
+
+When Natalya checks her timer and sees that it's passed 15 seconds, she opens the door for Bond to run through. 
+
+
+Theoretically you could look up sharply and injure Nat to make her animate, and so make the 2 cycles 2 game frames (there is no delay between cycles of Nat's script while she's animating), but to actually remove all of the RNG you'd have to be able to make such a shot in less than 0.25s. 
+
+===[https://ryandwyer.gitlab.io/gepd-function-explorer/ge-control-0403.html Meet up]===
+[[File:Goldeneye_007_control_begin_second_nat.png|thumb|220x220px|The trigger room for the meetup is highlighted in yellow]]
+As Bond approaches the meet up, Nat is running the same script and is off screen. She is checking every cycle to see if the player has entered the room highlighted in yellow on the right. Again the random delays while Nat is idle will cause a 0-0.32s delay in her response.
+
+She says her famous "I'm coming" line and starts jogging to the protect room. This text can be delayed by Boris' conversation but alerting Boris does not actually cause any time loss.
+
+It is important that the [[room]] at the foot of the stairs is kept [[Unloaded movement|unloaded]] so that Natalya can jog through her first door without having to open it, and the room where you triggered the meetup is kept '''loaded''' i.e. on screen. This allows Nat to load on the other side of the door without losing any time. Looking away and then back after she's "warped" the door will cause her to lose time, as she will be ''reloaded''. See the full [[unloaded movement]] page for more information.
+
+Likewise she must be kept loaded until past the foot of the curved staircase in the protect room. This is to ensure she takes a good path to her desk.
+
+
+=== [https://ryandwyer.gitlab.io/gepd-function-explorer/ge-control-0403.html Protect]===
+Again, once Natalya reaches the desk, she starts her main protect timer and starts turning to face the computer.
+
+After a familiar delay of 1 second and an animation, Natalya says her "The Goldeneye is set to fire on London" line. From this point on she won't tolerate Bond being more than 15m away (a 3D distance check). All the time that Bond is out of this range, the timer will be paused, but will resume as soon as you are back in range. The first time that you go out of reach you'll get a warning "I need cover while I'm doing this" message.
+
+All messages and key events are driven by the timer:
+
+{| class="wikitable"
+!Timer value||Message & Events
+|-
+|40s||"Natalya: If i can just get the yaw oscillation above 5 degrees."
+|-
+|1m||"Natalya: James, do you think you could be a bit quieter? I can't hear myself think."
+|-
+|1m 20s||"Natalya: The bounary-layer temperature stays pretty steady until re-entry."
+|-
+|2m 15s||"Natalya: Did it! The satellite's orbit is decaying." & '''Objective B Complete'''
+|-
+|2m 20s||"Bond: Get back to the surface, Natalya. I'm going after Trevelyan."
+|-
+|2m 25s||"Natalya: Good luck, James, I'll be waiting for you." & '''Natalya starts jogging back to the elevator'''
+|}
+
+The only useful thing to be done during the protect, except for protecting Nat & Bond, is backing Nat up through injury animations, so that she has less far to run in the final part. This is covered in detail [[Control#Backing Nat up|below]].
+
+===[https://ryandwyer.gitlab.io/gepd-function-explorer/ge-control-0404.html Returning to the lift]===
+
+Getting consistently fast Objective A completes after the end of the protect is all about when Nat unloads. She must unload after she has reached the top of the stairs, else she will move at 80% speed for the rest of her route, but before she reaches the door, else she will open it and be delayed waiting for it / move incredibly slowly for the rest of her route.
+
+==Guard Spawns==
+
+Once the alarm goes off, 2 black-hatted guards instantly start spawning.<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=18518.msg397922#msg397922|title=the-elite facts topic post on guard spawns|access-date=July 16, 2021}}</ref> What you might not now is that their spawning is actually dependent on Bond having killed 2 guards in the very beginning. Of course, you are required to kill those guys anyway so there's no way to utilize this fact.
+
+Each guard has 7 separate spawning points, shown below:
+
+[[Image:goldeneye_007_control_guard_spawns.png|400px]]
+
+Red points belong to one of the guards, blue to the other.  The probability for each location is #2-6: 15.625%, #1: 16%, #7: 9.765%.
+
+Normally the games does regular "Have any of the guards died?" checks at 60 frame (1 second) intervals, and if so, respawns the guard(s). This interval actually changes once Natalya says "Good luck, James, I'll be waiting for you" and starts running towards the elevator. What's the new interval you ask? 40 seconds. So killing the black hat guards just after Natalya's message means no more black hat guards for 40 seconds.
+
+There's one exception though, and that is if you enter the final big room where Trev is. If you do this, the game starts doing 1 second checks again. (if you go back and leave the room, it's back to 40).
+
+==Backing Nat up==
+Natalya has 10 health and 10 body armour, so can be injured (and react) 5 times on agent and 10 times on SA / 00A. You can strip Nat's body armour during the dead time at the start: 1 headshot on agent will bring her down to 2 body armour, and the first limb shot will injure. Likewise 2 headshots and a limb shot on SA / 00A will bring her down to 1 body armour and the first limb shot will injure.
+
+Historically, runners risked Nat running up the wrong stairs if they backed her up too far, but this is because they used leg shots. Instead you want to land shots on Nat's left forearm / hand, since these animations carry her back and slightly to the right, keeping her on the right side so she still takes the right stairs.
+
+===Nat teleporting===
+Any time that Nat
+
+#Isn't busy in an animation (typing or injury)
+#Can't see Bond '''herself'''
+
+She'll teleport back to the desk. This doesn't really present any problems once you are aware that it happens.
+
+===Nat spinning===
+[[File:Control main room near pads map.png|thumb|412x412px|Control main area near pads]]
+Nat can sometimes spin as she starts her gentle jog back to the elevator. The main cause of this is thought to be her picking a bad starting pad for her path, and which pad she picks is completely understood.
+
+The pad that she starts from is her [[near pad]], and the areas that she'll pick each pad from are shown on the right. Then the route that she'll pick is deterministic:
+{| class="wikitable"
+|+Nat routing
+!Near pad
+!Route
+|-
+|7B
+|→ 7B → 79 → 78 → '''wrong stairs'''
+|-
+|70
+|→ 70 → 6A → '''6D''' → 67 → 68 → ..
+|-
+|6A
+|→ 6A → '''6D''' → 67 → 68 → ..
+|-
+|65
+|→ 65 → 67 → 68 → ..
+|-
+|67
+|→ 67 → 68 → ..
+|}
+As she jogs her path, she looks to see if she has a line to the next pad in the path (ignoring the desks). If so she'll drop the first pad off of her path and target that second one instead. This shortcutting process isn't instant, and her turning to face these various pads makes her spin.
+
+The cleanest solution on SA / 00A is to back Nat up into 67's area, which is the purple squashed L shape in the diagram. This means she won't have any shortcutting to do at the start of her route, so should just spin to face 67 and get on with the job.
+
+===Nat angling===
+A modern improvement, used in Ace's 3:55 / 4:01 / 4:02 sweep (less successfully in SA), is called 'Nat angling'. Natalya starts her all important timer on the frame that she '''starts''' turning to face the computer after jogging up to the desk<ref>Nat's control room script https://ryandwyer.gitlab.io/gepd-function-explorer/ge-control-0403.html</ref>. As such you can injure her as she starts turning to the right, and fix the angle that she's facing further to the left. This is normally done with a leg shot since it's easier to hit.
+
+This is important because none of the injury animations actually rotate Nat, they just move her in slightly different directions. With a good angle on agent you can back her up into 6A's area rather than 70's, for a slightly better route. On SA / 00A you can back her up deep into 67's area. Be aware that you might be able to make it all the way into 65's area, which would cause a bad spin.
+
+Also note that you can adjust for mistiming the angle-fixing shot by your choice of arms for the rest of the injury animations. Each will pull her back and push her a little off to the side, i.e. left arm pushes her slightly to her right.
+
+===Nat nudging===
+More extreme Nat manipulation is only really seen in TAS at the moment. But by placing yourself in Nat's way 'nudges' her off of her route. This gets pretty precise but you can make her take corners earlier than if she was left to see them by herself, and in particular you can set up a more extreme angle for the backing up. You could also stand in front of Nat before she starts jogging back to the start, to stop her moving forwards as she rotates.
+
+===Gun shots===
+Shots to the gun do no damage and select one of two injury animations, one of which backs her up a little. This is not seen on console runs but in TAS you can back her up arbitrarily far as [https://www.youtube.com/watch?v=8qOu-slGPn4 demonstrated] .
+
+==Strategies==
+
+===Trap black hat guard spawns===
+
+Using Cinema + 16:9 and breaking 2 of glasses on the top floors, you can get all the "bad" black hat spawns (see above) in a single view, thus making it impossible for the black hat guards to spawn there.  <ref name="second nat and dltk spawns">{{cite web | url=https://forums.the-elite.net/index.php?topic=18518.msg397932#msg397932|title=the-elite facts topic post on second Natalya and DLTK guard spawns|access-date=July 16, 2021}}</ref> Simply stand as in the picture below, then move down to the screen as soon as alarm goes off. This should guarantee that both guards get trapped at Boris' desk. This is useful for DLTK.
+
+[[Image:goldeneye_007_control_dltk_trap_black_hats.png|300px]]
+
+==Tutorials==
+
+===Agent===
+
+*[[Goldeneye 007 Tutorial: Control Agent|Control Agent]]
+
+===Secret Agent===
+
+*[[Goldeneye 007 Tutorial: Control Secret Agent|Control Secret Agent]]
+
+===00 Agent===
+
+*[[Goldeneye 007 Tutorial: Control 00 Agent|Control 00 Agent]]
+
+===LTK===
+
+*[[Goldeneye 007 Tutorial: Control LTK|Control LTK]]
+
+*Tutorial Video: [https://videos.huzip.net/tutorials/goldeneye/ltk-dltk/Adam-Bozon/annotated/Control%20LTK%20Tutorial.html - Adam Bozon - Control LTK Tutorial (turn captions on)]
+*Tutorial Video: [https://videos.huzip.net/tutorials/perfect-dark/ltk-dltk/Eric-Liikala/annotated/Control%20LTK%20Tutorial.html - Icy - Control LTK Tutorial (turn captions on)]
+
+===DLTK===
+
+*[[Goldeneye 007 Tutorial: Control DLTK|Control DLTK]]
+
+==Misconceptions==
+
+===Faster initial Natalya===
+
+The idea that Natalya can have faster reaction by turning earlier is simply wrong. Her "I'm coming, James" message can differ by a few frames but not in any significant or manipulatable manner. Even though the message can seem to come up faster when watching in real time, a frame-by-frame analysis shows that there's no difference whatsoever, no matter which method you use (look up, down, turn right, left, early, late etc etc...). <ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=18518.msg381311#msg381311|title=the-elite facts topic post on faster Natalya|access-date=July 16, 2021}}</ref>
+
+==External Links==
+
+*[https://rankings.the-elite.net/goldeneye/stage/control Control World Rankings]
+*[https://rankings.the-elite.net/goldeneye/ltk/stage/control Control LTK/DLTK Rankings]
+*[http://thengamer.com/GE/16-Control/ Control Videos]
+
+* [https://forums.the-elite.net/index.php?topic=18518.msg398014#msg398014 The Goldeneye Facts Topic post on Natalya]
+* [https://forums.the-elite.net/index.php?topic=18518.msg398249#msg398249 The Goldeneye Facts Topic post on watch Natalya in the first room]
+
+==References==
+{{Reflist}}
+
+[[Category:GE Strats]]
+[[Category:GoldenEye 007]]
+
+{{Template:GoldenEye 007 solo missions}}
