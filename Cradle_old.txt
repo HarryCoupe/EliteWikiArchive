@@ -1,0 +1,99 @@
+'''Cradle''' (Part iv of Mission 7: Cuba) is the eighteenth level in [[GoldenEye 007]]. The formal name of this level is Antenna Cradle.
+
+{|class="wikitable" style="float:right;"
+!colspan="3"|Cradle
+|-
+| colspan="3" style="text-align: center;"| [[Image:Cradle.png|150px]]
+|-
+|}
+
+== Objectives ==
+
+=== All Difficulties ===
+
+; a. Destroy control console
+; b. Settle the score with Trevelyan
+
+== Facts ==
+
+=== Cutscenes ===
+
+When you start cradle you can get two different cutscenes that influences where some guards are. The lower cutscene makes it so there is one less guard as you get to the top of the first slope. The lower cutscene is slightly advantaged over the upper cutscene<ref name="function explorer misc facts">{{cite web | url=https://forums.the-elite.net/index.php?topic=22494.0|title=the-elite forum post "Pro Cradle SA/00A Tip / Interesting Pattern"|author=Icy|access-date=July 25, 2021}}</ref>.
+
+[[Image:Goldeneye-cradle-upper cutscene guard.png|thumb|200px|This guard is not present with the "upper" cutscene on Cradle ]]
+
+=== Grenade Odds ===
+
+The chances of a guard choosing to throw a grenade seems to be 11/256 = 4.3% or 1 in 23.27.<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=18518.msg383444#msg383444|title=the-elite facts topic post on cradle/surface 2 grenade odds|access-date=July 16, 2021}}</ref>
+
+Cradle guards also need the 1 zmg to be able to use the nade throw action. Each guard has the following probabilities to become a certain type:
+
+*1 Zmg/Black Beret = 81/256 = 31.6%
+*2 Zmg/Burgundy Beret = 80/256 = 31.25%
+*2 Zmg/Navy Beret = 95/256 = 37.1%
+
+It is not possible to manipulate higher nade throwing odds.
+
+=== Trev grenade ===
+
+You have to look away for Trev to drop grenades. The reason Trev sometimes stops dropping nades completely when doing the old suicide strat, is that he moved too far away from you (outside the 80 unit radius). This can generally be fixed by moving a bit closer to the door.<ref name="trev grenade">{{cite web | url=https://forums.the-elite.net/index.php?topic=18518.msg431910#msg431910|title=the-elite Goldeneye facts topic post on Trevelyan grenades|author=Wyst3r|access-date=July 16, 2021}}</ref>
+
+== Strategies ==
+
+Unworkable, impossible, and infeasible strategies, including TAS ideas, can be found on the [[Cradle Unworkable Strategies|Unworkable Strategies]] page.
+
+==== 'Pause trick' ====
+
+Cradle is one of two levels which the [[Pausing#.27Pause_trick.27|'pause trick']] is applicable to.
+
+== Technical Details ==
+
+=== Headshot Strat ===
+
+* [https://www.youtube.com/watch?v=QILmhxBPnZc Headshot strat explained video]<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=18518.msg429233#msg429233|title=the-elite Goldeneye facts topic post on cradle strat explained|author=Wyst3r|access-date=July 16, 2021}}</ref>
+
+=== Trevelyan Grenades ===
+The reason Trev sometimes stops flickering for a short while is that he gets too far away from his target location and has to run back<ref name="trev grenade" />. Now, if he's loaded while doing this, he will get back faster, because he can take shortcuts and doesn't have to get all the way back. This means he won't be able to run for the full 1 second, and thus never have a chance to drop a grenade. If he's unloaded however, he will usually have enough time.
+
+I also noticed that if he's loaded, his small flicker steps can cause him to get away from the target location faster than if he's unloaded. Meaning if you unload him after this, he might drop a nade faster than if he was unloaded the whole time. So for example, when doing the suicide strat from below, you can run into his 80 unit radius while looking up, then instantly run back and look away, and he might drop a nade. If you instead look down the whole time, I doubt he ever throws a nade unless you run back and forth into his radius at least 2 times.
+
+The recent cradle strat discovery also led us to the realization that Trev can drop nades after his death, assuming he was in the running state when he died.
+
+=== Guard Spawns ===
+There are 5 [[Guards#Chaser Guard|chaser]]<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=18518.msg456102#msg456102|title=the-elite forum Goldeneye facts post on guard AI|author=Icy|access-date=July 16, 2021}}</ref> spawn guards will check to respawn every 12s. They have a 95 / 256 (~37.1%) chance to have 2x ZMG with a blue hat, an 80 / 256 (~31.3%) chance to have 2x ZMG with a purple hat, and an 81 / 256 (~31.6%) chance to have 1x ZMG with a black hat. They all have 40 health and 20 armor, but blue hats have 80 reaction speed and accuracy, purple hats have 60 reaction speed and accuracy, and black hats have 50 reaction speed and accuracy. <ref name="function explorer misc facts2">{{cite web | url=https://forums.the-elite.net/index.php?topic=18518.msg455830#msg455830|title=the-elite Goldeneye facts topic post on miscellaneous function explorer facts|author=Icy|access-date=July 16, 2021}}</ref>
+
+== Tutorials ==
+
+Cradle is the same across all difficulties. On higher difficulties, the "only" differences are that the first guards are harder to kill, you are more likely to get backboosted in the console room, you are more likely to die from the console explosion, and it is harder to kill Trev.  Just as usual, keep playing until all goes well.
+
+* [[Goldeneye 007 Tutorial: Cradle Headshot Strat|Cradle Headshot Strat]]
+
+* [[Goldeneye 007 Tutorial: Cradle Grenade Strat|Cradle Grenade Strat]]
+
+
+* headshot strat: [https://www.youtube.com/watch?v=lrn_dlEwrYM video tutoral target 0:34 by OHMSS]
+
+=== LTK ===
+
+* [[Goldeneye 007 Tutorial: Cradle LTK|Cradle LTK]]
+
+* Tutorial Video: [https://videos.huzip.net/tutorials/goldeneye/ltk-dltk/Adam-Bozon/annotated/Cradle%20LTK%20Tutorial.html - Adam Bozon - Cradle LTK Tutorial (turn captions on)]
+* Tutorial Video: [https://videos.huzip.net/tutorials/perfect-dark/ltk-dltk/Eric-Liikala/annotated/Cradle%20LTK%20Tutorial.html - Icy - Cradle LTK Tutorial (turn captions on)]
+
+=== DLTK ===
+
+* [[Goldeneye 007 Tutorial: Cradle DLTK|Cradle DLTK]]
+
+== External Links ==
+
+* [https://rankings.the-elite.net/goldeneye/stage/cradle Cradle World Rankings]
+* [https://rankings.the-elite.net/goldeneye/ltk/stage/cradle Cradle LTK/DLTK Rankings]
+* [http://thengamer.com/GE/18-Cradle/ Cradle Videos]
+
+==References==
+{{Reflist}}
+
+[[Category:GE Strats]]
+[[Category:GoldenEye 007]]
+
+{{Template:GoldenEye 007 solo missions}}
