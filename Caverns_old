@@ -1,0 +1,126 @@
+<!-- -->
+
+'''Caverns''' (Part iii of Mission 7: Cuba) is the seventeenth level in [[GoldenEye 007]]. The formal name of this level is Water Caverns.
+
+{|class="wikitable" style="float:right;"
+!colspan="3"|Caverns
+|-
+| colspan="3" style="text-align: center;"| [[Image:Caverns.png|150px]]
+|-
+|}
+
+== Facts ==
+
+=== Drone gun ===
+
+To avoid the backboost, we need to take a path along the left wall (right side doesn't seem to have any frames that work). Just make sure you don't strafe into the wall too much, but rather go alongside it. If the drone is activated anywhere between frames 0 and 28 (roughly), you won't get backboosted. This means that there's approximately a 29/120 = 24.16% chance of success. <ref name="drone gun">{{cite web | url=https://forums.the-elite.net/index.php?topic=18518.msg446772#msg446772|title=the-elite facts topic post on Caverns agent drone gun|author=Wyst3r|access-date=July 16, 2021}}</ref>
+
+=== Scientists ===
+Scientists will repeatedly dodge if you are too close to them. If scientists are fired at or see another NPC shot, they will surrender. If another NPC is killed in their sight, they will run away. If they stop moving and have been shot, they will run away. If a shot is fired, they will run away. If you are further than 200 units away, they will run away.  <ref name="function explorer misc facts">{{cite web | url=https://forums.the-elite.net/index.php?topic=18518.msg455830#msg455830|title=the-elite Goldeneye facts topic post on miscellaneous function explorer facts|author=Icy|access-date=July 16, 2021}}</ref>
+
+== Objectives ==
+
+=== Agent ===
+
+; a. Minimize scientist casualties
+
+=== Secret Agent ===
+
+; a. Destroy inlet pump controls
+; b. Destroy outlet pump controls
+; c. Destroy master pump console
+; d. Minimize scientist casualties
+
+=== 00 Agent ===
+
+; a. Destroy inlet pump controls
+; b. Destroy outlet pump controls
+; c. Destroy master pump console
+; d. Use radio to contact Jack Wade
+; e. Minimize scientist casualties
+
+== Strategies ==
+
+=== SA Mine throw ===
+Secret Agent difficulty will want to throw a [[Projectile|mine]] throw the door into the radio area.
+
+== Technical Details ==
+
+=== Drone Gun ===
+
+First of all we should talk about the global timer <ref name="drone gun" />. It's a timer that starts when the cinemas start, and is often referenced by guards/objects. Drone guns are no exceptions, so waiting more/less cinema will affect drone gun. As you've probably noticed, drone guns rotate left/right in a periodic manner when they shoot towards you. This movement is directly controlled by the global timer. The period of this movement is exactly 120 frames, or 2 seconds (at least on Caverns, haven't checked the rest of the game). By freezing the timer at specific frames, we can see how the angle changes with respect to the global timer:
+
+[[Image:Goldeneye-caverns-drone gun movement.png|border|Drone gun movement range]]
+
+(starting at frame 0, with 15 frame intervals, moving from top-left to bottom-right)
+
+At frame zero, the drone gun is aimed slightly to the left of Bond, then moves dead center at around frame 30, back to slightly left at frame 60, then fully left around frame 90. In order to utilize this, we need to know exactly when and where the drone gun gets activated. The caverns drone gun has a distance of 1500 units, meaning it activates slightly after you enter the hallway.
+
+To avoid the backboost, we need to take a path along the left wall (right side doesn't seem to have any frames that work). Just make sure you don't strafe into the wall too much, but rather go alongside it. If the drone is activated anywhere between frames 0 and 28 (roughly), you won't get backboosted. This means that there's approximately a 29/120 = 24.16% chance of success. To raise these odds, we'd have to adjust the cinema to the specific speed we're going for. Knowing how to adjust it could be tough, but I guess players will develop a feel for it over time. Alternatively you could use an on-screen timer to calculate it, though it'd require a modified version to show the global timer, instead of the mission timer. Another method would be to check the firing pattern of the drone gun during runs, and use that to estimate the cinema adjustment.
+
+=== Scientists ===
+If scientists are fired at or see another NPC shot, they will surrender <ref name="function explorer misc facts" />. If another NPC is killed in their sight, they will run away. If they stop moving and have been shot, they will run away. If they hear gunfire, they have a 191 / 256 (~74.6%) chance to run sideways and a 65 / 256 (~25.4%) chance to do nothing. If you're in their sight and then either within 64 units or further than 192 units they will call RNG. They then have a 201 / 256 (78.5%) chance to do nothing, and a 55 / 256 (~21.5%) chance to perform a dodge if you're further than 20 units away, or will surrender if you're within 20 units. The RNG check is skipped if you have them at gunpoint.
+
+When a scientist surrenders, they have a 2 / 256 (~0.8%) chance to run away per frame. If a shot is fired, they will run away. If you are further than 200 units away, they will run away.
+
+When a scientist is performing a dodge, they have a 105 / 256 (~41.0%) chance to step sideways, and a 151 / 256 (~59.0%) chance to run sideways. If you're close behind them they will always sidestep repeatedly.
+
+=== Guards ===
+There are 3 [[Guards#Patrolling Guard|patrolling guards]].<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=18518.msg456102#msg456102|title=the-elite forum Goldeneye facts post on guard AI|author=Icy|access-date=July 16, 2021}}</ref>
+
+All blue hat guards are semi-chasers. They can become active just by pointing your gun at them, even with invisibility.
+
+Many (but not all) normal guards after the spiral can also become active just by pointing your gun at them.
+
+== Tutorials ==
+
+; General Tips
+
+* Try shooting the AR33 in between the two scientists near the 2nd set of obj A consoles<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=854.msg280812#msg280812|title=the-elite forum post "Post Your Best Legit (And Semi-Legit) Fails Here!"|author=RWG|access-date=July 19, 2021}}</ref>. You want to "spread" the shots between the scientists for the 2nd objective A room to scare both scientists off consistently, hitting one will scare them both too but is more likely to cause a slow limb animation that will slow them and get killed from your mines<ref>{{cite web | url=https://forums.the-elite.net/index.php?topic=854.msg384025#msg384025|title=the-elite forum post "Post Your Best Legit (And Semi-Legit) Fails Here!"|author=Henning Blom|access-date=July 20, 2021}}</ref>.
+
+; Tutorials
+
+* Cinema Timing & Box Boost Guide [https://www.youtube.com/watch?v=m03HlHbhR8Q by Grav]. '''NOTE''' that this "grav cinema timing" is actually worse and should not be used.
+
+=== Agent ===
+
+* [[Goldeneye 007 Tutorial: Caverns Agent|Caverns Agent]]
+
+=== Secret Agent ===
+
+* [[Goldeneye 007 Tutorial: Caverns Secret Agent|Caverns Secret Agent]]
+
+* [https://www.youtube.com/watch?v=opyLr674ozg video tutorial target 1:19 by Luke]
+
+=== 00 Agent ===
+
+* [[Goldeneye 007 Tutorial: Caverns 00 Agent|Caverns 00 Agent]]
+
+* [https://www.youtube.com/watch?v=jZsqWAzZZMI video tutorial target 1:36 by Spec]
+
+=== LTK ===
+
+* [[Goldeneye 007 Tutorial: Caverns LTK|Caverns LTK]]
+
+* Tutorial Video: [https://videos.huzip.net/tutorials/goldeneye/ltk-dltk/Adam-Bozon/annotated/Caverns%20LTK%20Tutorial.html - Adam Bozon - Caverns LTK Tutorial (turn captions on)]
+* Tutorial Video: [https://videos.huzip.net/tutorials/perfect-dark/ltk-dltk/Eric-Liikala/annotated/Caverns%20LTK%20Tutorial.html - Icy - Caverns LTK Tutorial (turn captions on)]
+
+=== DLTK ===
+
+* [[Goldeneye 007 Tutorial: Caverns DLTK|Caverns DLTK]]
+
+* Tutorial Video: [https://videos.huzip.net/tutorials/goldeneye/ltk-dltk/Adam-Bozon/annotated/Caverns%20DLTK%20Tutorial.html - Adam Bozon - Caverns DLTK Tutorial (turn captions on)]
+
+== External Links ==
+
+* [https://rankings.the-elite.net/goldeneye/stage/caverns Caverns World Rankings]
+* [https://rankings.the-elite.net/goldeneye/ltk/stage/caverns Caverns LTK/DLTK Rankings]
+* [http://thengamer.com/GE/17-Caverns/ Caverns Videos]
+
+==References==
+{{Reflist}}
+
+[[Category:GE Strats]]
+[[Category:GoldenEye 007]]
+
+{{Template:GoldenEye 007 solo missions}}
