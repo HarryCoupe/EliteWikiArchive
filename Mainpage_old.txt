@@ -1,0 +1,163 @@
+[[Image:GoldenEye.jpg|thumb|GoldenEye]]
+
+'''GoldenEye 007''' is a first person shooter for the Nintendo 64, released in August 1997 by Rare. 
+
+Rare relinquished the James Bond licence to Electronic Arts shortly after GoldenEye was released, which resulted in the appalling "Tomorrow Never Dies" for Sony's PlayStation and the mediocre "The World Is Not Enough" for the N64. Following 6'th generation titles, EA then created "007 Nightfire" in 2002 for the PS2. "007 Everything or Nothing" was released in 2004, and "Quantum of Solace" was released in 2008. Meanwhile, Rare took the opportunity to create some original intellectual property and spent the next three years making GoldenEye's true spiritual successor, [[Perfect Dark]].
+
+== Solo missions ==
+
+All competitive play relating to GoldenEye revolves around completing the 60 solo missions - 20 levels on each of three difficulty levels - as quickly as possible.
+
+[[The Elite]] has hosted GoldenEye speedrun competition since the summer of 1997. The current world champion is Rayan 'Ace' Isran.
+
+=== Strategies and Tutorials ===
+Written strategies are available for every level.
+The community is also working to create new video tutorials
+for each level and difficulty.
+
+{| class="wikitable"
+! style="text-align:left;" width="20%"  | Level
+! width="20%"  | Agent
+! width="20%"  | Secret Agent
+! width="20%"  | 00 Agent
+|-
+| [[Dam]]
+| [https://www.youtube.com/watch?v=9BChZORabks 0:52 (Karl)]
+|
+| [https://www.youtube.com/watch?v=yfrvHO99mks Sub 2:00 (Jimbo)]
+|-
+| [[Facility]]
+| [https://www.youtube.com/watch?v=-ssOL4oScoQ 0:43 (Luke)]
+|
+|
+|-
+| [[Runway]]
+|
+| [https://www.youtube.com/watch?v=qnAs0aw_Buw 0:22 (hotshott)]
+| [https://www.youtube.com/watch?v=Zfyr5khgE-0 0:35 (hotshott)]<br>[https://www.youtube.com/watch?v=-9Qup5W2jog 0:38 (Spec)]
+|-
+| [[Surface 1]]
+| [http://www.youtube.com/watch?v=SDtc2R9cXrU 1:02 (Lockwood)]
+| [https://www.youtube.com/watch?v=4JzWS0h6erE 1:48 (Mirror)]
+| Same as Secret Agent
+|-
+| [[Bunker 1]]
+| [https://www.youtube.com/watch?v=ZV4vnayTpKg 0:17 (Wodahs)]
+|[https://www.youtube.com/watch?v=4m1M2JHF9g4 <0:25 (JDBlack21)]
+| [http://www.youtube.com/watch?v=GhQIgl7N5AE 1:02 (Goose)]
+|-
+| [[Silo]]
+| [http://www.youtube.com/watch?v=FiFDH8Z7Z5Q 1:01 (Luke)]
+| [https://www.youtube.com/watch?v=ZclQw7MKVV0 1:08 (Goose)]
+|
+|-
+| [[Frigate]]
+|
+|-
+| [[Surface 2]]
+| [https://www.youtube.com/watch?v=yGV_oMjV7L0 0:46 (Wodahs)]<br>[https://www.youtube.com/watch?v=qqM_rUEigbk 0:47 (Luke)]
+| [https://www.youtube.com/watch?v=SqvSdQJ06cA 0:49 (Randy)]
+| [https://www.youtube.com/watch?v=SqvSdQJ06cA 1:2x (Dusky)]
+|-
+| [[Bunker 2]]
+|[https://www.youtube.com/watch?v=TXAVMIzZWkw 0:24 (MW)]
+|
+| [http://www.youtube.com/watch?v=52-oMG4qZuQ 0:55 (Marc)]
+|-
+| [[Statue]]
+| [https://www.youtube.com/watch?v=jsaLRdv9ME8 2:18 (Wodahs)]
+| Same as Agent
+| Same as Agent
+|-
+| [[Archives]]
+| [https://www.youtube.com/watch?v=Do5U2PCEruE 0:16 (Wodahs)]<br>[https://www.youtube.com/watch?v=-fETOXc-YHA 0:16 (Alex)]
+| [https://www.youtube.com/watch?v=3OzoSskVYjw 0:54 (Alex)]
+| Same as SA
+|-
+| [[Streets]]
+| [https://www.youtube.com/watch?v=erVcd4t72hg 1:12 (Ogran)]
+| [https://www.youtube.com/watch?v=K-FmadvtcBs 1:54 (Goose)]
+| [https://www.youtube.com/watch?v=pJE02rTVdp0 1:55 (Wodahs)]
+|-
+| [[Depot]]
+| [https://www.youtube.com/watch?v=pt896yiUpjk 0:23 / 0:24 (Mop)]<br>[http://www.youtube.com/watch?v=bn0ZLp4Tp0Q 0:25 (Goose)]
+| [https://www.youtube.com/watch?v=UiOJVc_olFg 0:40 (Wodahs)]
+|
+|-
+| [[Train]]
+| [http://www.youtube.com/watch?v=m5f31-_UG5I 1:02 (Luke)]
+|
+|
+|-
+| [[Jungle]]
+|[https://www.youtube.com/watch?v=3OrtC39wJa4 0:51 (Swiss)]
+|
+|
+|-
+| [[Control]]
+| [https://www.youtube.com/watch?v=EU4uXQ50sPs 3:56 (Wodahs)]<br>[http://www.youtube.com/watch?v=uhz2PJCUt74 3:57 (Illu)]
+|
+|
+|-
+| [[Caverns]]
+| [https://www.youtube.com/watch?v=-jyveay8pXA 1:01 (Luke)]
+| [https://www.youtube.com/watch?v=opyLr674ozg 1:13 (Luke)]
+| [https://www.youtube.com/watch?v=jZsqWAzZZMI 1:36 (Spec)]
+|-
+| [[Cradle]]
+| [http://www.youtube.com/watch?v=lrn_dlEwrYM 0:34 (OHMSS)]
+| [https://www.youtube.com/watch?v=TSC4Mv_7jew 0:34 (Wodahs)]
+| Same as SA
+|-
+| [[Aztec]]
+| [https://www.youtube.com/watch?v=JjrCK_JZ8N8 1:26 (Wodahs)]
+|
+|
+|-
+| [[Egypt]]
+| [https://www.youtube.com/watch?v=FLvr64cBiF8 0:45 (Wodahs)]
+| Same as Agent
+| Same as Agent
+|}
+
+A complete list of tutorials can be found on the following pages
+
+* [https://www.speedrunwiki.com/Category:GE_Agent_Tutorials Agent Tutorials]
+* [https://www.speedrunwiki.com/Category:GE_Secret_Agent_Tutorials Secret Agent Tutorials]
+* [https://www.speedrunwiki.com/Category:GE_00_Agent_Tutorials 00 Agent Tutorials]
+* [https://www.speedrunwiki.com/Category:GE_LTK_Tutorials LTK Tutorials]
+* [https://www.speedrunwiki.com/Category:GE_DLTK_Tutorials DLTK Tutorials]
+
+A list of all tutorials across all difficulties is also available [https://www.speedrunwiki.com/Category:GE_Tutorials here].
+
+=== Variant leagues ===
+
+After completion of all 20 levels on [[00 Agent]], players unlock a customizable difficulty setting called [[007 Mode]].  This mode has spawned two very popular additional leagues: [[License To Kill|LTK]] and [[Dark License To Kill|DLTK]], which can be considered to be the fourth and fifth difficulty settings.
+
+There is also competition in the [http://www.the-elite.net/GE/turbo/elite.htm Turbo League] where players use only the Turbo Mode cheat.
+
+=== Full runs ===
+
+Single-segment runs of GE are ranked [http://speedrunrecords.com/GoldenEye_007 here].
+
+== See also ==
+
+* [[Speed strafing]]
+* [[Cruise Control]]
+* [[Lookdown]]
+* [[Dot strat]]
+
+== External Links ==
+* [http://rankings.the-elite.net/goldeneye The Goldeneye World Rankings]
+* [http://www.twitch.tv/team/theelite The Elite Playing Goldeneye right now!]
+* [http://come.thengamer.com/CountryElite/elite.htm The Goldeneye Country Elite Rankings]
+* [http://www.angelfire.com/extreme3/megawabs3/elite.htm The Goldeneye French Rankings]
+* [http://www.the-elite.net/GE/WR/ The Goldeneye World Records Page]
+* [http://thengamer.com/GE/ The Goldeneye Videos Page]
+* [http://wrvids.com/GE&PD/Goldeneye%20007/Fastest%20Available%20Vids/ Fastest Available Videos]
+* [http://rankings.the-elite.net/goldeneye/ltk The Goldeneye LTK & DLTK Rankings]
+* [http://www.angelfire.com/vt2/Vulpex/Brooklyn/SpeedRunRankings.html The Goldeneye and Perfect Dark Single Segment Speedrun Page]
+
+[[Category:Games]]
+[[Category:N64 games]]
+[[Category:GoldenEye 007]]
